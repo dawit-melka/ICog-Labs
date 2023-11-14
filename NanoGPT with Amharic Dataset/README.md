@@ -1,6 +1,7 @@
 
 # nanoGPT With Amharic Dataset
 I used two Amharic books named `እንስት አንበሶቹ ይነሣሉ` and `ጽናት`  to train the NanoGPT model.
+![nanoGPT](assets/amharic_data.jpg)
 ## install
 
 ```
