@@ -5,8 +5,8 @@ import time
 import matplotlib.pyplot as plt
 import numpy as np
 
-from questions_and_answers import questions, answers
-from check_sentence_similarity import check_similarity
+from data.questions_and_answers import questions, answers
+from utils.check_sentence_similarity import check_similarity
 
 # nltk.download('punkt')  # Uncomment if not already downloaded
 
@@ -61,7 +61,7 @@ def compute_similarity_scores(query_emb, doc_emb):
 
 def main():
     # Define constants
-    INPUT_FILE_PATH = os.path.join(os.path.dirname(__file__), 'to_kill_a_mocking_bird.txt')
+    INPUT_FILE_PATH = os.path.join(os.path.dirname(__file__), '.\\data\\to_kill_a_mocking_bird.txt')
     MODELS = ['multi-qa-mpnet-base-dot-v1', 'all-mpnet-base-v2', 'multi-qa-distilbert-cos-v1',
               'all-distilroberta-v1', 'all-MiniLM-L12-v2', 'multi-qa-MiniLM-L6-cos-v1', 'msmarco-distilbert-dot-v5']
 
