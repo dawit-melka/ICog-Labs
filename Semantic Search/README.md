@@ -1,5 +1,15 @@
 # Semantic Search with Embedding Models
-## Overview
+![time elapsed](https://github.com/dawit-melka/ICog-Labs/assets/105089130/ffef0eaa-be05-40bb-a575-fb9a6e92c88f){:width="300px"}
+
+![found results](https://github.com/dawit-melka/ICog-Labs/assets/105089130/8b9bee5b-d310-4f41-89b1-6c64528b5935){:width="300px"}
+
+![error comparison](https://github.com/dawit-melka/ICog-Labs/assets/105089130/6cc8cb19-0549-420f-8a2a-e2deaf5155d6){:width="300px"}
+
+![models](https://github.com/dawit-melka/ICog-Labs/assets/105089130/0083d926-f931-420a-b060-997eb8dd2a52){:width="300px"}
+
+
+
+Overview
 This project focuses on conducting a semantic search using various sentence transformer models and evaluating their performance. The primary goal is to compare the models based on time elapsed, total error, model size, and the quality of results.
 
 ## Methodology:
