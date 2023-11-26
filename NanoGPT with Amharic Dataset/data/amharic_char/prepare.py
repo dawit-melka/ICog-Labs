@@ -13,7 +13,7 @@ import numpy as np
 input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')
 
 if not os.path.exists(input_file_path):
-    data_url = 'https://raw.githubusercontent.com/dawit-melka/ICog-Labs/main/NanoGPT%20with%20Amharic%20Dataset/input.txt'
+    data_url = 'https://raw.githubusercontent.com/dawit-melka/ICog-Labs/main/NanoGPT%20with%20Amharic%20Dataset/data/amharic_char/input.txt'
     try:
         response = requests.get(data_url)
         response.raise_for_status()  # Check if the request was successful

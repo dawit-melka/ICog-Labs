@@ -1,0 +1,55 @@
+{'multi-qa-mpnet-base-dot-v1': 
+    {'time elapsed': 28.752342700958252, 
+    'total error': 161, 
+    'total found': 13, 
+    'first results': 4, 
+    'second results': 1, 
+    'third results': 2}, 
+
+'all-mpnet-base-v2': 
+    {'time elapsed': 30.208045721054077, 
+    'total error': 225, 
+    'total found': 7, 
+    'first results': 3, 
+    'second results': 1, 
+    'third results': 0}, 
+
+'multi-qa-distilbert-cos-v1': 
+    {'time elapsed': 15.408163070678711, 
+    'total error': 210, 
+    'total found': 9, 
+    'first results': 2, 
+    'second results': 1, 
+    'third results': 1}, 
+
+'all-distilroberta-v1': 
+    {'time elapsed': 25.02560257911682, 
+    'total error': 247, 
+    'total found': 6, 
+    'first results': 0, 
+    'second results': 2, 
+    'third results': 1}, 
+
+'all-MiniLM-L12-v2': 
+    {'time elapsed': 10.897030353546143, 
+    'total error': 226, 
+    'total found': 8, 
+    'first results': 1, 
+    'second results': 1, 
+    'third results': 0}, 
+    
+'multi-qa-MiniLM-L6-cos-v1': 
+    {'time elapsed': 6.192601203918457, 
+    'total error': 221, 
+    'total found': 8, 
+    'first results': 3, 
+    'second results': 0, 
+    'third results': 0}, 
+    
+'msmarco-distilbert-dot-v5': 
+    {'time elapsed': 15.616029024124146, 
+    'total error': 207, 
+    'total found': 9, 
+    'first results': 1, 
+    'second results': 1, 
+    'third results': 3}}
