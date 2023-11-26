@@ -1,5 +1,4 @@
 # Semantic Search with Embedding Models
-
 ## Overview
 This project focuses on conducting a semantic search using various sentence transformer models and evaluating their performance. The primary goal is to compare the models based on time elapsed, total error, model size, and the quality of results.
 
@@ -66,13 +65,13 @@ The following models, renowned for their outstanding performance in semantic sea
 ![models](https://github.com/dawit-melka/ICog-Labs/assets/105089130/0083d926-f931-420a-b060-997eb8dd2a52)
 
 ### 1. Model Size
-Model size is an important consideration, especially for applications with limited storage capacity. The all-MiniLM-L12-v2 model has a relatively larger size, while the msmarco-distilbert-dot-v5 model is more lightweight.
+Model size is an important consideration, especially for applications with limited storage capacity. The all-mpnet-base-v2 and multi-qa-mpnet-base-dot-v1 models have a relatively larger size, while the all-MiniLM-L6-v2  model is more lightweight.
 
 ### 2. Time Elapsed Comparison
 
 ![time elapsed](https://github.com/dawit-melka/ICog-Labs/assets/105089130/ffef0eaa-be05-40bb-a575-fb9a6e92c88f)
 
-The bar chart illustrates the time elapsed for each sentence transformer model during the semantic search. Notably, the multi-qa-MiniLM-L6-cos-v1 model exhibited the fastest performance, making it a suitable choice for real-time applications. On the other hand, the all-mpnet-base-v2 model, while accurate, had a longer processing time.
+The bar chart illustrates the time elapsed for each sentence transformer model during the semantic search. Notably, the multi-qa-MiniLM-L6-cos-v1 model exhibited the fastest performance, making it a suitable choice for real-time applications. On the other hand, the all-mpnet-base-v2 model had a longer processing time.
 
 ### 3. Total Error Comparison
 
@@ -84,14 +83,14 @@ The bar chart compares the total error for each model, providing insights into t
 
 ![found results](https://github.com/dawit-melka/ICog-Labs/assets/105089130/8b9bee5b-d310-4f41-89b1-6c64528b5935)
 
-The stacked bar chart displays the number of first, second, and third results found by each model, offering a glimpse into the quality of results. Model multi-qa-mpnet-base-dot-v1 consistently performed well in finding the first result, demonstrating its effectiveness in delivering relevant information promptly. 
+The bar chart displays the number of first, second, and third results found by each model, offering a glimpse into the quality of results. Model multi-qa-mpnet-base-dot-v1 consistently performed well in finding the first result, demonstrating its effectiveness in delivering relevant information promptly. 
 
 ## Analysis
 
 Based on the model statistics:
 ```
     - Model Size (MB) Comparison:
-        * Model size is an essential consideration, with the all-MiniLM-L12-v2 model having a larger size, and the msmarco-distilbert-dot-v5 model being more lightweight.
+        * Model size is an essential consideration, with the all-mpnet-base-v2 model having a larger size, and the all-MiniLM-L6-v2 model being more lightweight.
 
     - Time Elapsed:
         * Model multi-qa-MiniLM-L6-cos-v1 demonstrated the fastest performance, making it suitable for real-time applications.
