@@ -1,15 +1,6 @@
 # Semantic Search with Embedding Models
-![time elapsed](https://github.com/dawit-melka/ICog-Labs/assets/105089130/ffef0eaa-be05-40bb-a575-fb9a6e92c88f){:width="300px"}
 
-![found results](https://github.com/dawit-melka/ICog-Labs/assets/105089130/8b9bee5b-d310-4f41-89b1-6c64528b5935){:width="300px"}
-
-![error comparison](https://github.com/dawit-melka/ICog-Labs/assets/105089130/6cc8cb19-0549-420f-8a2a-e2deaf5155d6){:width="300px"}
-
-![models](https://github.com/dawit-melka/ICog-Labs/assets/105089130/0083d926-f931-420a-b060-997eb8dd2a52){:width="300px"}
-
-
-
-Overview
+## Overview
 This project focuses on conducting a semantic search using various sentence transformer models and evaluating their performance. The primary goal is to compare the models based on time elapsed, total error, model size, and the quality of results.
 
 ## Methodology:
@@ -72,34 +63,33 @@ pip install nltk
 ## Model Statistics
 The following models, renowned for their outstanding performance in semantic search, have been carefully selected based on recommendations from the Sentence-BERT (SBERT) library. You can find a detailed list of pretrained models in the [SBERT documentation](https://www.sbert.net/docs/pretrained_models.html#sentence-embedding-models):
 
-![SBERT Models](https://imgur.com/a/ynbe3HA){:width="300px"}
+![models](https://github.com/dawit-melka/ICog-Labs/assets/105089130/0083d926-f931-420a-b060-997eb8dd2a52)
 
 ### 1. Model Size
 Model size is an important consideration, especially for applications with limited storage capacity. The all-MiniLM-L12-v2 model has a relatively larger size, while the msmarco-distilbert-dot-v5 model is more lightweight.
 
 ### 2. Time Elapsed Comparison
 
-![SBERT Models](https://imgur.com/a/9qqpt4m){:width="300px"}
+![time elapsed](https://github.com/dawit-melka/ICog-Labs/assets/105089130/ffef0eaa-be05-40bb-a575-fb9a6e92c88f)
 
 The bar chart illustrates the time elapsed for each sentence transformer model during the semantic search. Notably, the multi-qa-MiniLM-L6-cos-v1 model exhibited the fastest performance, making it a suitable choice for real-time applications. On the other hand, the all-mpnet-base-v2 model, while accurate, had a longer processing time.
 
 ### 3. Total Error Comparison
 
-![SBERT Models](https://imgur.com/a/2on9swf){:width="300px"}
+![error comparison](https://github.com/dawit-melka/ICog-Labs/assets/105089130/6cc8cb19-0549-420f-8a2a-e2deaf5155d6)
 
 The bar chart compares the total error for each model, providing insights into their accuracy. The multi-qa-mpnet-base-dot-v1 model achieved the lowest total error, indicating high precision in retrieving relevant results. However, the all-distilroberta-v1 model showed a higher error rate, suggesting a trade-off between speed and accuracy.
 
 ### 4. Results Comparison
 
-<!-- ![SBERT Models](https://imgur.com/a/ufgNvbj){:width="300px"} -->
-<img width="200" height="450" src="https://imgur.com/a/ufgNvbj">
+![found results](https://github.com/dawit-melka/ICog-Labs/assets/105089130/8b9bee5b-d310-4f41-89b1-6c64528b5935)
 
 The stacked bar chart displays the number of first, second, and third results found by each model, offering a glimpse into the quality of results. Model multi-qa-mpnet-base-dot-v1 consistently performed well in finding the first result, demonstrating its effectiveness in delivering relevant information promptly. 
 
 ## Analysis
 
 Based on the model statistics:
-```markdown
+```
     - Model Size (MB) Comparison:
         * Model size is an essential consideration, with the all-MiniLM-L12-v2 model having a larger size, and the msmarco-distilbert-dot-v5 model being more lightweight.
 
