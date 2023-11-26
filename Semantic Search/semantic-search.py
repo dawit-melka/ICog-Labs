@@ -104,7 +104,7 @@ def main():
             # Sort by decreasing score
             doc_score_pairs = sorted(doc_score_pairs, key=lambda x: x[1], reverse=True)
 
-            # Output passages & scores
+            # Get top-k results
             top_k = 10
             found = False
             for j in range(1, top_k + 1):
