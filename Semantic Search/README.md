@@ -8,7 +8,7 @@ This project revolves around the exploration of semantic search methodologies em
 
 ## Experimental Design:
 
-The experiment was structured using a dataset comprising 21 questions and corresponding answers from "To Kill a Mockingbird." This dataset underwent careful curation to ensure its suitability for robust model evaluation. Fine-tuning adjustments were made to optimize the experimental setup.
+The experiment was structured using a dataset comprising 21 questions and corresponding answers from a book named "To Kill a Mockingbird." This dataset underwent careful curation to ensure its suitability for robust model evaluation. Fine-tuning adjustments were made to optimize the experimental setup.
 
 ## Result Evaluation:
 
