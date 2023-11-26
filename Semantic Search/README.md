@@ -81,7 +81,8 @@ The bar chart compares the total error for each model, providing insights into t
 
 ### 4. Results Comparison
 
-![SBERT Models](https://imgur.com/a/ufgNvbj){:width="300px"}
+<!-- ![SBERT Models](https://imgur.com/a/ufgNvbj){:width="300px"} -->
+<img width="200" height="450" src="https://imgur.com/a/ufgNvbj">
 
 The stacked bar chart displays the number of first, second, and third results found by each model, offering a glimpse into the quality of results. Model multi-qa-mpnet-base-dot-v1 consistently performed well in finding the first result, demonstrating its effectiveness in delivering relevant information promptly. 
 
