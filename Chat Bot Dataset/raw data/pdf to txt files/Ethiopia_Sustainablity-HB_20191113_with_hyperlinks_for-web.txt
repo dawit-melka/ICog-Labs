@@ -1,0 +1,2827 @@
+In partnership with:
+
+VA International
+Trade
+/ Centre Sas mr Eidhmion
+thbrRr KITA bed?
+ International Trade Centre 2019
+The International Trade Centre (ITC) is the joint agency of
+the World Trade Organization and the United Nations.
+Street address:
+Postal address:
+Telephone:
+Fax:
+E-mail:
+Internet:
+ITC
+54-56, rue de Montbrillant
+1202 Geneva, Switzerland
+Palais des Nations
+1211 Geneva 10, Switzerland
++41-22 730 0111
++41-22 733 4439
+itcreg@intracen. org
+http: /maww. intracen. org
+i
+AHH
+a Li
+TIN Le
+ABOUT THE REPORT
+Set within the context of increasing Chinese investment in Africa, this guide for Chinese investors shows how
+to embrace sustainability along their investment journey in Ethiopia.
+The guide contains mandatory requirements and additional sustainability practices for agroprocessing and
+light manufacturing for the country. It shows investors how to benefit from caring for the environment and
+local communities. It also helps them to embed sustainability in all steps of their business operations, thus
+contributing to sustainable development.
+Publisher: International Trade Centre
+Title: Ethiopia: Sustainable investment in agroprocessing and light manufacturing
+Publication date and place: Geneva, November 2012
+Page count: 60
+Language: English
+ITC Document Number: OAP-19-123. E
+Citation: International Trade Centre (2019). Ethiopia: Sustainable investments in agroprocessing and light manufacturing sectors.
+ITC, Geneva.
+For more information, contact: Ingrid Colonna (colonna@intracen. org)
+For more information on the Partnership for Investment and Growth in Africa, see: http: //www. intracen. org/piga/
+ITC encourages the reprinting and translation of its publications to achieve wider dissemination. Short extracts of this paper may
+be freely reproduced, with due acknowledgement of the source. Permission should be requested for more extensive reproduction
+or translation. A copy of the reprinted or translated material should be sent to ITC.
+Digital images on front cover:  Shutterstock
+ International Trade Centre (ITC)
+ITC is the joint agency of the World Trade Organization and the United Nations.
+Foreword
+International Trade Centre
+The Partnership for Investment and Growth in Africa (PIGA) is supporting Ethiopia to
+attract foreign direct investment, with a high potential developmental impact in the
+agroprocessing and light manufacturing sectors, to contribute to job and growth
+creation and spillover benefits for the local economy.
+Foreign investment in these two productive sectors can unlock opportunities to
+increase exports to regional and global markets, and better serve the local market,
+while contributing to the countrys development agenda. To do so, investors need to
+implement more inclusive and sustainable social, environmental and labour practices,
+aligned with the United Nations Sustainable Development Goals.
+With the aim to promote sustainable investment practices in Ethiopia, this handbook
+provides investors guidance on how to comply with legal requirements and presents
+additional practices concerning environmental and social sustainability to be considered
+throughout business operations in the country. It also provides information on the
+business case of sustainable investment.
+The findings stem from extensive research within the country and in China, joining the
+insights of various ministries, investors, and other stakeholders with the trade expertise
+and support of the International Trade Centre. | hope that this investment guide proves
+a useful tool for companies and policymakers in Ethiopia.
+Arancha Gonzalez
+Executive Director
+Ethiopia: Sustainable investment in agroprocessing and light manufacturing
+Ethiopian Investment Commission
+As we work hard to attract foreign direct investment (FDI) to grow our economies,
+how to make these investments socially and environmentally sustainable remains a key
+concern. As a first step, the Ethiopian Investment Commission (EIC) has integrated the
+principle of sustainable and responsible investments into every investment agreement
+that it signs with investors. This is meant to urge investors to comply with the Ethiopian
+Government's social and environmental protection laws and regulations, as well as
+international standards and best practices.
+To do so, investors need to know what the laws, regulations and standards are and
+how to comply with them. Hence, EIC enlisted the support of our long-time and valued
+partner in promoting and attracting foreign investment, the International Trade Centre
+(ITC), through its Partnership for Investment and Growth in Africa (PIGA) project,
+to identify all current laws, regulations and local and international best practices related
+to sustainability.
+There is a special focus on Chinese investment in this handbook. This has to do with
+the fact that Chinese investors represent close to 60% of the FDI inflow to Ethiopia,
+and a large number of potential and existing Chinese investors have expressed interest
+in receiving guidance on the issue of sustainability from the PIGA project and EIC.
+However, we believe all investors, both foreign and local, will benefit from the guidance
+this handbook provides to make their investments sustainable.
+EIC is glad to have collaborated with ITC on this work. ITC has brought a dedicated,
+experienced and highly qualified team of experts on sustainability to work on this
+assignment. This has benefited EIC staff members who have collaborated on this work.
+Furthermore, ITC, as an international organization and an agency of the UN, brings
+wide exposure to international experiences and best practices on sustainable and
+responsible investment.
+The handbook follows a step-by-step approach to walk the investor through social
+and environmental compliance requirements over the typical investment timeline, from
+starting a business, operationalizing and expanding/closing out. It details applicable
+laws in Ethiopia, and provides additional standards and best practices that investors
+may implement voluntarily.
+We are confident that investors will find these guidelines useful to their efforts in making
+socially and environmentally responsible and sustainable investments. EIC management
+and staff will happily and readily respond to investors seeking clarification or additional
+information on any of the content provided herein.
+Abebe Abebayehu
+Commissioner
+Ethiopian Investment Commission (EIC)
+Acknowledgements
+The International Trade Centre (ITC) expresses its gratitude to all parties involved in
+developing this publication. It was produced under the Partnership for Investment
+and Growth in Africa (PIGA), a project implemented by ITC and funded by the United
+Kingdom Department for International Development (DFID). PIGA is implemented in
+cooperation with the China Council for Promotion of International Trade (CCPIT) and the
+China-Africa Development Fund (CADFund), which were both instrumental in gathering
+the data for this guide.
+Andreas Beavor was responsible for data collection and the initial drafting of the
+handbook. Ana Batalhone and Madison Wilcox (ITC) managed and prepared the final
+draft, under the supervision of Joseph Wozniak (ITC). Ana Batalhone coordinated the
+development process. Thanks are due to Veronique Rondeau and Ingrid Colonna (ITC)
+for their leadership and various contributions to the handbooks development and
+revision under the guidance of Xuejun Jiang (ITC). Anders Aeroe, Annegret Brauss,
+Delphine Clement, Joseph Wozniak, Tianyu Mao, Quan Zhao and Wenwen Sheng (all
+ITC) provided valuable comments and feedback. Alicia Rodriguez, Helen Griffin and
+Ha Vu provided administrative support. Natalie Domeisen and Evelyn Seltier (ITC)
+managed the editorial production. Cheryl Rosebush edited the report and Iva Stastny
+Brosig provided graphic and layout services. Serge Adeagbo and Franco lacovino (ITC)
+provided digital printing services.
+ITC would like to express appreciation to the representatives of enterprises and
+institutions who agreed to be interviewed and share their experiences investing in the
+country. They include Hanna Arayaselassie, Hailemichael Tessema, Hilina Getachew
+and Samuel Assefa Bedasso (Ethiopian Investment Commission), Luo Pengcheng
+(Embassy of China in Ethiopia), Fekadu Gebru Senbete (Ministry of Labour and Social
+Affairs), Leake Tesfahune (Environment Protection Commission), Hayat Abdulmalik,
+Nigussie Abebe and Tewodoros Yilma Belachew (Enterprise Partners). Thanks are
+due to Addisu Biazen, Anbessaw Serebe, and Mebrahtom Gebreyesus (Ethiopian
+Investment Commission) for providing feedback to Chapter 2. Special thanks go out
+to Amdework Dilnessaw, Yixin Yu (ITC) for supporting data collection in Ethiopia and
+providing feedback for the handbook.
+About ITC
+Established in 1964, the International Trade Centre (ITC) is the joint agency of the World Trade Organization and
+the United Nations. Its mission is to foster inclusive and sustainable economic development and contribute
+to achieving the United Nations Global Goals for Sustainable Development. ITC is the only development
+agency that is fully dedicated to supporting the internationalization of small and medium-sized enterprises
+(SMEs). It helps SMEs in developing and transition economies become more competitive and connected to
+international markets for trade and investment, thus raising incomes and creating job opportunities, especially
+for women, young people and poor communities. ITC works with policymakers, trade and investment support
+institutions, exporters and other stakeholders in the public and private sectors to enable export success of
+SMEs in developing countries and transition economies.
+http: //www. intracen. org/
+About the Partnership for Investment and Growth in Africa
+The Partnership for Investment and Growth in Africa (PIGA) is part of Invest Africa, a flagship programme of
+the United Kingdom Department for International Development (DFID) facilitating foreign direct investment
+with high development impact into selected African countries.
+Under Invest Africa, PIGA aims to contribute to job creation and sustainable growth in Ethiopia, Kenya,
+Mozambique and Zambia by supporting these countries to attract foreign direct investment, specifically
+Chinese investment, in the agroprocessing and light manufacturing sectors. PIGA is also designed to
+enhance the capacity of these countries for effective investment promotion.
+PIGAis implemented by the International Trade Centre in cooperation with the China Council for the Promotion
+of International Trade (CCPIT) and the China-Africa Development Fund (CADFund).
+http: //www. intracen. org/piga/
+About the Ethiopian Investment Commission
+The Ethiopian Investment Commission (EIC) is an autonomous government institution responsible
+for promoting, coordinating and facilitating private investments in Ethiopia (as defined in the
+Investment Proclamation No.769/2012 and the Council of Ministers Regulation No. 313/2014). At
+the regional level, EIC collaborates with regional investment agencies. In 2017, EIC received the
+United Nations Award for outstanding performance in targeted promotion, facilitation and execution of
+sustainable investment projects. A year later, the agency was awarded the "Best Investment Promotion
+Agency in East Africa by the Annual Investment Meeting AIM.
+Contents
+Foreword: International Trade Centre \
+Foreword: Ethiopian Investment Commission VI
+Acknowledgements Ail
+Acronyms XI
+Executive summary. XII
+CHAPTER 1 = WHY INVEST SUSTAINABLY? 1
+Basic concepts 2
+The three sustainability pillars, 3
+The UN Sustainable Development Goals 4
+Sustainable investment initiatives of Chinese companies OVErSeas...... mmm: 5
+China's vision, 5
+More Chinese companies adopt sustainability practices 5
+A win-win environment for Chinese companies going global 6
+The business case for sustainable investments 6
+Caring for the environment is good for business, 7
+Improving businesses reputation through a responsible approach to workers
+and communities 7
+Local supply chains reduce costs and improve quality, 3
+The value of transparency and anti-corruption policies, 3
+Legal requirements, voluntary standards and corporate social responsibility... 9
+Legal requirements: Legislation and mandatory standards, 9
+Integrating voluntary sustainability standards 9
+Corporate social responsibility activities, 10
+Sustainability requirements and measures in business operations... 11
+Areas of concern for sustainability, 12
+CHAPTER 2 = SUSTAINABILITY REQUIREMENTS IN ETHIOPIA, 15
+General principles 17
+Ethiopia: Legal environmental and labour requirements 18
+Country background, 18
+Environmental regulations and guidelines 18
+Labour laws and workplace provisions 20
+Summary checklist 22
+Government institutions most relevant to sustainable investment 24
+CHAPTER 3 = ADDITIONAL SUSTAINABILITY MEASURES
+Site selection aligned with sustainability.
+Use of resources
+27
+29
+Working conditions
+Investing in local skills and managers
+Building the skills and capacity of local partner companies
+Communications and public relations,
+Corporate social responsibility strategy.
+Advice from local governments
+Engaging with the local business community.
+Closing strategy aligned with sustainability.
+Guidelines, voluntary standards and resources
+Chinese sector-specific guidelines
+Voluntary sustainability standards
+Sustainability resources and networks in sub-Saharan Africa
+30
+32
+33
+34
+35
+37
+38
+39
+41
+APPENDICES
+Appendix I Sustainable Development Goals
+Appendix II The UN Global Compact Principles
+Endnotes
+References
+44
+TABLES
+Table 1.
+Sustainability areas of concern, 12
+FIGURES
+Figure 1.
+Figure 2.
+Figure 3.
+Figure 4.
+Figure 5.
+BOXES
+The three pillars of sustainability. 3
+Legal requirements and additional sustainability considerations
+throughout business operations 11
+Checklist: Ethiopia's environmental and labour requirements for investors 22
+Voluntary measures for sustainable business conduct, 28
+Free e-learning courses by sustainability area, 36
+Box 1: Anticorruption as a complementary sustainability pillar, 3
+Box 2: Sustainability performance and access to finance 7
+Box 3: Chinese Sustainability guidelines developed for Chinese companies working abroad... 35
+Box 4: Courses on cross-cutting sustainability topics 36
+Acronyms
+Unless otherwise specified, all references to dollars ($) are to United States dollars, and all references to tons
+are to metric tons.
+CSR
+EIA
+NGO
+PIGA
+SDG
+UN
+Corporate social responsibility
+Environmental impact assessment
+Non-governmental organization
+Partnership for Investment and Growth in Africa
+Sustainable Development Goal
+United Nations
+Executive summary
+Over the past two decades, China has become Africa's biggest economic partner. More
+than 10,000 Chinese-owned firms operate in Africa, around 90% of which are privately
+owned. In manufacturing, it is estimated that 12% of Africa's industrial production,
+valued at some $500 billion a year, is handled by Chinese firms.
+Many Chinese enterprises have committed to long-term engagement in Africa,
+particularly in the manufacturing and agricultural sectors. This provides significant
+opportunities to support local communities and local economies in their development
+efforts through sustainable investment practices.
+While many companies engage in sustainable business practices, there are lessons
+to be learned and room for improvement. Despite the strong push by the Chinese
+government to encourage responsible business conduct overseas, the increasing
+amount of mandatory standards and voluntary frameworks are unlikely to achieve their
+desired impact without proper dissemination, implementation, uptake and incentives.
+This publication provides guidance to Chinese investors on how to comply with
+environmental and social sustainability requirements and additional sustainability
+practices in Ethiopia. It breaks down the mandatory requirements and voluntary
+guidance and standards relevant to the agroprocessing and light manufacturing sectors
+in the country.
+The Partnership for Investment and Growth in Africa (PIGA) framework aims to increase
+investment-led exports and local development by promoting foreign investments
+and business partnerships in two productive sectors, agroprocessing and light
+manufacturing, in Ethiopia, Kenya, Mozambique and Zambia. Developed under the
+PIGA framework, this handbook also aims to support the implementation of the United
+Nations Sustainable Development Goals.
+How to use this handbook
+Chapter 2 - GET LOCAL
+* Get relevant advice to incorporate in your investment practices.
+* Learn about the existing legal framework in Ethiopia, as well as which environmental
+and labour laws you need to comply with, and where to seek support.
+Chapter 3 - TOOLS FOR SUSTAINABLE BUSINESS IMPACT
++ Benefit from guidance on some additional sustainability practices to
+maximize sustainable investment and operations.
+Why invest sustainably?
+The three pillars of sustainability (social, environmental and economic) are
+interconnected and interdependent, meaning that a company is unlikely to
+achieve long-term economic success without taking into account the social and
+environmental factors related to business operations.
+Businesses have a key role to play in contributing to the delivery of the 17 SDGs,
+which set global priorities and aspirations for 2030 in terms of social, environmental
+and economic development.
+The Chinese Government is increasingly putting pressure on companies to comply
+with environmental and social legislation and to improve reporting on corporate
+social responsibility practices.
+Sustainable business operations not only support the environment and workers but
+also help create strong, long-term business foundations. Implementing measures
+that improve working conditions and relationships with the community and
+government help companies improve efficiency, develop a better workforce, and
+improve their economic performance.
+It is important that investors understand and comply with environmental and
+labour requirements in the country of operations, but there is also a wide range
+of voluntary standards that businesses can adopt to increase sustainability and
+international competitiveness.
+Legal requirements in Ethiopia
+Investors are required to obtain an environmental licence for their proposed
+development, which is granted following the successful production and review of an
+environmental impact assessment (EIA) or Project Report for low risk projects.
+Environmental requirements for the business are determined by the EIA or Project
+Report process.
+Compliance with EIA requirements and all relevant environmental regulations will be
+monitored and businesses are required to submit an environmental audit each year.
+Non-compliance with environmental requirements can result in improvement
+requirements, which if not followed, can result in closure, imprisonment and
+financial penalties.
+Labour laws are determined by a range of legislation and it is important that the
+company understands and complies with relevant legislation.
+Land regulations are also important to consider, particularly in terms of leasing or
+purchasing land, where it is vital to ensure that alternative community or tribal rights
+are considered and respected.
+Understanding additional sustainability practices
+There are many opportunities to incorporate additional sustainable measures and
+approaches into investment and business operations.
+Additional sustainability measures can encompass an array of practices targeting
+different sustainability areas such as community relations, labour rights and
+resource management.
+Voluntary sustainability standards are available for social accountability and
+environmental management and for a wide range of sector and industry-specific
+processes.
+There are networks throughout Africa that can also be a good source of information
+and inspiration.
+CHAPTER 1
+CHAPTER 1  Why invest sustainably?
+KEY MESSAGES
+ Sustainable investment practices require operations that have a minimal negative impact
+and maximum positive impact on the global and local environment, community and economy.
+At a minimum, this requires ensuring that mandatory environmental and social regulations are
+fully addressed and that additional voluntary measures are considered as well.
+ The three pillars of sustainability (social, environmental and economic) are interconnected and
+interdependent, meaning that a company is unlikely to achieve long-term economic success without
+taking into account the social and environmental factors related to business operations.
+= Businesses have a key role to play in contributing to the delivery of the United Nations 17 Sustainable
+Development Goals (SDGs), which set global priorities and aspirations for 2030
+in terms of social, environmental and economic development.
+Basic concepts avoid corruptive practices internally, within their
+supply chains and with government stakeholders.
+Embedding sustainable investment practices By adopting sustainable investment practices,
+into a business means ensuring that mandatory businesses embrace economic, environmental and
+environmental and social regulations are social factors in a balanced way to provide a long-
+fully addressed while additional sustainability term business foundation that is in harmony with
+considerations are implemented from the start the society, local communities and the environment.
+of a business, and carried out through its regular These practices create value that goes beyond
+operations. Moreover, it means that business economic profits, but also includes social benefits and
+operations should be based on principles to reduced environmental impact in the invested country.
+-shuttersteck. com
+The integration of economic, environmental The three sustainability pillars
+and social factors into business and investment
+decisions is the foundation of the concept of Figure 1 represents the three pillars of sustainability
+sustainability. In the business context, sustainability for investment practices, and their sub-areas. These
+refers to the ability of businesses to meet the needs pillars are interconnected and interdependent,
+of the present without compromising the ability meaning that long-term economic success of a
+of future generations to meet their own needs 2 company cannot exist without taking into account
+Sustainability can also relate to the capacity of the social and environmental factors related to
+businesses to create long-term value by addressing pysiness operations. Box 1 also describes anti-
+environmental and social considerations in their corruption as a complementary and important part
+business strategy. of sustainable investment.
+Figure 1 The three pillars of sustainability
+[ XX)
+AAR
+SOCIAL:
+Human and labour rights
+Community relations
+Diversity and
+equal opportuinities
+ENVIRONMENTAL:
+Pollution prevention
+and climate change
+Resource management
+Environmental protection
+ECONOMIC:
+Profit
+Cost saving
+Economic growth
+Social: Proactively managing the positive impact of business operations on people and society.
+Environmental: Balancing the way natural resources are used in business operations to maintain an ecological balance.
+Economic: Businesses should use resources efficiently and responsibly to create long-term value creation and profitability.
+BOX 1: Anti-corruption as a complementary sustainability pillar
+Corruption encompasses different illegal and illicit acts such as bribery, extortion, embezzlement and
+money laundering. No business can be considered sustainable and/or responsible without embedding
+anti-corruption policies in its day-to-day operations. Beyond the three sustainability pillars, companies
+should also take into account their business conduct with employees, supply chains, surrounding
+communities and government officials. Adopting anti-corruption practices, in this regard, is fundamental
+to ensure sustainable investment practices.
+ ht Mstock com
+The UN Sustainable
+Development Goals
+More companies worldwide have been integrating
+sustainable practices into their investment decisions
+and business operations. By doing so, companies
+contribute to the 2030 Agenda for Sustainable
+Development adopted by the United Nations
+General Assembly in 2015. This agenda sets a
+global development framework composed of
+@
+GOODHEALTH
+AND WELL-BEING
+DECENT WORK AND
+ECONOMIC GROWTH
+13 tox
+SUSTAINABLE
+DEVELOPMENT un,
+17 Sustainable Development Goals (SDGs) covering
+the three sustainability pillars discussed above.
+The 2030 Agenda highlights that private business
+activity, investment and innovation are "major
+drivers of productivity, inclusive economic growth
+and job creation, calls on "all businesses to apply
+their creativity and innovation to solve sustainable
+development challenges.
+CLEAN WATER
+AND SANITATION
+17 Rwiecous
+16 PEACE, JUSTICE
+AND STRONG
+INSTITUTIONS
+1
+y,
+DEVELOPMENT
+GOALS
+&
+Sustainable investment initiatives of Chinese companies overseas
+ The Chinese Government endorses the global call for business action in contributing to the 2030
+Agenda, particularly via SDG 17 (partnerships with private actors).
+m= The Chinese Government is increasingly putting pressure on companies to comply with environmental
+and social legislation and to improve reporting on Corporate Social Responsibility (CSR) practices.
+ The national and international context requires companies to take sustainable practices seriously if
+they want to be competitive and retain business.
+= Major risks of non-compliance with sustainability requirements include loss of reputation and/or
+license to operate in certain markets.
+Chinese-owned companies are increasingly
+investing overseas, and sub-Saharan Africa is a
+focus area for investment in agroprocessing and
+light manufacturing. The rapid expansion of Chinese
+investments in Africa has attracted global attention.
+More than 10,000 Chinese-owned firms operate in
+Africa, around 90% of which are privately owned.
+In manufacturing, it is estimated that 12% of Africas
+industrial production, valued at some $500 billion a
+year, is handled by Chinese firms. There is much
+debate and discussion on the impact of Chinese
+investments on the economies and governance of
+African countries, as well as their environmental and
+social conditions. Failure to commit to sustainable
+practices might generate a negative perception
+and threaten the success of Chinese companies in
+emerging markets.
+China's vision
+The Chinese Government explicitly aims for
+outbound Chinese investment to contribute to the
+realisation of the SDGs and the 2030 Agenda.
+For instance, in 2013, the Chinese Government
+launched Guidelines for Environmental Protection in
+Foreign Investment and Cooperation, which provide
+recommendations for companies operating abroad.
+This drive for more socially-responsible investment
+and operations is also reflected in the Belt and Road
+Initiative (BRI). As part of this initiative, China's
+Vision and Actions on Jointly Building Silk Road
+Economic Belt and 21% Century Maritime Silk Road
+paper from 2015 encourages Chinese enterprises
+to participate in sustainable industrial investment
+in BRI countries. It states that BRI will, "support
+localized operation and management of Chinese
+companies to boost the local economy, increase
+local employment, improve local livelihoods, and
+take social responsibilities in protecting local
+biodiversity and eco-environment.
+More Chinese companies adopt
+sustainability practices
+In the domestic Chinese market, sustainability
+factors are becoming the norm, and are starting
+to help define a more successful approach for
+business operations. For example, Chinese
+companies that have chosen to disclose their
+environmental, social and governance (ESG) data
+have been producing higher returns than their
+peers. Chinese companies ranked in the top 10"
+percentile according to their ESG-disclosure score
+gained 33% higher returns than their peers in 2018,
+according to Bloomberg data, outperforming the
+Hang Seng China stock exchange. '?
+Starting from 2020, Chinese listed companies will
+need to disclose the ESG risks associated with their
+operations, following requirements set by the China
+Securities Regulatory Commission, in collaboration
+with China's Ministry of Environmental Protection. TM
+A win-win environment for Chinese
+companies going global
+Creating a win-win business environment in
+alignment with the global development goals
+contributes to long-term, sustainable business
+operations of Chinese companies operating in any
+given country.
+In exchange for great opportunities, going global
+inevitably means facing various challenges. This
+includes a challenging business environment,
+the need to understand and comply with
+national regulations and accessing or training
+an appropriately skilled workforce. " Many of the
+sub-Saharan African countries in which Chinese
+companies invest have significant development
+challenges, with economies constrained by
+limitations, including poor infrastructure, and weak
+education and health sectors. There are also many
+environmental challenges. Fragile ecosystems are
+facing huge pressures from the challenges of a
+changing climate as well as commercial agriculture,
+rapid urbanisation, industrial development and
+population growth.
+This context underpins the need to invest
+sustainably and responsibly in Ethiopia. The country
+has consistently demonstrated how business
+partnerships between China and Africa can be
+mutually beneficial; sustainable investment in the
+country is vital for longer-term success of Chinese-
+owned companies. If investment is focused on
+short-term economic gain, without ensuring that
+local communities and economies can benefit,
+or with disregard to local environmental and
+health issues, companies are likely to suffer from
+a serious backlash. This can result in increased
+operating costs and security risks, legal disputes
+and other challenges. It can also lead to a damaged
+reputation among customers and potential loss of
+business as a result.
+The business case for sustainable investments
+= Sustainable measures not only support the environment and workers but also help create strong, long-
+term business foundations. Implementing measures that improve working conditions and relationships
+with the community and government help companies improve efficiency, develop a better workforce,
+and improve their economic performance.
+ Failing to ensure robust environmental and social measures, including anti-corruption, can result in
+significant backlash and loss of business.
+ Fair remuneration helps to retain staff and reduce costs relating to high turnover and repeated training.
+= Working with local supply chains can reduce costs and improve quality, as well as enhance the local
+economy.
+The financial benefits of sustainable investment
+usually outweigh the costs. Furthermore,
+incorporating sustainability helps business owners
+anticipate and reduce risks before they incur
+monetary or reputational losses. For example,
+investing in workers wellbeing, local communities
+and supply chains enables companies to benefit
+from a loyal and well-trained workforce, which is
+likely to lead to better quality products and higher
+economic returns. Moreover, companies can
+strengthen their business reputation and economic
+foundations by reducing negative environmental
+impacts, implementing more efficient production
+practices, and managing waste to ensure local
+communities can prosper.
+The business case for sustainable investment is
+compelling for the long-term success of businesses
+in African countries. With young populations and
+high growth rates, they are set to grow into some of the
+world's most dynamic markets in the coming decades.
+The key arguments for sustainable investments are
+set out below in terms of the business benefits that
+come from:
+ Operating in an environmentally-responsible
+manner;
+ Operating in a socially-responsible manner;
+m Strengthening local supply chains; and
+ |ncreased transparency and reduced corruption.
+WE] Ethiopia: Sustainable investment in agroprocessing and light manufacturing
+Caring for the environment is
+good for business
+Responsible environmental practices can serve
+to improve the economic bottom-line, strengthen
+business reputation, decrease businesses
+environmental footprint and ensure a healthier local
+ecosystem that benefits and attracts employees.
+In fact, environmental responsibility has become
+a requirement for many companies that export
+their goods to international markets. Buyers are
+increasingly introducing codes of conduct related
+to environmental and social responsibility for their
+suppliers, and requesting them to comply with
+third party certification processes. Responsible
+environmental management can strengthen a
+business reputation with its customers in China,
+Europe, North America, and elsewhere.
+Implementing resource-efficient practices for waste
+management, as well as water and energy use can
+also lead to cost savings by reducing the quantity
+of inputs needed for production while improving
+productivity at the company level. Agriculture in
+particular relies on sustainable practices in order to
+survive. Long-term investments should strive to ensure
+environmental conditions that allow strong crop vields
+can continue into the future. Reducing the possible
+impact of pesticides on valuable insect populations
+and water resources should be a consideration of all
+investors in the agroprocessing sector. In general,
+those companies that invest sustainably have higher
+investor interest, as described in Box 2.
+BOX 2: Sustainability performance
+and access to finance
+Today, the environmental and social impact of
+a project is an important assessment indicator
+in the due diligence conducted by multilateral
+development banks and commercial banks
+prior to making investments. The shift to cleaner
+production and a low-carbon approach in the
+manufacturing and agricultural sectors is also
+increasingly rewarded by stronger investor
+interest. Companies that are socially responsible
+often tend to be more transparent and able
+to provide investors with greater levels of
+information and therefore more confidence.
+Failing to ensure robust environmental measures
+can result in significant backlash and loss of
+business. For example, in 2013, the Government
+of Chad suspended the operations of a Chinese oil
+company based in the country after it was found that
+their operations had resulted in numerous polluted
+waterways and oil spills. Damaging the local
+environment can also lead to discontent from the
+local government and local community that supplies
+labour to the company.
+Improving businesses reputation
+through a responsible approach
+to workers and communities
+While conducting research among Chinese-
+owned companies in each of the PIGA countries,
+it became clear that fair remuneration and labour
+conditions can help retain staff and reduce costs
+relating to high turnover and repeated training.
+There is a strong financial case for firms to invest
+in their workforces with fair wages, and provide
+skills training that boosts career progression and
+employee satisfaction.
+While cheap labour is one of the attractive aspects
+of investing in many African countries, a sustainable
+system must allow workers to benefit from wages that
+enable them to purchase food, pay for lodging and
+buy basic necessities. Estimating a living wage is often
+dependent on the specific country and sector. However,
+it is important for companies to help establish operations
+whereby their employees are able to meet their own
+and their dependents basic needs. This can go beyond
+increasing employees wages and include other services,
+such as providing meals, transportation, housing, and
+education. In addition to increasing the satisfaction and
+productivity of workers, these services can have the
+added value of improving community relations.
+In some factories across sub-Saharan Africa, this
+is still not the case. Poverty does not lead to good
+productivity. There is increasing evidence that
+workers who are paid above average wages will be
+more loyal and productive.
+Beyond national regulations and labour laws, there
+are also many additional sustainability measures
+that businesses can put in place to increase the
+wellbeing of their workers and the sustainable
+development of the communities in which they are
+located. Some of the most important are described
+in Chapter 3 of this handbook.
+ SAUIEIStOCK, Cor:
+Beyond the immediate workforce, it is also
+important to help bring the local community along
+on the journey of investing in their region. Extensive
+consultation with local leaders and proactive and
+positive communication with community leaders
+and media outlets can help to identify and mitigate
+potential problems before they escalate. Moreover,
+investing in the local community can help develop
+a local economy that attracts more businesses
+and consumers, thereby expanding the market
+of the investors company and the wellbeing and
+productivity of local employees.
+It is also important to be sensitive to land tenure
+in African countries. Land is seen as a family's
+most valuable asset. If these issues are not taken
+seriously, conflicts are likely to arise between
+investors and local communities where they
+operate, increasing risks to profitability and
+the long-term success of the business. When
+resettlement of local residents is required, perhaps
+as a result of purchasing a large area of land for
+agriculture or industrial use, it is important to follow
+appropriate national and international standards.
+The International Finance Corporation (IFC)
+Resettlement Performance Standards provide a
+comprehensive framework for these processes.
+Local supply chains reduce
+costs and improve quality
+Companies investing in Ethiopia can also play a
+role in developing local supply chain businesses.
+Vertically-integrated supply chains which are
+geographically concentrated can have many
+benefits in terms of reducing transport costs
+for materials in the supply chain, being able to
+easily discuss and improve synergies between
+manufacturing processes, and developing more of
+a recognized cluster and brand around a certain
+product. Reducing transportation distances has the
+added benefit of reducing the carbon footprint of
+products, which can be advertised as an additional
+selling point to customers, many of whom are
+buying sustainable products at an increasing rate. '
+At the same time, encouraging local suppliers
+to be part of the value chain can provide market
+opportunities for micro, small and medium-sized
+enterprises in the local market, where business
+and employment is often greatly needed and
+appreciated.
+Supporting local innovation and entrepreneurship
+can also lead to higher quality local supply chains,
+particularly over a longer timeframe. Setting
+up local subsidiaries or forming collaborative
+arrangements with local firms can create significant
+benefits for investors in accessing local knowledge
+and understanding the political context, while
+transferring skills and technology to local partners.
+The value of transparency and
+anti-corruption policies
+Corruption is one of the greatest barriers to social
+and economic development in African countries as
+reported by Transparency International. " Bribery
+practices cause negligence in environmental and
+social impact assessment processes as well as
+many other situations where compliance with
+regulations is bypassed. Bribery is, sometimes,
+reported by investors as a necessary part of getting
+anything done. However, participating in corrupt
+practices, even when pressured to do so by local
+government representatives is increasingly risky.
+Many firms investing in Africa have come to realize
+the self-inflicted damage caused by bribery.
+Chinese law has evolved to address key issues
+for addressing breaches of legal requirements by
+Chinese-owned companies overseas. ' Strong
+corporate governance and anti-corruption practice
+is important to minimize such risk. It also helps in
+the due diligence process when seeking further
+investment, and helps to reduce reputational risk.
+Legal requirements, voluntary standards and
+corporate social responsibility
+mA clear distinction can be made between legal requirements, voluntary measures and standards
+and additional corporate social responsibility (CSR) initiatives, all of which contribute to sustainable
+business.
+ [tis important that investors understand and comply with relevant legislation, as summarized in Chapter 2.
+ There is a wide range of voluntary standards that businesses can comply with to increase international
+competitiveness.
+= While business survival is the priority when starting out in a challenging business environment, it is
+important to stress that doing anything beyond the national legislation to improve sustainability and
+responsibility is better than nothing. There are several low-cost, straightforward measures that can
+improve working conditions and sustainable outcomes.
+An important part of implementing sustainable
+business practices is to understand the difference
+between legal requirements, voluntary measures
+and standards, and additional CSR initiatives.
+Legal requirements: Legislation and
+mandatory standards
+National legislation (sometimes referred to as
+hard law) relating to environmental and social
+requirements varies across African countries,
+including in Ethiopia. Recognising them and
+complying with them is the bare minimum that
+businesses must do (more on this in Chapter 2).
+Mandatory standards are required by
+governments and are mandatory for any product or
+service to be legally commercialized in that market.
+These standards can cover product or packaging
+characteristics, or certain processes that need to
+be followed. Examples of these standards are:
+technical regulations; sanitary and phytosanitary
+measures, including health and safety regulations;
+product specifications; labelling requirements;
+quality controls; and rules of origin. They differ
+depending on the product and the country of
+export. Non-compliance with these requirements
+may lead to quarantining or product rejection by
+import countries.
+Ethiopia: Sustainable investment in agroprocessing and light manufacturing [ENN
+Integrating voluntary
+sustainability standards
+Over the last decade, a new generation of voluntary
+sustainability standards (sometimes referred to
+as soft law) has emerged to cover all sectors and
+industries. These include voluntary guidelines,
+initiatives, codes and standards developed by
+international organisations, companies, business
+associations, non-governmental organizations
+(NGOs), governments and multistakeholder
+initiatives. They provide additional guidelines for
+sustainable business practices. Demonstrating
+adherence to these standards is often necessary for
+businesses to operate profitably in global markets.
+The wide range of voluntary standards include the
+following schemes:
+ |nternational governance agreements and
+guidelines such as:
+= The International Labour Organization (ILO)
+Multinational Enterprises (MNE) Declaration
+= The Organisation for Economic Cooperation
+and Development (OECD) Guidelines for
+Multinational Enterprises?
+ The Global Compact, established by the UN? !
+ Guiding Principles on Business and Human
+Rights, established by the UN Human Rights
+Office of the High Commissioner (OHCHR). ? ?
+= |nternational multistakeholder initiatives providing
+standards for the social and environmental
+practices of firms at home and abroad.
+This includes standards developed by the
+International Organization for Standardization
+(ISO), such as the ISO 26000 standard Guidance
+on Social Responsibility launched in 2010.
+= Private voluntary sustainability standards
+providing principles and/or requirements that
+producers, traders, manufacturers, retailers
+or service providers may be asked to meet,
+covering different sustainability metrics.
+ Hundreds of industry association codes are
+in existence, covering major areas of national
+and international commercial activity including
+manufacturing and agriculture.
+= Thousands of company codes with specific
+policies on social and environmental issues,
+particularly among multinational corporations.
+The proliferation of voluntary sustainability standard
+schemes can cause challenges, particularly for
+companies operating in value chains that may be
+compelled to comply with numerous voluntary
+standard schemes that have potentially high costs
+to demonstrate compliance.
+This has led to standard schemes often being
+perceived by Chinese companies as a barrier
+to market entry or a complication that can be
+avoided. Many Chinese companies do not engage
+with these voluntary standard schemes because
+of unfamiliarity with the rules of the game, weak
+networks with relevant organisations, and a lack of
+guidance.
+However, this approach could impede Chinese
+enterprises international competitiveness in a
+market that increasingly demands environmental
+sustainability and social responsibility. ? It is more
+likely that Chinese companies will become a force
+in shaping the next generation of sustainability
+standards in global markets, as a competitive
+edge aligned with China's broader global policies
+on sustainable development. ? Many investors are
+convinced that promoting prudent and sustainable
+business practices, in line with both national
+regulations and voluntary standards, makes
+economic sense in the long term.
+An additional point is that many national
+governments are increasingly using the dynamic
+space of voluntary standards as a testing ground for
+how they could inform mandatory requirements.
+It is therefore better to be aware of and be able to
+comply with a wide range of voluntary social and
+environmental standards, in order to be prepared to
+meet legal requirements as they are introduced.
+A further distinction can be made for additional
+CSR activities. For the purpose of this handbook,
+CSR is defined as activities or initiatives that are
+outside of the core business activities, and include
+initiatives such as improving sustainable access
+to drinking water for local communities, and
+contributing to education or healthcare facilities
+and resources. Additional CSR initiatives can help
+local communities to develop, and support cultural
+events that are vital to engagement, integration and
+mutual understanding between investors and local
+communities.
+Research suggests that a high proportion of
+Chinese enterprises investing overseas are already
+aware of the positive impacts of CSR initiatives. ?
+Interviews carried out with Chinese companies
+to inform this handbook found that many of them
+consider CSR an important part of Chinese culture
+to give something to the communities in which
+they work.
+A company can achieve significant positive
+reputational benefits from implementing CSR
+initiatives. However, it is important that businesses
+do not use CSR as a cover to hide unsustainable
+business operations. It is also important that CSR
+initiatives are based on or compliant with national
+development strategies in the host country.
+Throughout the different processes to set up their
+business, companies are expected to comply with
+legal sustainability requirements established by
+the country, and adopt additional sustainability
+measures to mitigate potential sustainability impacts
+of their business operations. Figure 2 summarizes
+the main legal sustainability requirements and
+additional sustainability considerations that
+companies should adhere to during the three
+key stages of business operations.
+Legal requirements and additional sustainability considerations throughout
+business operations
+LEGAL
+REQUIREMENTS
+ADDITIONAL SUSTAINABILITY
+CONSIDERATIONS
+ Follow environmental
+impact assessment (EIA)
+process to obtain
+environmental license
+Comply with land-use plans
+and land-related laws
+Comply with all other
+environmental legislation
+Comply with labour laws
+Obtain appropriate work
+permits and registrations
+Ensure health and safety
+of workers
+ When doing site selection,
+take into account the
+potential environmental
+impact of transport-related
+emissions, opportunities
+to link to local backward
+and forward supply
+chains, including for food
+and materials
+Consult community
+representatives to
+understand the local
+context and plan
+accordingly
+Join a local business
+association
+requirements set out in
+the EIA
+Carry out environmental
+audits, as required by
+environmental authorities
+Consider providing in-kind
+benefits for employees,
+such as accommodation,
+transport, meals
+Respect cultural
+differences
+Invest in local skills and
+managers
+ Communicate clearly with
+staff and local
+communities to build trust
+Consider additional CSR
+projects for local
+communities
+Consider green and clean
+methods of production
+When exiting a site or
+land use, submit
+decommissioning plan
+to the appropriate
+environmental authority
+Implement approved
+decommissioning works
+to remediate negative
+impacts
+Comply with bankruptcy
+and liquidation laws in
+terms of paying staff and
+suppliers
+Communicate clearly with
+staff and stakeholders on
+process and timing
+Consult with community
+groups that may be
+impacted
+Prepare and implement
+a sustainable closing
+strategy
+Consider carrying out a
+post-investment
+evaluation and feed
+lessons back into
+subsequent projects
+Areas of concern for sustainability
+Table 1 provides an overview of different sustainability areas and sub-areas of concern for investors.
+Every project, sector and national context is unique and should be evaluated as such. Regardless of the
+sector, investors must ensure they properly engage with the local workforce and the environment, and that
+their business conduct is ethical. As such, Table 1 illustrates some examples of issues that merit closer
+investigation by the investor.
+Table 1 Sustainability areas of concern
+Please list any issues
+EXAMPLES OF ISSUES of concern for your
+company
+AREA OF CONCERN | SUB-AREA OF
+CONCERN
+ENVIRONMENTAL
+Pollution Air, emissions and =m Use of old technclogies, vehicles and
+prevention and climate machineries and intensive use of fossil fuels
+climate change  Inefficient resource use in farming and
+mitigation agroprocessing sites.
+= Overuse of pesticide application, fertilisation,
+and slash-and-burn agriculture
+Waste Solid waste:
+(solid and water = No system to record waste produced in
+waste) processing operations.
+= Toxic chemicals and pollutants are released
+directly on surface and ground waters
+= Production facility is not connected to sewage
+network
+Wastewater:
+m |nexistence of system to dispose of and store
+grey water
+m |nexistence of system to recycle wastewater
+Resource Inputs, chemical use ~~  Lack of metres to monitor the consumption of
+management energy, water and other inputs in production
+processes
+= Water, chemical leakages in pipe system
+Fresh water m | ack of systems to identify, monitor and
+resources maintain fresh water resources impacted by
+production
+= Over extraction of groundwater resources
+= Waterlogging and scil salinization due to
+unsustainable agricultural practices
+ |nexistence of water management system
+Energy and minerals ~~  Inadequate facilities to stock fuel
+Absence or poorly insulated systems of energy
+distribution
+Improperly vented appliances
+Ventilation and air leakage
+Inefficient heating systems
+No energy management system in place
+Lack of company interest to adopt renewable
+energy sources (solar, wind, biomass, etc. )
+= Reliance on inefficient diesel generators for
+energy supply during power outages or in the
+absence of connection to national grid
+Land and soil m Soil erosion, desertification and/or
+management contamination due to overuse, salinization,
+acidification, or other chemical soil
+contamination
+m | ack of strategies to measure, monitor and
+prevent soil contamination and pollution
+SUB-AREA OF
+AREA OF CONCERN CONCERN
+Environmental Forests
+protection
+Biodiversity
+SOCIAL
+EXAMPLES OF ISSUES
+of concern for your
+Lack of procedures in place to prevent and/or
+remediate deforestation
+Lack of procedures for the regeneration
+of depleted forests and woodlands
+Lack of forest management plan and/or
+a reliable monitoring system
+No systems in place to ensure that timber is
+of legal origin
+Lack of processes to ensure that products are
+not harvested at levels above sustainable yields
+Lack of systems in place to identify, restore and
+rehabilitate natural habitats and/or ecosystems
+Environmental impacts observed as a result of
+production and harvesting operations
+Lack of procedures in place to address land-
+use planning and identification of conservation
+priorities
+Human and labour
+rights
+Health and safety
+Forced labour
+Child labour
+Freedom of
+association/collective
+bargaining
+Ethiopia
+Lack of training on health and safety practices
+for workers
+Lack of monitoring and controlling systems to
+prevent health and safety hazards
+Workers are exposed to hazardous substances
+without any protective equipment
+Inappropriate working space
+Improper handling, labelling and storage of
+hazardous materials
+Lack of evacuation plans in case of
+emergencies
+Workplace violence including physical assault,
+sexual and moral harassment
+Physical threats or applying penalties to
+workers that refuse to work
+Retention of workers passports or other identity
+papers
+Withholding pay (debt bondage) under the
+pretence that workers owe recruitment fees or
+costs of transportation to the company
+Employing children below the legal working age
+in the country. *Note that different minimum
+ages apply to certain types of work (e. g. light
+work, hazardous work)
+Trafficking of children and related exploitation
+as workers
+Workers are not allowed to form and join trade
+unions
+Discrimination against workers that are union
+members or those willing to join a union/
+The employer promotes a particular union or
+workers association, and/or coerces workers to
+join it or leave cne
+The employer does not participate in collective
+bargaining agreements, and/or does not
+adhere to the agreed outcomes
+Workers are not allowed to be represented in
+collective bargaining by a union of their choice
+Inexistence of procedures for the prevention
+and resolution of workplace conflicts or
+grievances
+: Sustainable investment in agroprocessing and light manufacturing
+30 rl ~ -
+AREA OF CONCERN CONCERN EXAMPLES OF ISSUES of concern for your
+Community = | ack of consultation/engagement with local
+relations communities living around the company
+regarding changes or impacts from business
+activities on local resources and communities.
+It includes issues related to land management,
+safety, human rights violations, environmental
+impacts on the nature and community health
+among others.
+m | ack or poor grievance mechanism tc provide
+fair compensation for negative impacts
+of operations on local communities and
+individuals
+Diversity and Discrimination related ~~ Any distinction, exclusion or preferential treatment
+equal opportunities to employment and of workers or candidates to a position based on:
+occupation Gender
+Race or skin colour
+Sex
+Religion
+Political opinion
+Age
+National or social origin, nationality
+Sexual orientation
+HIV/AIDS status
+Disability
+Trade union membership or activities
+Workers with family responsibilities
+Lack of paternity and maternity leave policies
+ANTI-CORRUPTION
+= Influencing government officials through the
+payment of bribes
+m Accepting to pay bribes to government officials
+in order to access services
+m | ack of training for workers and company
+management on anti-corruption practices
+= Retaliation against whistle blowers
+m | ack of mitigation procedures against bribery
+and other types of corruption (e. g. nepotism,
+extortion, patronage, among others)
+CHAPTER 2  Sustainability requirements in Ethiopia
+= |nvestors are required to obtain an environmental license for their proposed development, which is
+granted following the successful production and review of an environmental impact assessment (EIA)
+or Project Report for low risk projects.
+= Environmental requirements for the specific business are determined by the EIA or Project Report
+process.
+= Compliance with EIA requirements and all relevant environmental regulations will be monitored and
+businesses are required to submit an environmental audit each year, depending on the details of the
+national legislation.
+= Non-compliance with environmental requirements can result in improvement requirements, which if not
+followed, can result in closure, imprisonment and financial penalties.
+= | abour laws are determined by a range of legislation and it is important that the company understands
+and complies with relevant legislation.
+ | and regulations are also important to consider, particularly in terms of leasing or purchasing land,
+where it is vital to ensure that alternative community or tribal rights are considered and respected.
+When investing in manufacturing or agroprocessing in Ethiopia, it is very important to comply with the
+national legislation in matters relating to environmental management and working conditions for employees.
+The following section provides an overview of general principles applicable for investors in any country and
+specific legal requirements in Ethiopia.
+ shutterstock. com  shutterstock. com
+ shutterstock. com
+General principles
+= Do not ask favours from influential government
+representatives to shortcut processes. This is
+likely to lead to compliance problems at a later
+stage. Ensure that you speak to the relevant
+government departments and follow their
+guidance and requirements.
+= Do not rely exclusively on companies already
+working in the country for second-hand
+knowledge that may be out of date or inaccurate.
+Make sure you understand what is required from
+relevant government departments.
+ [tis usually necessary to hire the right
+specialist (i. e. individual consultant or firm) to
+undertake a project brief, environmental impact
+assessment (EIA), * environmental audit, or a
+decommissioning plan to ensure an objective
+assessment process. Environmental institutions
+in Ethiopia maintain lists of registered qualified
+professional companies or individual experts who
+can provide these services.
+ Ensure that sufficient time is allocated for the EIA
+process. Engage with the relevant environmental
+agency as soon as you register a business. Six
+to 12 months is a reasonable timeframe for a full
+EIA, including public consultation and review,
+improvements and approval by the appropriate
+environmental authority, at which point an
+environmental license can be granted for the
+proposed investment.
+Comply with land use plans where they have
+been developed on a participatory basis and
+passed into law to guide spatial development
+of a region or urban area.
+Understand if there are differences between
+the Chinese and local method for defining basic
+salary and remuneration packages. Confusion
+in this area could lead to a failure to comply with
+local labour laws.
+= Try to obtain national legislation translated into
+Chinese, as well as useful publications and
+updates on changes to legislation requirements,
+which are often produced by Chinese business
+associations. However, remain aware that these
+can become outdated. Speaking directly to the
+relevant government department is usually best.
+m Specific regulations may be negotiated for the
+operations of a particular business, with a trade
+union body representing your workers, which
+would subsequently be reflected in a legally-
+binding collective bargaining agreement.
+Ethiopia: Legal environmental and labour requirements
+When setting up a business in Ethiopia, during operations or when decommissioning a site due to closure
+or relocation, there is a set of environmental and labour regulations a company must follow. These are
+summarized below, with clear references to relevant legislation.
+Country background
+Ethiopia is striving to become a manufacturing
+hub in Africa and has made progress in attracting
+foreign direct investment. The country has a handful
+of operational industrial parks, which host a range
+of manufacturers from China, Europe and North
+America. According to the Government of Ethiopia,
+over 270 Chinese-owned companies were active in
+Ethiopia during the period 2011 to 2017, mainly in
+the manufacturing sector, generating revenues of
+over $500 million and creating 28,000 local jobs.
+With a total area of about 1.1 million km? of arable
+land, Ethiopia also has tremendous potential for
+agricultural development. For the moment, only
+around 20% of this arable land is being cultivated.
+Language: Ethiopia is a multi-ethnic state with
+more than 80 languages and 200 dialects. Amharic
+is the working language of the federal government,
+but English, Oromiffa and Tigrigna are also widely
+spoken in the government and businesses.
+Ethnic differences and regional politics:
+Ethiopia is a federal system with nine regional
+provinces. These provinces are broadly aligned
+with ethnic divisions. Within and across provincial
+boundaries, there are also many subdivisions.
+This context is important to understand.
+Environmental regulations and
+guidelines
+The following environmental regulations must
+be observed in Ethiopia:
+= Environmental Policy of Ethiopia (1997); %
+ Environmental Impact Assessment
+Proclamation (2002);
+= Environmental Pollution Control
+Proclamation (2002); %
+ Regulation to Provide for the Prevention of
+Industrial Pollution (2008); %
+ Solid Waste Management Proclamation
+(2007).
+Environmental impact
+assessments
+Investors must comply with the following overall
+environmental management requirements as they
+set up, operate and decommission a business.
+1. Obtaining an environmental license for
+a proposed investment
+An investor is not permitted to implement a
+project until: 1) a Project Brief or an environmental
+impact assessment (EIA) has been concluded in
+accordance with Ethiopia's Environment Impact
+Assessment Proclamation; 2) the investor receives
+a decision letter from the Environmental and Social
+Impact Assessment (ESIA) Directorate of the federal
+or regional Environmental Protection Authority (EPA).
+Investors are first required to make contact with
+the Ethiopian Investment Commission (EIC) which
+will advise the investor on the appropriate route
+for obtaining an environmental license. A list of
+proposed projects that require an EIA is included
+in the EIA Proclamation, subject to the discretion
+of the ESIA Directorate. The ESIA Directorate
+takes into account the context and environmental
+sensitivity of the proposed site location and nature
+of proposed operations. Whether or not a proposed
+project requires an ESIA will be determined by a
+robust screening process, to be undertaken by the
+ESIA Directorate, based on information provided by
+the investor.
+For investments that are categorized as low risk,
+it is sufficient to produce a project report setting out
+best practice procedures to minimize environmental
+impact.
+Below are the requirements for projects that require
+an ESIA.
+m Selection of qualified EIA lead experts or firm
+of experts registered by the EPA. The Authority
+maintains a register of accredited experts
+available in federal and regional EPA offices.
+ Based on the agreed terms of reference and
+EIA regulations, the investor will appoint one or
+more independent experts or a firm of experts to
+undertake the EIA.
+ The EIA process includes stakeholder and local
+community consultation. Where local populations
+may require relocation, for particularly large
+projects, appropriate resettlement provisions are
+to be followed, ideally based on IFC standards.
+= On completion of the EIA, a report is submitted to
+the EPA head office, duly signed by the investor
+and the EIA experts involved in assessment
+preparation.
+= The EIA report will then be sent to lead agencies
+for internal review and harmonization on decision
+making.
+ Decision making by the EPA takes a maximum of
+30 days for a project report, and 60 days for EIA
+study reports (from the date of submission to the
+EPA).
+2. Environmental audit to assess compliance
+with requirements
+Any investments that have been approved by the
+EIA process and commissioned for operations are
+required to undertake an environmental audit (EA).
+There is provision for up to two per year in the
+legislation and the first is usually required in the
+first three to six months.
+Below are the requirements relating to an
+environmental audit.
+m Selection of qualified environmental audit (EA)
+lead experts or firm of experts registered by the
+EPA. The EPA maintains a register of experts,
+available in EPA offices in Addis Ababa or
+regional headquarters.
+ Based on an agreed terms of reference and
+EIA/EA regulations, appointed experts or firm of
+experts undertake the environmental audit.
+On completion, an environmental audit report is
+submitted to the appropriate authority (i. e. federal
+or regional office), duly signed by the investor
+and the Environmental Audit experts involved in
+the preparation of the report.
+The report then undergoes internal review
+procedures and harmonization for decision
+making within 30 days from the date of
+submission to the EPA.
+Improvement orders may be served, which can
+oblige an investor to rectify any non-compliance
+with the requirements set out in the original EIA
+or subsequently agreed requirements.
+Failure to comply with improvement orders can
+result in a fine, imprisonment and site closure.
+An environmental audit is required each year
+during operations, following the same process as
+set out above.
+Throughout the period of business operations,
+investors are required to comply with all relevant
+regulations and guidelines listed in the box above.
+. Decommissioning a site
+A decommissioning plan is required as part of
+the initial EIA. As the decommissioning process
+may happen many years later, at the time of
+closure, an updated decommissioning plan must
+be prepared and submitted to the EPA.
+The EPA will then advise the business on
+improvements to the plan, which in turn
+must be implemented by the business. A full
+decommissioning report must be submitted to
+the EPA upon completion of the remediation
+works, detailing evidence of compliance with the
+measures set out in the decommissioning plan.
+(@shuiterstock com
+Labour laws and workplace
+provisions
+The following labour legislation must be
+observed in Ethiopia:
+ | abour Proclamation (2019); %
+m Constitution of the Federal Democratic
+Republic of Ethiopia; *
+m= National Policy on Occupational Health and
+Safety (2019); %
+= Civil Code Proclamation (1960);
+ Social Health Insurance Proclamation
+(2010);
+ Private Organization Employees Pension
+Proclamation (2011);
+ Urban Lands Lease Holding Proclamation
+(2011); %
+ Rural Land Administration and Land Use
+Proclamation (2005). %
+Summary of key labour law
+Many other laws and conditions are specified in
+the legislations above and each investor should
+ensure that they understand and comply with what
+is relevant to their business.
+Minimum wage: There is no national minimum
+wage in Ethiopia as of 2019 but the government
+has established a Wage Board, comprising of
+representative of the government, employees
+and trade unions, and other stakeholders that
+will periodically revise minimum wages based
+on studies which take into account the countrys
+economic development, labour market and other
+considerations.
+Working hours:
+= 8 hours/ day, and 48 hours/ week
+ |f the nature of work so requires, some working
+days can be shortened while in other cases,
+working time can be increased to a maximum
+of 12 hours/ day.
+Overtime:
+= A worker may not be compelled to work overtime
+except in case of accident, force majeure, urgent
+work, or substitution of absent workers assigned
+to work that runs continuously without interruption.
+= Overtime work may not exceed 4 hours in a day
+or 12 hours in a week. the max monthly and
+annual hours were removed from this legislation.
+= Overtime is to be compensated in accordance
+with the categories outlined in the Labour
+Proclamation No. 1156-2019. This requires
+overtime work is paid at 1.75 the daily hourly rate.
+Rest days: Workers are entitled to 24 consecutive
+hours of rest per week. Labour law requires that
+weekly rest day, in principle, should be Sunday for
+all employees. If it is impossible to provide a weekly
+rest day on Sunday, due to the nature of the work,
+the rest day can fall on another day of the week.
+Weekly rest must include a full 24-hour period, from
+6:00 to 6:00 the next day.
+Paid leave: A worker is entitled to 16 days of paid
+annual leave on completion of one year of service
+plus one working day for every 2 years of additional
+service.
+Paid public holidays: Workers are entitled to
+paid public and religious holidays. These holidays
+are: Ethiopian Christmas (7 January); Orthodox
+Epiphany (Timket) (19 January); Victory of Adwa
+(2 March); Ethiopian Good Friday (18 April);
+Ethiopian Easter (20 April); International Labour Day
+(1 May); Patriot's Victory Day (5 May); Downfall of
+the Derg (28 May); Eid al-Fitre (End of Ramadan);
+Ethiopian New Year (11 September); Meskel
+(Discovery of the True Cross) (27 September);
+and Moulid (Birthday of Prophet Muhammad)
+(10 November). Muslim religious holidays are based
+on the lunar calendar.
+Maternity leave: Women employees are entitled to
+fully paid maternity leave of 120 consecutive days
+(30 days antenatal and 90 days postnatal).
+Nursing: There is no provision requiring employers
+to provide breaks or facilities to nursing mothers,
+but investors can consider voluntarily providing
+appropriate conditions.
+Paternity leave: A man employee is entitled to
+three consecutive days of paternity leave with full
+pay. A worker shall be entitled to leave without
+pay for up to five consecutive days in the case of
+exceptional and serious events. However, such
+leave may be granted only twice in a budget year.
+Sick leave: Ethiopia's Labour Proclamation
+provides for paid sick leave for up to six months
+on completion of a probation period if sickness is
+certified by a qualified doctor. During the first month
+of sick leave, employees are entitled to 100% of
+their wages. For the next two months, they are
+entitled to 50% of their wages, and the last three
+months of sick leave are without pay.
+Absence from work/compassionate leave:
+An employee is entitled to up to five consecutive
+days of leave with pay, two times per year for
+exceptional and serious events (see Chapter 2
+of Ethiopia's 2019 Labour Proclamation).
+Medical insurance: All workers are required to be
+a member of a social health insurance scheme as
+explained in Ethiopia's 2010 Social Health Insurance
+Proclamation.
+Work injuries: Work injuries are divided into
+four categories: (i) permanent total incapacity;
+(iy permanent partial incapacity; (iii) temporary
+incapacity; and (iv) fatal injury leading to death of a
+worker. They must be compensated in accordance
+with the relevant legislation (i. e. the 2019 Labour
+Proclamation, and the 2011 Private Organization
+Employees Pension Proclamation).
+Disability rights: Ethiopia is a signatory of
+the Convention on the Rights of Persons with
+Disabilities, and the countrys Labour Proclamation
+establishes that it is prohibited to discriminate
+between employees on the basis of disability.
+Occupational health and safety requirements:
+Employers must ensure compliance with Part 7 of
+The 2019 Labour Proclamation and the National
+Policy on Occupational Health and Safety, which
+provide provisions and standards for securing a
+safe and healthy working environment. lt is the
+responsibility of every employer to ensure the safety,
+health and welfare of all employees at work. It is
+important to develop a safety and health-conscious
+culture in the work place, and encourage reporting
+of injuries and accidents.
+Local content requirements: * There are no local
+content requirements relating to light manufacturing
+or agroprocessing.
+Trade unions: The employer is also obliged to
+deduct union dues from the employee's regular
+wage and transfer the cash into the trade union's
+bank account, if requested by the employee.
+Preventing child labour: It is prohibited to employ
+a person less than 15 years of age. Employers must
+comply with restrictions on overtime and hours of
+work for young workers (between the ages of 15
+and 18) in Article 89 of the Labour Proclamation.
+Labour inspection: The Labour Proclamation
+provides for labour inspection services, which can
+be used for the purpose of planned and follow-up
+inspections, complaint-based, or accident-based
+inspections.
+Penalties for non-compliance of employers:
+There are a variety of penalties set out in the
+legislation for employers who fail to comply with the
+relevant legislation.
+Resolving workplace disputes: Disputes may be
+settled via Ethiopia's Labour Courts or by alternative
+lawful means (see Chapters 2 and 3 of the Labour
+Proclamation).
+Ownership rights to land and other assets on land:
+In Ethiopia all land is owned by the state, but is
+leased to individuals, communities and businesses.
+Even if the government leases land to a company
+for an industrial site or agricultural land, the
+underlying community claims to the land may not
+be aligned. Independent consultation with local
+communities, usually as part of the EIA process is
+therefore vital for sustainable community relations.
+Summary checklist
+Figure 3 provides a checklist of the environmental and social requirements to be considered by potential
+investors in the agroprocessing and light manufacturing sectors in Ethiopia. The different steps included
+in the checklist refer to different categories of procedures that investors need to undertake in order to
+obtain their investment certificate and start running their business.
+Figure 3 Checklist: Ethiopias environmental and labour requirements for investors
+Legend of icons per investment stage:
+No legal labour and No legal labour and Investors need to comply
+environmental requirements environmental requirements with legal labour and
+set at the investment stage. are set at this stage, environmental requirements
+however investors should at this stage.
+take into account certain
+1. Business opportunities for investing in Ethiopia
+No legal labour and environmental requirements are set at this stage for investors considering opening up business in
+Ethiopia. Nonetheless, investors should take into consideration the following aspects:
+= Collect prior information about the labour legal system and environmental regulation in Ethiopia.
+= Understand which sustainability areas will be impacted by the investment and include this analysis in project design.
+= Understand the social, environmental, economic and political context of the invested country. Refer to the Ethiopian
+Investment Commission official website,  Chinese web-portal, I-Guide websiteTM and Investment Guide" for more
+information.
+2. Investment permit and business registration through the Ethiopia Investment Commission
+Ethiopia.
+3. Land acquisition
+QO
+The prevailing land holding system in Ethiopia is lease. As a result, an application for land has to be made to the concerned
+regional land administration office or through the sub-lease of an existing lease. Among the documents to be submitted
+by investors when applying to land, is an environmental impact assessment report or letter, depending on the project's
+environmental risk level.
+Other documents that should be submitted by investors are:
+= An investment permit issued by the Ethiopian Investment Commission or any other mandated governmental
+organization;
+= Afeasibility study/business plan;
+= Asupporting letter from the Ethiopian Investment Commission or other mandated governmental organization.
+After the application is processed and approved, a land lease agreement is signed between the investor and the land
+administration office.
+Lease agreement: Lease agreements can be concluded with an industrial park development corporation, regional/woreda
+land administration office, or a private industrial park developer.
+Relevant legislation: Urban Lands Lease Holding Proclamation (No. 721/2011), Rural Land Administration and Land Use
+Proclamation (No. 456/2005).
+Institutions involved: Documents Authentication and Registration Agency
+4. Construction permit
+Construction permits are issued at various administrative levels, such as district, municipality, or ministry levels, depending
+on the location of the construction.
+Q
+An application for a permit must be made at the urban administration or designated organ at the construction location. The
+application should contain the following:
+= Full name and address of the applicant;
+= |nvestment permit;
+= | ocation of construction;
+= Table showing the total floor area;
+= Planning consent;
+= Architectural, sanitary, soil test, electrical designs and structural analysis report for the planned building.
+5. Issuance of business license
+6. Issuance of environmental impact assessment clearance
+= Relevant legislation for a Project Brief or environmental impact assessment (EIA): Environmental Impact Assessment
+Proclamation
+Institutions involved in the process: Ethiopian Investment Commission (EIC), Environmental and Social Impact Assessment
+(ESIA) of the federal or regional Environmental Protection Authority (EPA)
+7. Issuance of customs duty exemptions
+8. Work permits
+The Ethiopian Investment Commission (EIC) issues work permits to expat employees hired by companies that are in the
+investment project implementation phase. An application accompanied by the following documents should be submitted to
+the Commission:
+Q 
+= Work visa,
+= Authenticated education, experience and competence certificates;
+= Completed and signed application form.
+Relevant legislations: Ministry of Labor and Social Affairs directives on issuance of work permits for expat employees
+(December 23/2011 E. C). %2
+Institutions involved in the process: EIC (Licensing and Registration Department} and the Ministry of Labor and Social
+Affairs.
+9. Business visa
+No legal social and environmental requirements are set at this stage for investors considering opening up business in
+10. Legal considerations after commencement of business operations
+Environment:
+= Environmental audit to assess compliance with requirements established by the EIA
+Relevant legislation: Environmental Impact Assessment Proclamation
+= Decommissioning a site at closure
+Institution involved in the process: Environmental and Social Impact Assessment (ESIA) of the Federal or Regional
+Environmental Protection Authority (EPA)
+Labour:
+= Investors should comply with all relevant legislations mentioned above
+Institution involved in the process: Ministry of Labour and Social Affairs
+hutterstock. com
+Government institutions most relevant to sustainable investment
+The following institutions define and monitor the environmental and labour requirements with which
+investing companies need to comply.
+Ethiopian Investment Commission (EIC):
+The EIC is responsible for investment promotion
+of foreign companies in Ethiopia. It also provides
+services such as: issuing investment permits,
+business licenses and investment licenses for
+construction contracting; issuing commercial
+registration certificates as well as renewals,
+amendments, replacements or cancellations;
+registering technology transfer agreements and
+export-oriented non-equity-based foreign enterprise
+collaborations with domestic investors; providing
+a hand-holding service for investors during the
+acquisition of land and utilities (water, electrical
+power and telecom services); and supporting the
+submission of environmental impact assessment
+studies for investment projects.
+Website (available in Chinese):
+www. investethiopia. gov. et/index. php
+Address: Dembel Center, Bole Road,
+Addis Ababa, Ethiopia
+Phone: +251 11 551 0033
+Email: info@ethio-invest. com
+Industrial Parks Development Corporation
+(IPDC): The IPDC is responsible for providing
+serviced industrial land, pre-built sheds equipped
+with all-encompassing utilities, and infrastructural
+facilities that fit international standards, without
+compromising workers security and environmental
+safety. In collaboration with the Ethiopian
+Investment Commission, Ethiopian Revenue and
+Customs Authority and several other institutions,
+the IPDC provides a comprehensive service
+for investors coming into industrial parks. This
+includes a full account of environmental and social
+regulations with which companies must comply.
+Website: www. ipdc. gov. et/index. php/en/
+Address: Bishangari Building, Comoros Street,
+Opposite to Kenyan Embassy, Addis Ababa,
+Phone: +251-11 661 6986
++251 11 661 6674
++251 91 181 3027
+Email: admin. info@ipdc. gov. et
+Environmental Protection Commission (EPC):
+EPC is responsible for ensuring the realisation of
+the environmental rights, goals, objectives and
+basic principles enshrined in the Constitution, as
+well as the Environment Policy of Ethiopia. This is
+done through coordinating appropriate measures,
+establishing systems, developing programmes
+and mechanisms for the welfare of humans and
+the safety of the environment. EPC is mandated
+to formulate, initiate and coordinate strategies,
+policies, laws and standards, and monitor and
+enforce their implementation. It is also responsible
+for the synergistic implementation and follow-
+up of international and regional environmental
+agreements. The Environmental Protection Authority
+(EPA) is the body under the EPC that is responsible
+for the EIA process and checking the compliance of
+companies with their environmental management
+requirements, via the environmental audit process.
+Website: www. epa. govet
+http: //mefcc. gov. et
+Address: Arat Killo, Behind Tourist Hotel,
+Phone: +251 111 704 214
++251 111 704 251
+Email: info@mefcc. gov. et
+Ministry of Labour and Social Affairs:
+The Ministry's mandate includes maintaining
+employee health and safety in the work place,
+improving working condition and environment,
+and promoting efficient and equitable employment
+services, as well as maintaining developmental
+social welfare of all citizens.
+Website: www. molsa. gov. et
+Address: Kirkos Kifle Ketema, Wereda 8, Kazanchis
+Phone: +251 11 551 7080
++251 11 551 5249
++251 11 551 8396
++251 11 551 5316
++251 11 550 1220
+Email: molsa@molsa. gov. et
+National development strategies
+= Growth and Transformation Plan Il (GTP II)
+m Ethiopian Industrial Development Strategic Plan (2013-2025)
+m Fthiopia's Climate Resilient Green Economy Strategy
+Sector-specific strategies
+m | eather sector strategy
+ Pharmaceutical sector strategy
+ Garment strategy
+Food and beverage sector strategy 
+Horticulture sector strategy
+CHAPTER 3
+Additional sustainability
+measures
+Lo
+ shilitterstock gem
+CHAPTER 3  Additional sustainability measures
+ADDITIONAL SUSTAINABILITY MEASURES
+ Beyond the legal requirements set out in Chapter 2, there are many opportunities to incorporate
+additional sustainable measures and approaches into investment and business operations.
+= Additional sustainability measures can encompass an array of practices targeting different
+sustainability areas such as community relations, labour rights and resource management.
+= Voluntary sustainability standards are available for social accountability and environmental
+management and for a wide range of sector and industry-specific processes.
+ There are business networks and groups throughout Africa that can also be a good source of
+information and inspiration on sustainable investment practices.
+Apart from compliance with national regulations, there are many opportunities for companies to incorporate
+more sustainable approaches into their operations, particularly in light manufacturing and agroprocessing
+businesses.
+This chapter introduces a number of measures that companies can incorporate into their business operations
+in Ethiopia, to help implement a sustainable approach (summarized in Figure 4). Relevant Chinese and
+international voluntary standards are also highlighted at the end of the chapter.
+Figure 4 Additional measures for sustainable business conduct
+ry Co VN
+Pyle] Site selection aligned with Advice from local governments
+sustainability
+ . . .
+Investing in local skills and managers = Closing strategy aligned with
+( ] sustainabiltiy
+=D
+&, Corporate social responsility strategy
+ip
+7 2
+nS Use of resources A Communications and public relations
+A
+=
+os  Building the skills and capacity &= Engaging with the local business
+(== | of local partner companies = 0p community
+@ish Utter stock. com
+Site selection aligned with
+LYS - a1
+LV)
+Investors are encouraged to consider the location
+of their proposed manufacturing or agroprocessing
+site in the context of sustainable development
+factors. These include the following:
+= Connecting to upstream and/or downstream
+local value chains. There may be opportunities
+to maximize the benefits to local businesses,
+farmers or producers of different supplies
+and materials such as food, building and
+raw materials. This can often have significant
+business advantages such as lower costs for
+materials or transport, and improved relations
+between investors and surrounding communities.
+= Taking a proactive approach to addressing
+land-related challenges. Land rights can
+involve complex procedures in many countries.
+Even if companies follow the national laws on
+land compensation, there is still likely to be
+backlash from local communities, if they feel
+unfairly compensated or treated. It is advisable
+for companies to do their own due diligence, and
+speak to local community leaders in addition
+to local and national governments. It is most
+appropriate to consider this in detail at the EIA
+stage.
+Investors have a unique opportunity to develop
+sustainable approaches in the production or
+manufacturing of products. Beyond the legislation
+discussed in Chapter 2, it is possible to implement
+processes that minimize electricity or water use,
+minimize greenhouse gas emissions such as CO,
+or develop circular economy systems that minimize
+wastage. This could include the following:
+= Implementing systems to capture and reuse rain
+water;
+ Having good maintenance systems to prevent
+leakage and water waste;
+= Maximizing the energy efficiency of machinery,
+lighting and buildings;
+ Considering how groundwater supplies may
+be limited, and are shared with the surrounding
+community, as well as practicing the sustainable
+use of water sourced from boreholes.
+= Adopting processing/manufacturing practices
+that avoid waste and reusing inputs, or whenever
+not possible, recycling waste appropriately.
+ Reducing emissions and pollution from
+manufacturing processes and vehicles, and by
+minimizing other activities such as burning waste
+materials.
+= Minimizing the carbon footprint of a business,
+through the measures above, as well as by
+adopting renewable energy sources and
+sourcing food and materials from local suppliers.
+= Minimizing the use of pesticides and fertilizers, as
+some may have negative impacts on surrounding
+water quality and the health of human and animal
+populations.
+m Using biofertilizers if possible, which are
+designed to reduce the harmful impacts of
+fertilizers on the environment while providing
+similar benefits to crops. .
+yy
+ER Working conditions
+Providing workers with better conditions and
+opportunities can lead to benefits such as higher
+levels of productivity, low levels of staff turnover and
+financial savings. Investors can consider developing
+a living wage for employees through an array of
+measures that may include adequate wages,
+housing, food, transportation, education and
+childcare, communication, and health benefits.
+= Providing local transport for workers to and
+from their place of employment can provide
+a safe and efficient additional benefit to workers.
+Workers may often need to walk between home
+and work, so reducing the distance will also
+improve punctuality and energy levels at work.
+It will also improve safety, particularly if workers
+need to travel after dark.
+= Providing meals and areas to eat for workers
+can help boost productivity. As discussed in
+Chapter 1, many workers on low wages struggle
+to buy enough nutritious food. Providing workers
+with good quality food at the workplace can help
+to improve morale and productivity as well as
+fostering longer-term loyalty.
+= Companies should consider investing
+in accommodation and communication
+capacities for workers. Where a business
+wishes to invest for a long duration, a case can
+be made for providing housing for workers,
+which can significantly reduce staff turnover and
+increase productivity. In order to pass supply
+chain audits, accommodation must comply
+with international standards such as the ILO
+standards for worker accommodation.
+It is important to ensure that housing plans fit into
+local spatial development plans, where relevant.
+It can also be beneficial to provide means of
+communication for workers, especially in cases
+where many have travelled far from home to
+work in a factory or industrial zone. Providing
+employees with phone cards or having a
+company phone that can be used by employees
+on a regular basis can help them stay in contact
+with their families.
+= Employers can also play a role in
+improving the safety and security of
+their workers, particularly women. First and
+foremost, employers need to be adamant in
+ensuring that there are no abuses within the
+company structure, paying special attention
+to power differences between managers and
+subordinates. There must be means of reporting
+abuses outside of the management chain, with
+the promise of anonymity so that the subordinate
+does not fear retaliation for reporting.
+Companies can also help ensure security
+by providing dedicated transport and
+accommodation, security surveillance, and basic
+personal alarms for employees.
+Respecting differences, language barriers,
+and cultural differences can improve
+efficiency. In a recent study by McKinsey, 
+culture and trust was rated as the fourth top
+concern of Chinese firms in Africa. For African
+leaders, cultural barriers is rated the second top
+concern when dealing with Chinese investors.
+It is vital to overcome these challenges with
+strong communications and a focus on how staff
+from different backgrounds can most effectively
+work together. Possible solutions include:
+= Ensuring compliance with the legislation
+specific to each country for working hours,
+overtime, paid leave and public holidays;
+ |nvesting in English or local language classes
+for Chinese staff;
+ |nvesting in Chinese language classes for
+local management staff;
+ |ncorporating a number of Chinese and local
+cultural activities and celebrations into the
+annual calendar of the company;
+m Preparing Chinese staff for cultural
+differences, including in work culture and skills
+proficiency.
+Investors should empower women with
+equal access to opportunities and equal pay.
+Women's economic empowerment boosts
+productivity, increases economic diversification
+and income equality, and has trickle down
+benefits to the wider community. As women
+bear a disproportionate amount of the burden for
+childcare, the economic empowerment of women
+has a significant impact on the education levels
+of their children, thereby helping to enhance local
+economic development prospects.
+Provide appropriate risk management and
+facilities for pregnant and lactating women.
+Women who are pregnant, have given birth
+within the past six months or are breastfeeding
+are vulnerable to specific risk and may require
+special considerations beyond the national
+legislation discussed in Chapter 2. The employer
+should take into account any risks identified in
+their workplace and aim to take the necessary
+measures to remove, reduce or control the risk.
+Promote education and child care.
+Employers can support initiatives to promote
+education and child care for workers children.
+For instance, employers can provide direct
+support to establish nursing centres for mothers
+with small children. Beyond this, employers
+can collaborate with local child care services to
+cover day care services for workers children.
+This approach benefits workers with children and
+contributes to create opportunities for women
+in the formal labour market. Without access to
+free or low-cost child care programmes, many
+women with children face barriers to access
+formal work opportunities.
+Promote health care. Even in countries where
+healthcare is universally provided by the state,
+or available at very low costs for workers,
+out-of-pocket payments to cover medications
+and treatments represent a challenge for most
+people. Their inability to cover such treatments
+and access adequate medical healthcare directly
+impacts workers productivity and wellbeing at
+home and in the workplace. Possible solutions
+that employers can adopt to overcome these
+challenges are:
+= Providing direct support to workers to cover
+costs of medical treatment;
+= Providing health insurance to workers and
+their families;
+ Collaborating with local health centres
+and NGOs acting in the region to provide
+medications and treatments at an accessible
+price.
+= Promote womens health. Particularly where
+the majority of the workforce are young women
+and the factory is situated far away from health
+centres. Aim to collaborate with local community
+health centres or with local NGOs to provide
+basic services. Work with such partners to make
+contraceptives and vaccines available at the
+factory.
+Disability inclusion can also generate
+substantial benefits for employers and
+communities. Persons with disabilities are
+often marginalized but can add great value
+to businesses and the economy when given
+the right opportunity. Implement an equal
+opportunities policy and consider a proactive
+approach to employing people with disabilities
+for appropriate roles. Consider how best to
+enhance accessibility to, from and around the
+workplace.
+ok
+0 Investing in local skills and
+Be managers
+Developing local talent and supporting employee
+growth is crucial to build workforce capacities and
+ensure mutually beneficial business growth. These
+practices can ensure that the investing company
+retains positive relations with the local community
+and its workforce and helps develop the local
+economy, which, in turn, will support the investing
+company as well.
+= Provide apprenticeship and training
+initiatives for youth. Develop the skills of young
+people for their inclusion in the job market. This
+enables companies to diversify their workforce,
+while contributing to transferring knowledge from
+experienced workers to trainees.
+= Provide clear career progression. Employers
+can increasing proficiency in skills and
+management expertise with higher salaries and
+increased responsibility.
+= | ocal management staff. It is important to
+ensure that there is a prominent role for local
+management staff members. This will help
+to create a working environment with more
+integration and understanding between Chinese
+and local staff, and can serve as role models for
+more junior local staff.
+= Additional training to develop skills.
+Employers should consider providing and
+covering the costs of additional training to
+staff and managers to help build skills and
+competences. This could include driving lessons
+to obtain a license, language lessons, and
+management training.
+= Additional qualifications. Employers can
+consider helping promising management staff
+the opportunity to achieve additional technical or
+university qualifications, via financial support or
+providing sufficient time off to study.
+=] Building the skills and
+8 8  capacity of local parmer
+Vakm companies
+Foreign investors can play a valuable role in
+developing the skills and technologies of local
+business through different measures such as:
+= Where appropriate, investors should
+consider how partnerships can help to
+transfer skills and technology.
+= |n the case of a joint venture or official
+partnership, consider how a structured
+approach may maximize skills and technology
+transfer to the local partner.
+= Ensure fair payment terms and speedy
+payment for goods or services procured,
+especially from local companies.
+= |n cases where there may be disputes,
+consider alternative dispute resolution
+(ADL), including negotiation, conciliation,
+mediation and arbitration.
+ON Communications and
+public relations
+Positive and proactive engagement with the local
+community in which the investor is operating
+is crucial to establish and maintain strong
+communication channels. Investing companies
+are often perceived to be closed to community
+dialogue, so it is important to counter this
+perception with genuine outreach and a mechanism
+to address concerns.
+= Carry out independent due diligence and
+consultation when preparing to invest in an
+area. Sometimes governments will bypass local
+concerns. Don't be tempted to take what seems
+like the easiest approach. Investigate local
+concerns.
+= Follow the principle of free, prior and
+informed consent (FPIC). % FPIC refers to
+the right of local communities, particularly
+indigenous peoples, to participate in decision
+making about issues affecting them. Disclose the
+economic, social and environmental impacts that
+may or have already resulted from investment
+decisions. Full disclosure to community of plans
+and mitigating measures is advised.
+= Enable and respond to feedback. Develop
+and enable channels for local communities to
+register grievances and establish systems to
+address them appropriately, and ensure that the
+project's implementation and future operations
+consider stakeholder concerns.
+= Manage expectations. Investors often face
+complex and high expectations from local
+communities and NGOs that believe a company
+has endless resources with which to offer
+development benefits. It is very important
+to manage expectations while offering (or
+explaining) tangible benefits that are feasible for
+= Share the positive news, particularly with
+local stakeholders. Publicize activities where
+appropriate so that the impact is known by the
+public and by customers. At the same time,
+do not engage in greenwashing or claiming
+sustainable actions without merit in order to give
+the perception of a socially and environmentally-
+conscious company.
+= Seek interaction with different stakeholders.
+If community relations are a challenge, refer the
+issues to different stakeholders, including local
+or national governments, and seek assistance,
+rather than letting the problem grow. There is a
+risk that companies see everyone as a problem
+rather than seeking appropriate guidance.
+= Stick to what the business license allows.
+Investors should follow their stated intentions,
+for which the environmental license was granted.
+If an approach needs to change, ensure the
+community is aware and understands the
+rationale.
+Corporate social
+ro responsibility strategy
+As discussed in Chapter 1, this handbook defines
+CSR as additional activities that a company can
+choose to implement beyond core business
+operations.
+= Develop a CSR initiative based on what is
+most needed by a community. [dentify key
+national and local development issues and how
+they may match the companys strengths and the
+interests of local communities.
+= Develop partnerships to increase impact.
+Communicate with other investors, companies
+and development partners about infrastructure
+that would strengthen the sector. What win-win
+initiatives could be explored?
+= Monitor and evaluate the impact of CSR
+activities. On a regular basis, monitor the
+implementation of CSR activities in order to
+capture their outcomes and impact on beneficiary
+communities. This enables businesses to
+evaluate their relevance and effectiveness in
+comparison to the initial activity design.
+|
+| I Advice from local
+governments
+Local governments across Africa often have
+dedicated units that are able to provide background
+context or suggestions to investors on more
+sustainable production processes or business
+approaches, within the context of their specific
+region.
+In Ethiopia, for instance, a dedicated sustainability
+unit is likely to be set up within the Ethiopian
+Investment Commission from 2020.
+Factors to be consulted with local institutions include:
+ | ocation selection to maximize sustainable
+outcomes;
+ Sustainable production techniques;
+= Where to source raw materials;
+m Vertically-integrated supply chains  linking to
+value chains;
+ Circular economy opportunities, including with
+other businesses;
+ Resilience to the impacts of climate change
+evident now and likely in the future;
+& | Engaging with the local
+0p business community
+Chinese-owned companies are encouraged to
+look beyond Chinese business associations and
+to engage more with local chambers of commerce
+and business associations.
+Chambers of commerce provide valuable fora to
+share information, meet new contacts and identify
+potential business linkages for example, suppliers
+of raw materials. Interviews carried out with national
+chambers of commerce during the preparation of
+this handbook indicated that they are interested in
+welcoming more Chinese-owned companies as
+members to help support and enrich local and other
+international businesses.
+In Ethiopia, one of the key significant chambers of
+commerce is the Ethiopian Chamber of Commerce
+and Sectoral Association.
+Website: http: //ethiopianchamber. com
+Email: cthchamb@ethionet. ct
+Phone: +251-115514005
+Address: Ethiopian Chamber of Commerce &
+Sectoral Associations Building, 1% Floor,
+Mexico Square, Addis Ababa.
+=#* | Closing strategy aligned
+= with sustainability
+In the event of investors closing their operations
+in Ethiopia, it is important to fully identify the likely
+impacts on staff and stakeholders and to address
+them appropriately. Below are some of the key
+considerations for closing or decommissioning
+a business.
+Follow the necessary enterprise deregistration
+process and ensure that all important assets and
+documentation are protected.
+Communicate effectively with employees, trade
+unions and stakeholders so that the reasons
+for closure, the process and timeframe are fully
+understood. This will help avoid employee and
+community dissatisfaction and potential unrest.
+Treat employees according to their rights and
+best interests, and properly handle employee
+compensation.
+As set out in Chapter 2, where the exit involves
+plant closure and land use exit, commission
+an accredited specialist to prepare a
+decommissioning plan to be approved by the
+relevant environmental authority. Implement the
+necessary environmental remediation to the
+site as it is being closed down. Comply with the
+relevant environmental legislation relating to
+pollution, biodiversity and land rehabilitation.
+Consult with community groups that may be
+impacted by potential closure and provide
+appropriate compensation if necessary.
+In the case of bankruptcy, ensure that the
+national regulations and requirements are
+understood and complied with, relating to project
+dissolution and bankruptcy filing.
+In the case of selling the business to other
+investors, ensure that labour and environmental
+practices are communicated to the new business
+owner.
+Consider carrying out a post-investment
+evaluation, whereby the causes for project
+success or failure are assessed and lessons
+learned can be captured and fed into subsequent
+projects, helping to improve sustainability and
+the chances of success.
+BOX 3: Chinese sustainability guidelines developed for Chinese companies
+working abroad
+= Guidance for Chinese Textile and Apparel
+Industry on Responsible Overseas
+Investment (2018). Developed by the China
+National Textile and Apparel Council with
+support from the German Corporation for
+International Cooperation. This is also a
+voluntary standard. (CSC9000T: 2018) 
+English version: hitp: /www. asiatex. org/
+Uploads/File/2019/06/06/u5ci88657e4cc. pdf
+Chinese version: hitp: /Awww. asiatex. org/
+Uploads/File/2019/06/06/u5c{8867280dfe. pdf
+= Guidelines for Environmental Protection
+in Foreign Investment and Cooperation,
+2013. Developed by Ministry of Commerce of
+the Peoples Republic of China (MOFCOM)
+and former Ministry for Environmental
+Protection 
+English version: hitp: //english. mofcom. gov. en/
+article/policyrelease/bbb/201303/20130300043226. shtml
+Chinese version: hitp: /Awvww. mofcom. gov. cn/
+article/b/bf/201302/201 30200039930. shim!
+= Community Engagement Handbook for
+Chinese International Contractors, 2018.
+Developed by SynTao, China International
+Contractors Association, The Asia Foundation
+Beijing Representative Office, Tsinghua University
+School of Economics and Management,
+and the Simeng CSR Promotion Centre 
+English version: hitp: /en. syntao. com/syntacEN/
+public/uploads/20190114/05d0f00d ae 7e2a6e001c242
+b2b962a41. pdf
+Chinese version: hitp: //syntac. com/syntac/
+public/uploads/20181029/2e6a7e3035e2273d68e9275
+7ab893foc. pdf
+= Guide on Sustainable Overseas Forests
+Management and Utilization by Chinese
+Enterprises (2009). Developed by
+MOFCOM and the (Chinese) State Forestry
+Administration (SFA) 
+English version: hitp: /Awww. chinafile. com/
+library/reports/Guide-sustainable-overseas-silviculture-
+chinese-enterprises
+There are a number of sector-specific guidelines
+that have been developed for Chinese companies
+working abroad. Some of the most relevant are listed
+in Box 3.
+Investors may consider complying with relevant
+voluntary sustainability standards, which normally
+require annual audits and accreditation by an
+independent body. This can add great value to
+the brand and reputation of a company, as well as
+enhance market access opportunities.
+There are hundreds of voluntary standards tailored to
+specific processes, so it is advised that investors check
+which ones apply to their business. The online platform
+Sustainability Map (www. sustainabilitymap. org)
+developed by ITC provides information on over 250
+voluntary sustainability standards that are active in
+a wide range of countries and sectors. Companies
+can use this free online platform to improve their
+ability to identify, assess and compare voluntary
+standards relevant to their needs.
+Sustainability resources and networks
+in sub-Saharan Africa
+The following sustainability resources offer valuable
+context, information and assistance.
+Green Africa Directory
+www. greenalfricadirectory. org
+Africa Renewal
+https: //mwww. un. org/africarenewal/
+WeSustain Africa
+https: //wesustain. africa/
+Figure 5 Free e-learning courses by sustainability area
+Human Rights & Business
+Learning Tool (English)
+Developed by UN Global Compact
+http: //human-rights-and-business-
+learning-tool. unglobalcompact. org
+Human Rights and Business
+Dilemmas Forum (English)
+https: //hrbdf. org
+Courses on the thematic of
+Decent Work (English)
+Developed by the International
+Training Centre of the International
+Labour Organization (ILO)
+https: //ecampus. itcilo. org
+Courses on the thematic of Child
+Labour (various languages)
+https: //www. ilo. org/ipec/Information
+resources/elearning/lang--en/
+index. htm
+ECONOMIC
+E-learning courses developed
+by ITC:
+Approaching banks for financing
+(English)
+https: //learning. intracen. org/
+course/info. php? id=148
+Introduction to business plans
+course/info. php? id=304
+Considering Export Markets
+course/info. php? id=189
+Introduction to International
+Transport and Logistics
+course/info. php? id=277
+More courses available at:
+ENVIRONMENTAL C
+Resource efficient and Circular
+Production Processes
+(English, French, Spanish)
+Developed by ITC
+To be launched in March 2020
+Enterprises and Climate Change
+(English, French)
+To be launched in December 2019
+Survival and Environment
+(Chinese)
+Developed by Shandong University
+of Science and Technology
+http: //open.163. com/special/cuvocw
+/shengcunyuhuanjing. html
+Environmental protection and
+sustainable development
+Developed by Tsinghua University
+http: //open.163. com/special/
+cuvoew/huanjingbaohu. html
+Ecology and sustainable
+development (Chinese)
+Developed by Huazhong
+Agricultural University
+cuvocw/kechixufazhan. html
+= UNDP Massive Open Online Course
+(MOOC) on the Agenda 2030 for SDGs
+(19 modules covering the 17 SDGs)
+Developed by United Nations Development
+Programme (UNPD)
+https: //open.163. com/undpsdgmocc
+ITC e-learning courses:
+The Role of Standards in Sustainable
+Supply Chains (English)
+https: //learning. intracen. crg/course/info. php? id=205
+Competitiveness Through Enterprise
+Sustainability (English)
+https: //learning. intracen. crg/course/info. php? id=237
+Introduction to Standards and
+https: //learning. intracen. crg/course/info. php? id=206
+Introduction to Corporate Social
+Responsibility (English)
+https: //learning. intracen. crg/course/info. php? id=244
+The SDGs are the set of goals, targets and
+indicators adopted by the UN member states in
+2015 providing a framework for the international
+development agenda and political policies.
+Businesses are also expected to take action
+towards the implementation of the SDGs by:
+indicators set by the SDGs
+realisation of the SDGs.
+1 Bem Goal 1: End poverty in all its forms
+[rey everywhere
+promote sustainable agriculture
+f+" Goal 3: Ensure healthy lives and promote
+A fo well-being for all at all ages
+learning opportunities for all
+empower all women and girls
+Goal 6: Ensure availability and
+sanitation for all
+for alll
+More information about the SDGs:
+aligning their strategies to the goals, targets and
+managing and measuring their contribution to the
+Goal 2: End hunger, achieve food
+security and improved nutrition and
+Goal 4: Ensure inclusive and equitable
+quality education and promote lifelong
+Goal 5: Achieve gender equality and
+sustainable management of water and
+Goal 7: Ensure access to affordable,
+reliable, sustainable and modern energy
+Goal 8: Promote sustained, inclusive and
+sustainable economic growth, full and
+productive employment and decent work
+Goal 9: Build resilient infrastructure,
+promote inclusive and sustainable
+industrialization and foster innovation
+Goal 10: Reduce inequality within and
+among countries
+Goal 11: Make cities and human
+settlements inclusive, safe, resilient and
+sustainable
+Goal 12: Ensure sustainable
+consumption and production patterns
+Goal 13: Take urgent action to combat
+climate change and its impacts
+Goal 14: Conserve and sustainably use
+the oceans, seas and marine resources
+for sustainable development
+Goal 15: Protect, restore and promote
+sustainable use of terrestrial ecosystems,
+sustainably manage forests, combat
+desertification, and halt and reverse land
+degradation and halt biodiversity loss
+Goal 16: Promote peaceful and inclusive
+societies for sustainable development,
+provide access to justice for all and build
+effective, accountable and inclusive
+institutions at all levels
+Goal 17: Strengthen the means of
+implementation and revitalize the global
+partnership for sustainable development
+= Official webpage of the UN SDGs: https: //sustainabledevelopment. un. org/? menu= 1300
+m SDG Compass: The guide for business action on the SDGs (English version):
+https: //sdgcompass. org/wp-content/uploads/2015/12/019104 SDG Compass Guide 2015. pdf
+= SDG Compass: SDGs ( BEE OJH45 E Bix ) BW T5h3ERS (Chinese version):
+https: //sdgcompass. org/wp-content/uploads/2016/06/SDG_Compass Guide Chinese. pdf
+The Ten Principles of the UN Global Compact
+HUMAN RIGHTS
+Principle 1: Businesses should support and respect the protection of
+internationally proclaimed human rights; and
+Principle 2: make sure that they are not complicit in human rights abuses.
+LABOUR
+Principle 3: Businesses should uphold the freedom of association and the
+effective recognition of the right to collective bargaining;
+Principle 4: the elimination of all forms of forced and compulsory labour;
+Principle 5: the effective abolition of child labour; and
+Principle 6: the elimination of discrimination in respect of employment and
+occupation.
+ENVIRONMENT
+Principle 7: Businesses should support a precautionary approach to
+environmental challenges;
+Principle 8: undertake initiatives to promote greater environmental
+responsibility; and
+Principle 9: encourage the development and diffusion of environmentally
+friendly technologies.
+Principle 10: Businesses should work against corruption in all its forms,
+including extortion and bribery.
+Available at:
+https: //www. unglobalcompact. org/what-is-gc/mission/principles
+Food and Agriculture Business Principles
+of the Global Compact
+1. Aim for Food Security, Health and Nutrition
+Businesses should support food and agriculture systems that optimize
+production and minimize waste, to provide nutrition and promote health
+for all people
+2. Be Environmentally Responsible
+Businesses should support sustainable intensification of food systems to
+meet global needs by managing agriculture, livestock, fisheries and forestry
+responsibly. They should protect and enhance the environment
+3. Ensure Economic Viability and Share Value
+Businesses should create, deliver and share value across the entire food and
+agriculture chain from farmers to consumers.
+4. Respect Human Rights, Create Decent Work and Help Communities
+To Thrive
+Businesses should respect the rights of farmers, workers and consumers.
+They should improve livelihoods, promote and provide equal opportunities.
+5. Encourage Good Governance and Accountability
+Businesses should behave legally and responsibly by respecting land and
+natural resource rights, avoiding corruption, being transparent about activities
+and recognising their impacts.
+6. Promote Access and Transfer of Knowledge, Skills and Technology
+Businesses should promote access to information, knowledge and skills for
+more sustainable food and agricultural systems.
+https: /fwww. unglobalcompact org/take-action/action/food
+ENDNOTES
+14
+15
+20
+21
+UN Global Compact; Transparency International. & International Business Leaders (2011).
+Business Against Corruption. A framework for action.
+United Nations (1987). Report of the World Commission on Environment and Development.
+Our Common Future.
+See Appendix 1 for more information on the SDGs.
+UNDP (2017) 2017 Report on the Sustainable Development of Chinese Enterprises Overseas: Supporting
+the Belt and Road Regions to Achieve the 2030 Agenda for Sustainable Development.
+Sun, I, R. , Jayaram, K. , and Kassiri, O. (2017) Dance of the Lions and Dragons: How are Africa and China
+engaging and how will the partnership evolve? McKinsey and Company.
+Guogiang, L. et al (2009) Advancing Sustainable Competitiveness of Chinas Transnational corporations.
+Jointly produced by Development Research Centre of the State Council of the Peoples Republic of China
+and Accountability.
+Ministry of Commerce of the Peoples Republic of China and Ministry of Environmental Protection of the
+Peoples Republic of China (2013). Guidelines for Environmental Protection in Foreign Investment and
+Cooperation. Available from (English version):
+http: //english. mofcom. gov. en/article/palicyrelease/bbb/201303/20130300043226. shtml
+Available from (Chinese version) http: /Avww. mofcom. gov. cn/article/b/bf/201302/20130200039930. shtml
+The Belt and Road Initiative is an infrastructure development and investment initiative to connect Asia with
+Africa. It was launched in 2013 by the Chinese Government with the aim to improve regional integration,
+increase trade and promote economic growth.
+Environmental, Social and Governance (ESG) criteria refers to the set of sustainability factors used to
+measure the impact of potential investments.
+Yeung, K. (2017, September 27). Chinas sustainable firms are starting to outperform. South China
+Morning Post.
+Davies, R, Reineking, B. R. , & Westgate, R. A. (2018, February 6). China Mandates ESG Disclosures for
+Listed Companies and Bond Issuers.
+UNCTAD et. al (2011). Report on promoting standards for responsible investment in value chains. Report
+to the High-Level Development Working Group.
+Guogiang, L. et al. (2009) Advancing Sustainable Competitiveness of Chinas Transnational corporations.
+International Organisation of Employers (n. d. ). The Living Wage.
+IFC (2012). Performance Standard 5, Land Acquisition and Involuntary Resettlement. Available from
+(English version): https: /Aww. ifc. org/wps/wem/connect/75de96d4-ed36-4bdb-8050-400be02bf2d9/
+PS5_English_2012. pdf? MOD=AJPERES&CVID=jqex59b
+Available from (Chinese version) https: //www. ifc. org awps/wem/connect/5da71772-f470-488f-bdd5-
+85d3ae0c3eec/PS5_Chinese_2012. pdf? MOD=AJPERES&CVID=|naibT4
+International Trade Centre (2019). The European Union Market for Sustainable Products. The retail
+perspective on sourcing policies and consumer demand. ITC, Geneva.
+Transparency International (2019). Global Corruption Barometer Africa 2019. Citizen's views and
+experiences of corruption.
+Sun, I. Y. and Tang, X. (2016) Social Responsibility or Development Responsibility - What Is the
+Environmental Impact of Chinese Investments in Africa: What Are Its Drivers, and What Are the Possibilities
+for Action, Cornell International Law Journal: Vol. 49, Iss. 1
+It provides direct guidance to enterprises (multinational and national) on social policy and inclusive,
+responsible and sustainable workplace practices. ILO (2017). Tripartite Declaration of Principles
+concerning Multinational Enterprises and Sccial Policy (MNE Declaration).
+It provides non-binding principles and standards for responsible business conduct. OECD (2011), OECD
+Guidelines for Multinational Enterprises, OECD Publishing.
+It is a principle-based framework for businesses, established by the United Nations, covering 10 principles
+of sustainable business conduct. See Appendix 2 for mare details.
+22
+23
+24
+25
+26
+28
+31
+36
+40
+42
+43
+45
+46
+47
+48
+49
+50
+51
+52
+53
+It provides guidelines for States and companies to prevent, address and remedy human rights abuses
+committed in business operations. OHCHR (2011). Guiding Principles on Business and Human Rights:
+implementing the United Nations Protect, Respect and Remedy Framework.
+Wenban-Smith, M. (2013) Voluntary sustainability standards. Today's landscape of issues & initiatives to
+achieve public policy objectives. Part 1: Issues. UNFSS.
+For example, Nike has around 31% of the global market for athletic footwear. Through its supplier code
+of conduct, in 2008 Nike influenced the conditions of more than 800,000 employees in 700 factories in
+45 countries. UNCTAD et al. (2011) Promoting Standards for Responsible Investment in Value Chains.
+Report to the High-Level Development Working Group.
+and AccountAbility.
+Ibid: Guogiang, L. et al (2009)
+UNCTAD et al. (2011). Promoting Standards for Responsible Investment in Value Chains.
+Kenya China Economic Trade Association (2017). Chinese Enterprises in Kenya Social Responsibility
+Report.
+The examples provided do not capture all potential issues and risks associated with each of the
+sustainability sub-areas of concern.
+ILO (n. d. ). ILO Conventions and Recommendations on child labour.
+ILO (1958). Discrimination (Employment and Occupation) Convention, 1958 (No. 111).
+Note that EIAs are sometimes referred to as Environmental and Social Impact Assessment (ESIA).
+The requirements and contents of the assessment remain the same.
+Ethiopian Investment Authority, 2017
+Environmental Policy of Ethiopia (1997). Available from
+https: /ftheredddesk. org/sites/default files/environment_policy_of ethiopia_1. pdf
+Federal Negarit Gazeta, Year 9, No. 11 (2002, 3 December). Environmental Impact Assessment
+Proclamation No. 2899/2002. Available from http: //extwprlegst. fac. org/docs/pdf/eth44281. pdf
+Federal Negarit Gazeta, Year 9, No.12 (2002, 3 December). Environmental Pollution Control Proclamation
+No. 300/2002. Available from http: //extwprlegst. fac. org/docs/pdf/eth44282 pdf
+Federal Negarit Gazeta, Year 15, No. 14 (2008). Regulation to Provide for the Prevention of Industrial
+Pollution No. 159/2008. Available from http: //extwprlegst. fac. org/docs/pdf/eth165348. pdf
+Federal Negarit Gazeta, Year 13, No. 13 (2007, 12 February). Solid Waste Management Proclamation No.
+5183/2007. Available from http: //extwprlegs. fac. org/docs/pdf/eth95457 pdf
+Federal Negarit Gazette, Year 2019, No. 89 (2019, 5 September). Civil Code Proclamation No. 1156/2019.
+Available from https: //drive. gocgle. com/file/d/1mBnICBhqSVbw1f_Ow2knAWyGz3V_Py38/view.
+Constitution of the Federal Republic of Ethiopia. Available from
+https: /vww. wipo. int/edocs/lexdocsAaws/en/et/et007en. pdf
+Text not available online.
+Negarit Gazeta Extraordinary Issue, Year 19, No. 2 (1960, 5 May). Civil Code Proclamation No. 165/1960.
+Available from http: //ilo. ch/dyn/natlex/natlex4. detail? p_lang=en&p_isn=52399&p_count=994708p_
+classification=01&p_classcount=13011
+Federal Negarit Gazeta, Year 16, No. 50 (2010, 19 August). Social Health Insurance Proclamation No.
+8690/2010. Available from
+https: /ww. ilo. org/dyn/travail /docs/269/Social%20Health%20Insurance%20Proclamation%202010. pdf
+Federal Negarit Gazeta, No. 44 (2005, 15 July). Private Organization Employees Pension Proclamation
+No. 715/2011. Available from
+https: /Avww. ilo. org/dyn/natlex/natlex4. detail ? p_lang=en&p_isn=89585&p_country=ETH&p_count=141
+Federal Negarit Gazeta, Year 18, No. 4 (2011, 28 November). Urban Lands Lease Holding Proclamation
+No. 721/2011. Available from http: //extwprlegs?. fac. org/docs/pdf/eth 169468. pdf
+Federal Negarit Gazeta, Year 11, No. 44 (2005, 15 July). Rural Land Administration and Land Use
+Proclamation No. 456/2005. Available from http: //extwprlegst. fac. org/docs/pdf/eth95459. pdf
+Policies that require companies to source intermediate goods or services from the domestic market.
+Ethiopian Investment Commission website. Available from http: /Aww. investethiopia. gov. et/
+iGuide Ethiopia. An Investment Guide to Ethiopia. Available from
+https: /mww. theiguides. org/public-docs/guides/ethicpia
+EIC (2017). An Investment Guide to Ethiopia. Available from: http : /Avww. intracen. org/uploadedFiles/
+intracenorg/Content/Redesign/Projects/PIGA/EIC%20Investor%20Guide-August%2015_17. pdf
+Ethiopian Calendar
+Growth and Transformation Plan Il (GTP Il) (2015/16-2019/20). Vol. 1: Main text. Available from
+https: /vww. greengrowthknowledge. crg/sites/default/files/downloads/policy-database/E THIOPIA%29%20
+Growth %20and%20Transformation%20Plan%2011%2C%20Vol%201.9%620%20%28201 5%2C16-
+2019%2C20%29 pdf
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+FDRE Ministry of Industry (2013). Ethiopian Industrial Development Strategic Plan (2013-2025). Available
+from https: //www. academia. edu/28903445/Ethiopian_Industrial_Development_Strategic_Plan_2013-
+2025 _FDRE_Ministry_of Industry
+Federal Democratic Republic of Ethiopia (n. d. ). Ethiopias Climate Resilient Green Economy. Green
+economy strategy. Available from https: /Aww. undp. org/content/dam/ethiopia/docs/Ethiopia%20CRGE. pdf
+Enterprise Partners (2017). Leather Sector Strategy. Available from http: //enterprisepartners. org/
+download/the-more-trends-change-the-more-they-stay-the-samesxsw-2017/? wpdmdl=445
+Ministry of Health and Ministry of Industry (2015). National strategy and plan of action for pharmaceutical
+manufacturing development in Ethiopia (2015-2025). Available from https: //www. who. int/phi/publications/
+Ethiopia_strategy local_poduction. pdf
+Enterprise Partners (2017). Garments Sector Strategy. Available from http: //enterprisepartners. org/
+download/the-standard-lorem-ipsum-passage-used-since-the-1500s/? wpdmdl=447
+Enterprise Partners (2017). Horticulture Sector Strategy. Available from http: //enterprisepartners. org/
+download/section-1-10-32-of-de-finibus-bonorum-et-malcrum-written-by-cicero-in-45-be/? wpdmdl= 453
+Sun, |, R. , Jayaram, K. , and Kassiri, O. (2017) Dance of the Lions and Dragons: How are Africa and
+China engaging and how will the partnership evolve? McKinsey and Company.
+International Trade Centre (2018). Partnership for Investment and Growth in Africa (PIGA) Research
+Report: Sustainable Investment Survey  Ethiopia, Kenya, Mozambique, Zambia 2018. ITC, Geneva.
+International Monetary Fund (2018). Pursuing Womens Economic Empowerment https: /Avww. imf. org/en/
+Publications/Policy-Papers/Issues/2018/05/31 /pp0531 18pursuing-womens-economic-empowerment
+This principle follows the definition of FPIC from the United Nations Permanent Forum on Indigenous
+Issues.
+http: //www. asiatex. org/Uploads/File/2019/06/06/u5cf88657e4cc9. pdf
+http: //www. asiatex. org/Uploads/File/2019/06/06/u5cf8867280dfe. pdf
+http: //english. mofcom. gov. cn/article/pclicyrelease/bbb/201303/20130300043226. shtml
+http: //www. mofcom. gov. cn/article/b/bf/201302/20130200039930. shtml
+http: //en. syntao. com/syntacEN/public/uploads/20190114/05d0f00dae7e2a6e001c249020962a4 1 pdf
+http: //syntao. com/syntac/public/uploads/20181029/2e6a7e3035e2273d68292757ab893fbc. pdf
+http: //www. chinafile. com/library/reports/guide-sustainable-overseas-silviculture-chinese-enterprises
+www. sustainabilitymap. org
+GRI, UN Global Compact & WBSCD. (2015). SDG Compass. The guide for business action on SDGs.
+GRI, UN Global Compact & WBSCD. (2015). SDG Compass. (FEE HELR BR ) BU iTEhiETME
+REFERENCES
+China National Textile and Apparel Council (CNTAC) (2018). Guidance for Chinese Textile and Apparel Industry
+on Responsible Overseas Investment. Available from http: /Avww. asiatex. org/en/publications/365. html
+Davies, P, Reineking, B. R. , & Westgate, R. A. (2018, February 6). China Mandates ESG Disclosures for
+Listed Companies and Bond Issuers. Lexology. Available from https: //www. lexology. com/library/detail.
+aspx? g=~61af067d-4fd6-4ad9-91d6-bb01037fb 166
+Guogiang, L. et al. (2009). Advancing Sustainable Competitiveness of Chinas Transnational corporations.
+Jointly produced by Development Research Centre of the State Council of the Peoples Republic of
+China and AccountAbility. Available from https: //www. iisd. crg/pdf/2010/advancing_sustainability corp. pdf
+https: /Aww. ifc. org/wps/woem/connect/75de96d4-ed36-4bdb-8050-400be02bf2d9/PS5_English_2012.
+pdf? MOD=AJPERES&CVID=|qex59b
+ILO (n. d. ). ILO Conventions and Recommendations on child labour. Available from https: /Awvww. ilo. org/ipec/
+facts/ILOconventionsonchildlabour/lang--en/index. htm
+ILO (1958). Discrimination (Employment and Occupation) Convention, 1958 (No. 111). Available from
+https: /vww. ohchr. org/EN/Professionallnterest/Pages/EmploymentAndOccupation. aspx
+ILO (2017). Tripartite Declaration of Principles concerning Multinational Enterprises and Social Policy
+(MNE Declaration). https: /Avww. imf. org/en/Publications/Policy-Papers/Issues/2018/05/31/
+pPP053118pursuing-womens-economic-empo
+International Monetary Fund (2018). Pursuing Womens Economic Empowerment. Available from
+https: /mww. imf. org/en/Publications/Policy-Papers/Issues/2018/05/31/pp0531 18pursuing-womens-
+economic-empowerment
+International Organisation of Employers (n. d. ). The Living Wage. Available from https: /www. ioe-emp. org/
+index. php? elD=dumpFile&t=1&f=111029&tcken=1731a3cbc03db464d53d4541a1b55e110edee2cf
+International Trade Centre. (2018). Partnership for Investment and Growth in Africa (PIGA) Research Report:
+Sustainable Investment Survey  Ethiopia, Kenya, Mozambique, Zambia 2018. Geneva: ITC.
+perspective on sourcing policies and consumer demand. ITC, Geneva. Available from
+http //www. intracen. org/uploadedFiles/intracenorg/Content/Publications/EU%20Market %20for%20
+Sustainable%20Products_Report_E_ WEB pdf
+Kenya China Economic Trade Association (2017). Chinese Enterprises in Kenya Social Responsibility Report.
+Available from http: //ke2 mofcom. gov. cn/17en. pdf
+Ministry of Commerce of the Peoples Republic of China and Ministry of Environmental Protection
+of the Peoples Republic of China (2013). Guidelines for Environmental Protection in Foreign
+Investment and Cooperation. Available from http: //english. mofcom. gov. cn/article/policyrelease/
+bbb/201303/20130300043226. shtml
+OECD. (2011). OECD Guidelines for Multinational Enterprises. OECD Publishing.
+Available from https: //doi. org/10.1787/9789264115415-en
+OHCHR (2011). Guiding Principles on Business and Human Rights: implementing the United Nations
+Protect, Respect and Remedy Framework. Available from https: //www. chchr. org/documents/
+publications/GuidingprinciplesBusinesshr_eN. pdf
+China engaging and how will the partnership evolve? McKinsey & Company. Available from
+https: /mww. mckinsey. com/~/media/McKinsey/Featured%20Insights/Middle%20East%20and%20Africa/
+The%20closest%20loock%20yet%20at%20Chinese%20economic%20engagement%20in%20Africa/
+Dance-of-the-lions-and-dragons. ashx
+Sun, I. Y, , & Tang, X. (2016). Social Responsibility or Development Responsibility - What Is the Environmental
+Impact of Chinese Investments in Africa: What Are Its Drivers, and What Are the Possibilities for Action.
+Cornell International Law Journal, 49(1).
+Syntao et al. (2018). Community Engagement Handbook for Chinese International Contractors. Available
+from (English version) http: //en. syntac. com/syntacEN/public/uploads/20190114/05d0f00dae7e2a6e001c
+249b2b962a41 pdf Available from (Chinese version) http: //syntac. com/syntao/public/uploads/20181029/
+2e6a7e303562273d68e92757ab893fbe. pdf
+Transparency International (2019). Global Corruption Barometer Africa 2019. Citizen's views and experiences
+of corruption. Available from https: //www. transparency. org/ffiles/content/pages/2019_GCB_Africa. pdf
+United Nations (1987). Report of the World Commission on Environment and Development. Our Common
+Future. Available from https: //sustainabledevelopment. un. org/content/documents/5987cur-common-
+future. pdf
+United Nations Global Compact; Transparency International. & International Business Leaders (2011).
+Business Against Corruption. A framework for action. Available from https: //Aww. unglobalcompact. org/
+docs/news_events/8.1/bac_fin. pdf
+UNCTAD et al. (2011). Report on promoting standards for responsible investment in value chains. Report to
+the High-Level Development Working Group. Available from https: //unctad. org/sections/dite_dir/docs/
+diae_G20_CSR_Standards Report_en. pdf
+UNDP (2017). 2017 Report on the Sustainable Development of Chinese Enterprises Overseas: Supporting
+the Belt and Road Regions to Achieve the 2030 Agenda for Sustainable Development. Available from
+https: //www. cn. undp. org/content/china/en/homeflibrary/south-south-cooperation/2017-report-on-the-
+sustainable-development-of-chinese-enterprise. html
+Wenban-Smith, M. (2013). Voluntary sustainability standards. Today's landscape of issues & initiatives to
+achieve public palicy objectives. Part 1: Issues. UNFSS. Available from https: //unfss files. wordpress.
+com/2012/05/unfss-report-initiatives-2_draft_lores. pdf
+Weng, X. and Buckley, L. (2016). Chinese Business in Africa: Perspectives on corporate social responsibility
+and the role of Chinese government pclicies. IED Discussion Paper. Available from
+https: //pubs. iied. org/pdfs/175811IED. pdf
+Yeung, K. (2017, September 27). Chinas sustainable firms are starting to outperform. South China Morning
+Post. Available from https: /Awww. scmp. com/business/money/stock-talk/article/2112942/chinas-
+sustainable-firms-are-starting-cutperform
+CHAPTER 2
+Constitution of the Federal Republic of Ethiopia. Available from https: /www. wipo. int/edocs/lexdocs/laws/en/
+et/et007en. pdf
+Environmental Policy of Ethiopia (1997). Available from https: //theredddesk. crg/sites/defaultfiles/
+environment _policy_of ethiopia_1. pdf
+Enterprise Partners (2017). Garments Sector Strategy. Available from http: //enterprisepartners. org/download/
+the-standard-lorem-ipsum-passage-used-since-the-1500s/? wpdmdl=447
+Enterprise Partners (2017). Leather Sector Strategy. Available from http: //enterprisepartners. org/download/
+the-more-trends-change-the-more-they-stay-the-samesxsw-2017/? wpdmd| = 445
+Ethiopian Investment Commission (EIC) website. Available from http: //www. investethiopia. gov. et/
+intracenorg/Content/Redesign/Projects/PIGA/EIC%20Investor%20Guide-August? %2015_17. pdf
+Federal Democratic Republic of Ethiopia (n. d. ). Ethiopias Climate Resilient Green Economy. Green economy
+strategy. Available from https: //www. undp. org/content/dam/ethiopia/docs/Ethiopia%20CRGE pdf
+Federal Negarit Gazeta, Year 9, No. 11 (2002, 3 December). Environmental Impact Assessment Proclamation
+No. 299/2002. Available from http: //extwprlegs1. fac. org/docs/pdf/eth44281 pdf
+No. 300/2002. Available from http: //extwprlegs1. fac. org/docs/pdf/eth44282 pdf
+No. 715/2011. Available from https: /Aww. ilo. org/dyn/natlex/natlex4. detail ? p_lang=en&p_isn=89585&p
+country=ETH&p_count=141
+Federal Negarit Gazeta, Year 13, No. 13 (2007, 12 February). Sclid Waste Management Proclamation
+No. 5183/2007. Available from http: //extwprlegsi . fac. org/docs/pdf/eth95457 pdf
+Federal Negarit Gazeta, Year 15, No. 14 (2008). Regulation to Provide for the Prevention of Industrial Pollution
+No. 159/2008. Available from http: //extwprlegs?. fac. org/docs/pdf/eth165348. pdf
+Federal Negarit Gazeta, Year 16, No. 50 (2010, 19 August). Social Health Insurance Proclamation
+No. 690/2010. Available from https: /Awww. ilo. org/dyn/travail /docs/269/Social%20Health%20Insurance%20
+Proclamation%202010. pdf
+No. 721/2011. Available from http: //extwprlegs?. fac. org/docs/pdf/eth169468. pdf
+https: //www. greengrowthknowledge. org/sites/default files/downloads/policy-database/E THIOPIA%29%20
+Growth %20and%20 Transformation %20Plan%2011%2C%20Vol %201. %20%20%282015%2C16-
+2019%2C20%29. pdf
+iGuide Ethiopia. An Investment Guide to Ethiopia. Available from https: /www. theiguides. org/public-docs/
+guides/ethiopia
+Ministry of Industry (2013). Ethiopian Industrial Development Strategic Plan (2013-2025). Available from
+https: /Aww. academia. edu/28903445/Ethiopian_Industrial_Development_Strategic_Plan_2013-2025
+FDRE_Ministry_of Industry Ministry of Health and Ministry of Industry (2015). National strategy and plan
+of action for pharmaceutical manufacturing development in Ethiopia (2015-2025). Available from
+https: /Avww. who. int/phi/publications/Ethiopia_strategy_local_poduction. pdf
+Printed by ITC Digital Printing Service.
+Afree pdf is available on ITC's website at:
+www. intracen. org/publications. org
+De International
+PY Cone
+Street address: ITC,
+54-56, rue de Montbrillant,
+Postal address: ITC,
+Palais des Nations,
+Telephone: +41-22 730 0111
+Fax: +4122 733 4439
+E-mail: itcreg@intracen. org
+Internet: www. intracen. org
+Financed by and
+in partnership with:
+NI LA
+ZL
+uKaid
+from the British people

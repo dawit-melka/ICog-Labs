@@ -1,0 +1,3893 @@
+ETHIOPIAN
+INVESTMENT
+REPORT
+
+ETHIOPIAN INVESTMENT COMMISSION
+ Ethiopian Investment Commission
+P. O. Box 2313, Addis Ababa, Ethiopia
+Tel: +251 11 551 0033
+Email: ethioinvest@investethiopia. gov. et
+Website: www. investethiopia. gov. et
+Series no: 2/18
+Published by EIC with the support of the World Bank
+Group's (WBG) - Investment Climate Program
+01
+Contents
+Message from the
+Commissioner
+Acronyms
+01. Introduction
+1.1 Opportunities
+for investment
+1.2 Infrastructure
+and utilities
+12
+24
+03. Insight in to
+Ethiopia's Industrial
+Parks Development
+Program
+3.1 Background:
+Industrial Parks (IP)
+program launch
+and strategic role
+3.2 Progress in IP
+development so far
+3.3 IP regulatory
+framework
+3.4 Hawassa Industrial
+Park - a flagship and
+model project
+a4
+44
+45
+48
+51
+05 Ethiopia: Global
+Recognition for
+Excellence in
+Investment
+Promotion
+02
+04
+02. FDI Trends 33
+2.1 FDI size and
+growth ag
+2.2 Distribution
+by sector 37
+04. The Policy and
+Regulato
+Framework for
+Investment 75
+4.1 Policies and
+regulations 7%
+4.2 General measures
+affecting FDI 78
+4.3 Investment
+administration 84
+06. Key Contacts 91
+Message from the Commissioner
+Ethiopia continues to stride on its rapid economic growth
+performance - sustaining the double digit growth trend
+of the past 14 years with broad contributions from all
+economic sectors. At the same time, foreign investment
+showed continued increase in the past decade - reaching
+a record USD 4.2 billion in 2016/17. This is a great leap
+compared to investment flows that were under half
+a billion USD in 2005/6 and under USD 1.2 billion in
+2010/11 where it has quadrupled in not more than five
+years. The combined reading of these trends shows that
+Ethiopia is on the right path to becoming Africa's prime
+investment destination.
+EIC's role in this regard has been very instrumental; such
+inclusive and remarkable economic outcome is achieved
+among others, due to a number of investment enhancing
+measures - including the development of industrial parks
+in various parts of the country, and as a follow-up two the
+Industrial Parks Proclamation the coming in to force of the
+Industrial Parks Regulation and Directive as well asin recent
+years the adoption of targeted investor recruitment strategies.
+In addition comprehensive investment climate reforms by
+Gok attracted both domestic and foreign entrepreneurs
+to invest in the country. A flagship achievement of the
+past two years has been the successful development of
+Industrial Parks in various parts of the country. We started
+by witnessing a record time completion of Hawassa
+Industrial Park (HIP) that attracted more than eighteen
+globally renowned textile and apparel manufactures as
+well as local enterprises followed by Kombolcha and
+Mekelle Industrial Parks.
+As testimony to such achievement the country received high
+remarks and global recognitions from various international
+development agencies including The United Nations
+Conference on Trade and Development (UNCTAD) and
+the World Bank Group. In November of last year UNCTAD
+awarded Ethiopia its annual award for promoting investment
+in the Sustainable Development Goals (SDGs). Similarly,
+the World Bank Group recognized Ethiopia through its
+Star Reformer Award for its outstanding performance
+on investment policy reform and promotion.
+The enhanced coordination among relevant government
+agencies has been key to the successes recorded in the
+past few years. Among others, coordination among EIC,
+IPDC, Mol, with a guidance from Ethiopian Investment
+Board and the Prime Minister's Office was indispensable
+for the timely and successful development of the HIP, KIP
+& MIP. Expectedly, this remarkable collaborative trend will
+continue in the coming years as well to ensure the timely
+completion of various industrial park development projects
+thatare now under different phases of construction both
+by public and private sector players.
+With all the pieces coming together, Ethiopia's transformation
+agenda is gaining momentum and the country is heading
+to a real economic transformation through diversifying
+its economy and enhancing its FDI portfolio to realize
+its vison of becoming the leading manufacturing hub in
+Africa by 2025.
+AGOA: African Growth and Opportunities Act
+ATA: Agricultural Transformation Agency
+COMESA: Common Market for Eastern and Southern Africa
+CRGE: Climate-Resilient Green Economy
+DFQF: Duty Free Quota Free
+EBA: Everything But Arms
+EIB: Ethiopian Investment Board
+EIC: Ethiopian Investment Commission
+EIPO: Ethiopian Intellectual Property Office
+EIR: Ethiopian Investment Report
+EPA: Environmental Protection Authority
+ET: Ethiopian Airlines
+EU: European Union
+FDI: Foreign Direct Investment
+GDP: Gross Domestic Product
+GERD: Grand Ethiopian Renaissance Dam
+GoE: Government of Ethiopia
+GSP: Generalized System of Preferences
+GTP: Growth and Transformation Plan
+HIP: Hawassa Industrial Park
+ICC: International Chamber of Commerce
+ILO: International Labor Organization
+IMF: International Monetary Fund
+IP: Industrial Park
+IPDC: Industrial Parks Development Corporation
+KIP: Kombolcha Industrial Park
+LDC: Lease Developed Countries
+LLDCs: Land Locked Developing Countries
+MIP: Mekelle Industrial Park
+MOI: Ministry of Industry
+MW: Mega Wats
+SME: Small and Medium Enterprises
+TVET: Technical and Vocational Education and Trainings
+UN: United Nations
+UNCTAD: United Nations Conference on Trade and Development
+USA: United States of America
+WB: World Bank Group
+WIPO: World Intellectual Property Organization
+WTO: World Trade Organization
+SAUDI ARABIA
+SUDAN
+Adwa o
+Aksum, O Adigra
+oGonder
+DJIBOUTI
+Amhara Dese
+Markos
+ Degehabur
+Somali
+oKebri Dehar
+Sa
+ake
+Rudolf
+JGANDA
+Ethiopia at glance
+Official name
+Federal Democratic Republic
+of Ethiopia
+Legislature
+Federal Parliamentary Assembly
+(Upper house - House of Federation,
+Lower house - House of Peoples
+Representative)
+Surface area
+1,133,380 sg. km
+Climatic conditions
+Ethiopian highlands enjoy subtropical,
+temperate and alpine climates with
+average annual temperatures under
+20C. Lowland areas experience tropical,
+arid and semi arid temperatures.
+GDP (2017 estimate) (nominal)
+$76.9 billion
+Current constitution
+August 1995
+Political system
+Federal state with multi-party
+parliamentarian democracy
+Head of state
+President Mulatu Teshome (Dr)
+Head of government
+Prime Minister Abiy Ahmed (PhD)
+Currency
+Birr
+Country code
++251
+Population (2017)
+Appx 100 million
+GDP per capita -PPP (2017)
+$2,070
+Time zone
+GMT +3
+Drives
+On the right
+Life expectancy (2017)
+65
+Altitude
+From 120m bellow see
+level to 4600m
+01 Introduction
+Ethiopia has continued to capture headlines as a top
+economic performer in the world and the countrys continued
+strong economic performance is expected to reach yet
+another milestone in the coming years. As confirmed by
+multiple high-profile reports from the World Bank, IMF
+and UNCTAD Ethiopia is headed to be one of the top
+performing economies in the world in 2017 and 2018.
+The World Bank Global Economic Prospect (2017)
+forecasted that the country grew by 8.3 percentin 2017,
+making it one of the fastest growing economy in the world.
+Similarly, in its World Economic Outlook (2017), the IMF
+indicated that Ethiopia remained to be a star performer
+in the African continent in 2017.
+Similarly Ethiopia has seen a steady growth in FDI flows in
+the last several years and 2017 has been another record
+year for FDI flow into the country. UNCTAD Investment
+Report 2017 shows that Ethiopia has become an investment
+hotspot in Africa and while FDI flows to the rest of the
+continent continued to decline, Ethiopia attracted more
+FDI than ever before in 2016. With a record growth of
+46 percent FDI flow, the country has become one of the
+largest recipients of FDI in the continentand the second
+largest LDC host economy.
+A crucial component of Ethiopia's drive for growth
+and transformation is the development of a vibrant
+manufacturing and industrial base. A key component of
+the countrys economic transformation plan is the vison
+to become the light manufacturing leader in Africa.
+The Government is making significant steps towards
+achieving this vision. Between 2016 and 2017, Ethiopia
+inaugurated the Hawassa Industrial Park- the largest
+specialized Textile and Apparel Park in Africa, Kombolcha
+Industrial Park and Mekelle Industrial parks, while it has
+recently completed the construction of Adama and Dire
+Dawa Industrial Parks. All these industrial parks are at the
+crossroads of well-developed expressway and railway
+connections providing the necessary connectivity. With
+clear national vision, skilled and abundant workforce,
+the most competitive energy cost in the world and
+streamlined one-stop government services, the opportunity
+is immense. Ethiopia sees industrial parks investment
+in strategic locations and sectors as generator of more
+jobs, accelerator of increased and diversified exports,
+earner of foreign currency, means for greater transfer of
+technology and stimulator of socially and environmentally
+responsible urban development. The development of
+industrial parks has been a marked success in attracting
+and facilitating high quality investment.
+The countrys achievements in successfully attracting
+productive foreign directinvestment has been credited by
+key international institutions including the World Bank and
+United Nations Conference on Trade and Development
+(UNCTAD). Government of Ethiopia recently received a
+Star Reformer Award from the World Bank Group for its
+outstanding performance on investment policy reform and
+promotion as well as UNCTAD's Excellence In Promoting
+Investment In The Sustainable Development Goals (SDGs).
+Such recognition from the two leading global development
+organizations is a clear testament that Ethiopia isindeed
+on the right course in realizing its vision of becoming a
+leading manufacturing hub in Africa by 2025.
+In particular, the sustainable features of Ethiopia's
+industrialization agenda, as depicted in the design,
+construction and operation of Industrial Parks were highly
+commended as exemplary for other countries. Ethiopia's
+deliberate policy choice to promote labour-intensive
+industries such as textile and apparel that provide job
+opportunities for youth and create equal opportunities for
+women; its compliance with high social and environmental
+standards on the development and operation of industrial
+parks; its targeted investor recruitment strategy and
+attraction of leading global firms; and its dedicated effort
+in establishing the OSS and other investor-friendly reforms
+all contributed to these recognations.
+Testimonial
+World Bank Global Economic Prospects (June 2017)
+outlined despite a fragile global economy prospects,
+growth in Sub-Saharan Africa is recovering, supported by
+modestly rising commodity prices, strengthening external
+demand, and the end of drought in a number of countries.
+Security threats have subsided in several countries. Several
+factors are preventing a more robust recovery.
+Yet, in contrast to oil and metals prices, some commodity
+prices have plummeted, e. g. cacao, reducing exports and
+fiscal revenues in Cote d'Ivoire, Ghana, and other cocoa
+producers. The droughtin East Africa has also continued
+into 2017, adversely affecting economic activity in Kenya,
+and contributing to famine in Somalia and South Sudan.
+However, the region is expected to have positive outlook.
+Growth in Sub-Saharan Africa is forecast to pick up to 2.6
+percent in 2017 and to 3.2 percent in 2018, predicated
+on moderately rising commodity prices and reforms to
+tackle macroeconomic imbalances. Most importantly
+growth in non-resource intensive countries is anticipated
+to remain solid, supported by infrastructure investment,
+resilient services sectors, and the recovery of agricultural
+production.
+Among SSA economics with positive growth trajectory the
+star performer is Ethiopia. Ethiopia is forecast to expand by
+8.3 percentin 2017, Tanzania by 7.2 percent, Cete d'Ivoire
+by 6.8 percent, and Senegal by 6.7 percent. According to
+the report In non-resource intensive countries, growth
+should remain robust. Large low-income countries in
+Sub-Saharan Africa (e. g. , Ethiopia, Tanzania) will expand
+at a rapid pace, helped by buoyant service sectors,
+infrastructure investment, and a rebound in agriculture?
+WHGS3
+WHGS4
+WHGSUG
+Maize
+Domestic saving and investment
+It is the Government of Ethiopia's (Gok) strategy that
+Ethiopia's economy should grow atan annual growth rate
+of more than 10 percent for no less than two decades
+if the country is to attain the projected middle income
+country status by the year 2025. Meanwhile, Ethiopia's
+gross domestic savings as proportion of GDP has been
+historically quite low. Since it will be difficult to achieve
+such a growth trajectory without mobilizing domestic
+savings, the Gok hasinitiated a series of measures under
+GTP I with a view to raising the rate of private investment
+in GDP from around 17 percent 2013/14 to more than 20
+percent in the coming years.
+World Bank Global Economic Prospects, June 2017
+Sesame
+Wheat
+New York "C"
+Niaeria FOB La...
+India CIF Eur...
+Sudan CIF Eu...
+CME - WAP
+CME -WAP
+} a
+Sep ton
+Sed
+Sep
+Dec
+1116.00
+2400.00
+143.81
+206.35 ysdion
+uuu
+py.
+/ A,
+Ly Ethiopian Commodit change (ECX) tradindloor
+External trade performance
+Ethiopia largely exports agricultural products, coffee,
+pulses and spices, flower, and fruits and vegetables, while
+the share of manufacturing goods - including textile and
+garments as well as leather products has increasingly
+become an important part of its export profile. The country
+is also diversifying its export trade portfolio with rising
+contribution of mining products such as gold; as well as
+new additions such as electricity, whose contribution is
+expected to grow significantly in the next few years and
+is facilitated by massive investment in national production
+capacity and cross-country network grids.
+On the other hand, Ethiopia primarily imports fuel oil and
+manufactured goods from abroad. While both exports and
+imports of goods and services have increased substantially
+during the last five years, the less than $3.2 billion worth
+of exports recorded each year between 2011-2015 falls
+significantly short of the $5-8 billion targets set under
+GTP land Il.
+Ethiopia gross national savings (percent of GDP)
+27.50
+22.50
+17.50
+MN
+NYNACS
+12.50
+7.50
+2.50
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+Figure 1: Source IMF Global Economic Outlook
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+The Operating Environment
+Massive and continued
+infrastructure projects
+in roads, railways,
+power generation make
+Ethiopia a favourable
+destination for
+investment.
+Stability
+and investment in
+security
+Massive
+force
+infrastructure
+Ethiopia ranks as one
+of the top performing
+African countries in
+government stability
+and security
+With appx100 million
+population Ethiopia
+is the second most
+populous country in
+the continent with a
+median age of under
+20
+Large work
+The Ethiopian constitution,
+the supreme law of the land
+provides strict protection
+to private property. The
+countrys investment laws
+provide similar protections
+and guarantees.
+Business and
+investment
+friendly
+environment
+Export
+Competitiveness
+Operating
+Cost: Competitive labour,
+power etc
+Market: AGOA, EBA &
+Bilateral trade preferences.
+Incentives: Very attractive
+export incentives
+1.1 Opportunities for Investment
+Various opportunities for investment exist in many large and rapidly growing sectors that include government priority
+areas such as manufacturing (textile and apparel, agro-processing, leather and leather related products, pharmaceuticals,
+light machineries manufacturing), basic and import substitution (steel, equipment, chemical and pharmaceuticals),
+strategic sectors (energy, ICT and bio-technology) as well as agriculture and service sectors.
+Manufacturing
+Ethiopia provides ample opportunities in the manufacturing
+sector, which is also a key aspect of Ethiopia's second five
+year Growth and Transformation Plan (GTP II}. The plan aims
+to bring significant growth of the manufacturing industry
+so that it plays leading role in job creation, structural shift
+in Ethiopia's export and address trade imbalance. In order
+to achieve the above goals and accelerate growth and
+expansion of the industrial sector a number of implementation
+strategies are devised. These strategies mainly focus on
+the implementation of project and programs which are
+gear towards attracting quality investment, enhancing
+production and productivity, boosting export shares,
+accelerating technological learning and strengthening
+the linkages among industries.
+In addition to the strategic focus it receives from the
+government, the manufacturing sector's comparative
+competitive edge is driven by the availability of large
+workforce, increasing productivity, strategic geographic
+location, opportunities availed in creating backward
+and forward linkages, preferential access to key global
+markets including the US, EU, Japan, China, India and
+other developed and developing countries, as well as the
+government's strong commitment and sense of direction
+to enhance the role and contribution of foreign investment
+in the countrys industrial development strategy.
+o Ethiopia offers a remarkable competitive advantage
+for manufacturing industries due to government
+facilitation of efficiency-enhancing investment
+solutions including:
+* Industrial parks that are ready for plug and
+play
+* Large pool of trainable work force available at
+competitive wages;
+* Competitive energy rate on a global standard;
+* Geographic proximity and preferential access
+to key markets; and
+* Abundance of high-quality industrial raw
+materials;
+ Priority areas for investment:
+* Light manufacturing (textile and apparel,
+leather, agro-industry, electronics )
+* Basic and import substitution as well as
+export (steel, equipment, chemical and
+pharmaceutical)
+* Strategic (energy, ICT and bio-technology)
+Agro-processing
+Overview of the sector
+The agricultural sector has the lion's share in Ethiopia's
+economy, with more than 80% of the population
+working in agribusiness and related industries
+and 46% of the national GDP stemming from the
+agricultural sector. The agro-processing sector is also
+Ethiopias leading contributor in terms of production
+value-added and employment.
+Hence the agro-processing industry can not only take
+advantage of over 100 million populations domestic
+market, its large size can also offer competitive
+advantages in exporting to both the African as well
+as the global market.
+Government policies and strategies
+Strategic priority of GoE for FDI attraction and export
+promotion
+Strategic government intervention to boost the sector
+Export and employment rate sharply increasing
+Development of special clusters for horticulture
+development and integrated agro-industrial parks
+as a key vehicle.
+Comparative advantages
+Abundantand high quality inputfor agro-processing
+due to: large land size (8th largest country in Africa
+and 27th in the world) and huge proportion of arable
+land, diverse topography and agro-climatic zones
+and water availability for irrigation.
+Ethiopia is home to some of the world's best specialty
+coffee varieties such as Harrar, Sidama, Yirgacheffe
+and Limmu.
+Ethiopia has one of the fastest growing floriculture
+sector. Itis now the second largest flower exporting
+country in Africa and the fourth in the world.
+The European and Middle Eastern fruitand vegetable
+markets offer significant export opportunities for
+Ethiopia.
+Major brands in investing in Ethiopia
+Africa Juice Tibila S. C: A Dutch company that employs more
+africa] UICE
+than 2,000 people to process passion fruit for export, and
+produce fruitand vegetables for the domestic market.
+Textile and apparel
+Ethiopia's textile and apparel industry witnessing rapid
+growth, as a number of domestic and multinational
+firms are being engaged in productions of textile
+and apparel for domestic and global markets. In
+the path to industrialize Ethiopia, the sector is given
+prominent position in boosting export, creating job
+opportunities, and as a model to other sectors as well.
+Due to focused strategy and support of the government,
+in recent years, Ethiopia has grown spectacularly as
+a sourcing destination for apparel attracting most
+of the FDI in the sector.
+Global brands from H&M and Calvin Klein, to Lee,
+Wrangler and Timberland have already invested and/
+or started sourcing operations in Ethiopia.
+The Ethiopian Government has putin place ambitious
+objectives for the sector within the five-year phase
+of GTP II.
+Plan 2020: generate US$ 1 billion export earnings
+and over 300,000 employment opportunity.
+Established the Ethiopian Textile Industry Development
+Institute to enhance skills and technologies in the
+sector.
+Potential areas of operation: ginning, integrated textile
+mills, spinning, weaving and/or knitting, dyeing and
+printing, garment factory (knitted/woven).
+The Ethiopian textiles and apparel industry has an
+international comparative advantage due to a large
+supply of skilled labor, most competitive cost of
+electricity and potential for backward and forward
+linkages.
+The sector has a massive potential to develop
+backward linkages within Ethiopia's economy. Cotton
+is the main input to the production of textile and
+apparel and Ethiopia is endowed with massive fertile
+land suitable for cotton production. Over 1 million
+hectares of land is dedicated for cotton production.
+The sector's standing is further augmented by the
+large-scale development of industrial parks in many
+parts of the country: See the following sections
+featuring Ethiopia's industrial parks program.
+Major brands investing in Ethiopia
+PVH Corp: American
+clothing giantand owner
+of the big global fashion
+brands such as Tommy
+Hilfiger, Calvin Klein,
+Speedo, IZOD, Van Heusen,
+Arrow, Warner'sand Olga.
+PVH Corp. plays a key role
+in Ethiopia's textile and
+apparel industry both as
+investor and major buyer;
+in particular within Hawassa
+Industrial Park (HIP).
+PVH
+Kanoria Africa Textiles Plc:
+24% K Q N ora Kanoria Africa, a subsidiary
+of New Delhi, based Kanoria
+Chmeicals and Industries,
+has set up its state of the
+art manufacturing plant
+in Bishoftu, Ethiopia since
+2015 to manufacture
+denim with initial capacity
+of more than 12 million
+meters denim per annum.
+yarrica
+TEXTILES PLC
+RETR
+Leather and leather products
+e The sector is the leading manufacturing sector for Ethiopia. In 2015, the leather sector contributed to e percent of
+GDP, and generated more than 22,000 jobs
+e Currently, Ethiopia exports, mainly finished leather followed by a growing shoe exports. Other leather items including
+gloves, bags and small leather articles have large potential for an exponential growth.
+o Further to this, the recent expansion in leather gloves production (work, sports and dress types) is proof of existing
+capacity as well as the potential to export with a steady growth of volume and value.
+o Positive sectoral growth trajectory: The sector has experienced more than 150 percent growth in export earnings
+in the first 5 years: The sector's growing export trend is noticeable when comparing the total export earnings of
+only USD 75.5 million in 2008/2009 to USD 132.95 million by the end of 2013/2014 (LID, 2014).
+Government Priority: the sector is strategic sector for the Ethiopian economy: Export target (GTPIl) of USD 800 million
+by 2020. Employment targets of 59,580 2020
+e The Ethiopian Government's strategy and policies to help set up the leather sector as a globally competitive industry
+and incentives provided to help it grow has resulted in visible increases both in production and exports.
+o Since 2012, the government has discouraged exports of raw hides and skins to boost exports of value-added products.
+o Large population of livestock mainly cattle, sheep and goats, offering a significantly wide base of local raw materials:
+Ethiopia has cattle population of more than 53 million, and sheep and goat populations of 25.5 and 24.1 million,
+respectively. These numbers put the country 9th from the world and 1st from Africa, providing a strong raw material
+base for the leather industry.
+o Untapped potential: only 50 percent hides and skins are being utilized currently. In addition, a large number of
+slaughter houses are being established with the potential of boosting the supply of high quality skins reaching
+the tanneries.
+o Ethiopia has a potential for price competitive and quality supply of skins and hides: The Ethiopian highland
+sheepskins have got worldwide reputation in terms of quality, thickness, flexibility, strength, compact structure
+and clean inner surface
+Following various government support, more than 75 domestic and foreign leather and leather products factories
+have invested in Ethiopia.
+SWEFcersin George shoe factory insiclg Bole Bladustrial Park
+al i
+Major global brands investing in Ethiopia
+George shoe factory: Based in Taiwan, invested around USD 150 million. It has a daily production capacity of 16,000
+shoes and employs more than 1000 workers. Major destinations for the shoes are USA and China.
+Huajian: Chinese based company, set up a factory in Ethiopia in 2011 as part of a plan to invest US$2 billion over 10
+years in developing manufacturing clusters focused on shoemaking for export. It currently employs more than 3200
+workers and produces for brands such as Guess and Calvin Klein.
+PECTIO 1 ZO
+Pharmaceuticals
+Ethiopia's pharmaceutical industry provides ample potential
+for investment. Ethiopia has the second-largest population
+in Africa (>100M, ~8.5 percent of Africa's population);
+with growth of 2.3 percent per year is expected. Such
+increase in population size will resultin an increase in the
+number of individuals requiring pharmaceutical products.
+With average economic growth of >10 percent per year,
+increase in disposable income will influence spending on
+pharmaceutical products.
+eo Goal: to become a pharmaceutical manufacturing
+hub in Africa
+o First country in Africa to develop a national strategy
+for pharmaceutical sector development
+Pharmaceutical manufacturing is priority sector for
+Government
+Investor friendly policies focused on pharmaceuticals:
+Strong investment policy focused on pharmaceuticals;
+various fiscal and non-fiscal incentives, one-stop
+government services, price preference in public
+procurement
+State-of-the art industrial park that specializes in
+pharmaceutical manufacturing is being developed
+in Addis Ababa
+Kilinto Industrial Park
+* Location: Addis Ababa (south-eastern part), 863
+Km from Djibouti port
+* Labor: In close proximity to Addis Ababa
+Science and Technology University
+Cluster: Specialized in Pharmaceuticals
+Land area: 2.79 million m?
+Serviced land with common infrastructure, such
+as wastewater treatment plant and dedicated
+power substation
+Growing local market: Ethiopia's pharmaceutical
+market expected to grow by 15 percent annually
+and to reach $1 billion by 2020
+Accessible local and regional market: Ethiopia has
+potential to serve as exporthub
+For the > $20 billion pharmaceutical market in Africa
+Trainable workforce with competitive wages
+More than 10 schools of pharmacy in Ethiopia
+Cadila Pharmaceuticals Ltd:
+Cadilaisa global player
+in the pharmaceutical
+& CADILA
+ PHARMACEUTICALS
+LIMITED
+The Care Continues...
+rc
+1
+FIA!
+ABER
+industry with significant
+presence both in India,
+and African market. In
+2015 Cadila earned a
+global revenue of more
+than $1.4 billion. With
+its headquarter in India
+the company is a veteran
+investor in the Ethiopian
+pharma market since
+2003.
+Humanwell: Headquartered
+in China and with global
+revenue of more than
+$1.1 billion (2015) the
+company is a key player
+both in the Chinese and
+African pharma market.
+In its recent investment
+in Ethiopia the company
+is investing over $100
+million in state of the
+artfacility in two phases.
+Agriculture
+Ethiopia's vast land, favorable climate, and water and
+land resources combine to make itan incredible hub for
+investment. Located in the Horn of Africa, Ethiopia is atthe
+crossroads between Africa, the Middle Eastand Europe.
+Within easy reach of the Horns major ports, Ethiopia is
+close to its traditional markets for export products - the
+Middle East and Europe. This geographical proximity
+provides major exporters in the world unparalleled access
+to the Ethiopian floricultural market.
+Horticulture
+o Ethiopia provides the ideal conditions for growing
+a wide array of fruits, vegetables, flowers and spices
+given the existence of diverse agro-climatic zones,
+long growing seasons, and availability of water for
+irrigation, including 122 billion cubic meters of surface
+water and 2.6 billion cubic meters of ground water.
+o Due to the strategic support provided by the
+government the horticulture sector has shown
+tremendous levels of growth in the past decade or so.
+Today, horticulture is one of the top foreign revenue
+earner for Ethiopia, for example generating US$
+250 - 300 million in annually compared to US$28.5
+million in 2004/2005.
+o Large available workforce: The industry creates over
+180 thousand jobs, out of which 85 percentare for
+women - a section of the population that has been
+historically under-employed.
+e Abundantland availability: Total land area available
+for horticulture is about 12,552 hectares, with only 11
+percent of this land being developed for horticulture.
+o International demand: Currently, over 130 international
+investors are operating in Ethiopia's horticulture
+sector, exporting to the Netherlands, Germany, Saudi
+Arabia, Norway, Belgium, UAE, France, Japan Italy
+and the United States, among others.
+Investment Opportunities in Horticulture
+Fruits and Vegetables
+* Mango, banana, papaya, avocado, citrus, grape,
+and pineapple are the most common tropical and
+sub-tropical fruits cultivated.
+ Pear and plum are emerging as temperate fruits.
+eo The vegetables grown in Ethiopia include, among
+others, green beans, snow peas, broccoli, okra,
+tomatoes, green chili, potatoes, cabbages cauliflower,
+eggplant, cucumber, pepper, onion, and asparagus.
+o Much of the land available for growing fruits and
+vegetables is suitable for organic certification.
+Flowers
+o Ethiopia is the 4th largest non-EU exporter to the
+EU cut-flower market and the 2nd largest flower
+exporter from Africa (after Kenya), exporting to the
+Netherlands, France, Germany, Italy, Canada, Norway,
+Sweden, UK, the Middle East, and other EU countries.
+ By the end of fiscal year 2016/17 floriculture has
+contributed to USD 212.56 million, or 80 percent
+of the total foreign revenue earning of the sector.
+o Roses are the most widely produced variety of flowers.
+Other types of flowers currently in production include
+gypsophilia, hypericum, limonium, chrysanthemum,
+carnations, static and pot plants.
+Herbs and Spices
+o The major spices cultivated in Ethiopia are ginger,
+hot pepper, fenugreek, turmeric, coriander, cummin,
+cardamom, and black pepper.
+eo Close to 122,700 hectares are being used for spice
+farming, with spice production reaching 244,000
+tonnes per year.
+o Potential areas for the cultivation of spices are Amhara
+and Oromiya regions; Southern Nations, Nationalities,
+and Peoples Region; and Gambella regions.
+* The total potential for low land spice farming is
+estimated to be 200,000 hectares.
+Heys.
+Herburg Roses, a Dutch owned grower,
+recognized back in 2006 the opportunity
+to expand their business by relocating to
+Ethiopia. At that time, floriculture was in the
+very early stages of developmentin Ethiopia,
+but the conditions for growing roses were
+perfect, with year-round warmth and great
+light, and a large and enthusiastic workforce.
+Initially the business took on 18 hectares on
+the prestigious Sher Project in Ethiopia, and
+over the years has expanded to 40 hectares
+with more planned for the future. Herburg
+Roses has recently become Fairtrade certified
+and is exporting 22 types of flowers to the
+European market.
+Investing in agribusiness
+Agriculture remains the backbone of Ethiopia's economy,
+and with farmers shifting from subsistence to commercial
+farming, the sector now stands at a unique inflection
+point. Promising investment opportunities are emerging,
+Beef
+Ethiopia's large stock of cattle, abundant feedlot resources,
+and proximity to the Middle East and North Africa  one
+of the largest food-importing regions  all make beefan
+attractive commodity. Meat exports from Ethiopia are also
+currently growing at 25-30 percent annually. An investment
+of US$1-5 million in an early-stage, integrated feedlot and
+abattoir has the potential to generate a return of 30-40
+percent over five years.
+Diary
+The urbanization of Ethiopia's population is driving up
+dairy consumption, which is presently far lower than thatin
+comparable countries like Sudan and Kenya. Meanwhile,
+long-life milk products have taken off in China and India
+and have the opportunity to disrupt Ethiopia's market,
+where powdered milk substitutes prevail. A $10 million
+to $12 million investment in a greenfield ultra-high
+temperature processing plant could yield an annual return
+of 25-35 percent.
+For more information on the potential of Ethiopia's agricultural
+sector, visit the Agricultural Transformation Agency website at
+ata. gov. et.
+which the Agricultural Transformation Agency hopes to
+develop further by connecting farmers with commercial
+supply chains. Here, we present five commodities ripe
+for near-term investment.
+Tomato
+Fruits and vegetables in general are a priority sector for the
+Ethiopian government, which aims to increase production
+by 47 percent in the next five years. Tomato processing
+in particular represents a natural move in a market with
+abundant produce and limited agro-processing capacity,
+in which consumers increasingly demand conveniently
+packaged goods. A greenfield investment of $1.5-4 million
+could yield an annual return of 30-35 percent.
+Poultry
+Ethiopia has Africa's secondlargest population but
+consumes only one-tenth of the chicken meat consumed
+by its neighbor, Kenya. Rising incomes and changing
+tastes, coupled with the government's prioritizing poultry
+production for nutritional and environmental reasons,
+mean that the market will not remain undertapped for
+long. A $20 million investment in a vertically integrated,
+large-scale poultry processing plant would yield 15-20
+percent returns in five years time.
+Tourism and Hospitality
+Located in the Horn of Africa's rift valley region
+and known worldwide for being the origin of
+mankind and one of the oldest civilizations, as
+the source of the mighty Nile River and endowed
+with a long-aged heritage and uninterrupted
+political independence, Ethiopia commands a
+large and untapped potential for tourism and
+hospitality business. In addition, Addis Ababa's
+significance as the political capital of Africa brings
+high representation of international and regional
+organizations, including the seat of the African Union
+and the United Nations Economic Commission for
+Africa, and hence sharpens Ethiopia's potential for
+business tourism.
+o Ethiopia's excellent network of national
+parks, UNESCO World Heritage Sites and
+other tourist attractions attract hundreds of
+thousands tourists every year.
+* Avaried selection of exciting destinations
+awaits the visitor to Ethiopia. National parks
+include the scenic Simien and Bale Mountains,
+with their wealth of endemic wildlife, while
+historical sites range from the atmospheric
+rock-hewn churches of Lalibela to the towering
+stelae of Aksum and castles in Gondar. Other
+highlights are the awe-inspiring Erta Ale
+Volcano, the cultural mosaic of Konso and
+South Omo, and bird-rich lakes strung along
+the Rift Valley floor.
+eo Allthe above present Ethiopia as a key source
+of growth in tourism and hospitably markets in
+the continent and therefore ample opportunitys
+for investment in the sector
+o Investment opportunities include, star-rated
+hotels, lodges, restaurants and grade 1 tour
+operations.
+Electricity
+Ethiopia is endowed with abundant renewable energy resources and has a potential to generate over 60,000
+megawatts (MW) of electric power from hydroelectric, wind, solar and geothermal sources.
+Ethiopia targets to increase power generation to 17,000 MW (from existing 4370MW) by 2020 and plans to increase
+exports to neighboring countries.
+The Grand Ethiopian Renaissance Dam - the largest hydroelectric power dam in Africa set to generate additional
+6,450 MW electricity.
+Grand Ethiopian Renaissance Dam (GERD) and Genale Dawa projects are under development while 8 new
+hydropower projects have been identified for private sector development
+The sector is open for private sector investment, including FDI, in all power generation sources and is expected to
+fund 75% of GTPIl targets and develop ~4,500 MW.
+Energy is becoming an important source of export and foreign exchange earnings thanks to increased generation
+and interconnection capacities. Total electrical energy exports are expected to rise to 1,000 MW in the next 2-3 year
+GEOTHERMAL WIND POWER HYDRO POWER
+GENERATION
+Generating capacity: Generating capacity: Generating capacity:
+5,000 MW 10,000 MW 45,000 MW
+In accordance with its sustainable development goals Ethiopia has Energy policy that focuses on development
+of renewable energy sources
+o Priority to renewable energy development to follow climate resilient green economy strategy
+o Increase renewable energy mix to improve security and reliability of energy supply and be a regional hub for
+renewable energy
+o Strengthening cross boarder energy trade
+ Improving the energy efficiency of systems and operations
+ Strengthening energy sector governance to build strong energy institutions
+o Ensuring capacity building and technology transfer to strengthen energy sector financing
+ Encouraging Public-Private Partnerships in energy generation
+6,800 MW power generation plants to be
+build over the GTP Il period to achieve
+rer) Er New renewable energy power generation plant
+development for the GTP Il period broken down into
+GTP Il power generation targets, 2020 (in private and public sector share (MW)
+MW)
+9B USD
+4,524 MW -
+Currently operational Hydro -
+power generation plants > Soler -
+Hyd Geothermal ml
+FEED Biomass HM
+800 3BUSD
+Power plants
+that are
+currently under 3034
+construction
+Private Public
+Total New plants
+Possible interconnection lines with
+neighbouring countries
+220kv
+230kv
+2330kv (submarine cable)
+400kv
+500kv
+HVDC Link.
+Substation at 230 KV and above
+Substation with Generation Facility { Switchyard
+at 230KV and above)
+Town
+AF/DC Station (Converter/Inverter)
+CNN: Riders on the storm: Ethiopia bids to become wind
+capital of Africa
+By Kieron Monks, CNN
+Updated 2:00 PM ET, Tue January 3, 2017
+o Ethiopia signals massive expansion of renewable
+energy
+. Investments will see sector grow more than
+1000% by 2020
+Ethiopia was among the most daring signatories to the
+Paris Agreement on climate change, committing to cut
+carbon emissions by 64% by 2030. The government
+has ploughed billions of dollars into hydropower
+megaprojects such as the Grand Renaissance Dam
+-- which will be the largest dam in Africa -- and the
+freshly-inaugurated Gibe [Il Dam.
+The next target is to become the wind power capital
+of Africa.
+Telecommunications
+In the past decade, Ethiopia's telecommunications service
+has shown an explosive growth in terms of area coverage
+and number of subscribers. As of 2014, there were about
+30 million telecom service subscribers across the country.
+The number of mobile subscribers increased from 6.25
+million in 2009/10 te 28.3 million in 2013/14. Similarly, the
+percentage of rural population with access to telephone
+services (within 5 km radius) increased from 62.1 percent
+in 2009/10 to 96 percent in 2013/14.
+Mobile telephone subscriptions have drastically increased
+since 2014 to reach 57 million; Ethio-Telecom has targeted
+to boost mobile network access to 113 million subscribers
+during GTP-Il and broadband internet data subscription
+is projected to grow to 39 million from the current 1.46
+million subscribers. According to IT web's report, Ethio
+Telecom is now Africa's largest mobile operatr with more
+than 57 million mobile subscribers (by the end of 2017)the
+company has surpassed the record held by MTN Nigeria
+to become Africa's largest telecom operator in terms of
+its mobile customer base.
+Road
+Ethiopia's road infrastructure has continued to witness
+increased investment during the past five years. The Gok
+dedicated over 5 percent of the countrys GDP to the
+development of roads which makesit one of the highest
+in the continent.
+ Addis-Adama express way
+Between 2009/10 and 2013/14 alone, the road network saw
+a boost from 48,800 km to 60,466 km. In addition, under
+the government's universal rural road access strategy, a
+total of 39,070 Km all-weather roads were constructed -
+connecting the smaller level local administrative towns
+and cities. In general, road density increased from 44.5
+km/1000 km2 to 90.5 km/1000 km2 in the same year. Thus,
+the average time taken to reach the nearest all weather
+roads has been reduced from 3.7 hours in 2009/10 to
+1.8 hours by 2013/14.
+Ethiopian National Railway Network (ENRN)
+SOMALIA
+INDIAN
+UGANDA OCEAN
+.
+Railways
+Railway infrastructure development was one of the priority development
+preoccupations of the Gok under GTP | and continues to receive greater
+investment under GTP Il. In doing so, the national strategy puts into plan a
+network of railway development schemes stretching across all corners of the
+country. The completion of Addis-Djibouti railway line is expect to slosh the
+logiistics cost in the sector and improve the speed-to-market bringing more
+opportunity for attractive & expanive investment.
+Ethiopia-Djibouti railway line, one of the major railway projects set out under the Growth and
+Transformation Plan, entered in to operation in October 2016.
+m= Completed
+mmm Under construction
+mm Planned
+In 2015, Ethiopia also put into
+operation the Addis Ababa Light
+Rail network - the first of its kind
+in Ethiopia and Sub-Sahara Africa.
+The project was implemented by
+the Ethiopian Railways Cooperation
+at the cost of USD 475 million and
+the network has a total length of
+31.6 kms and a capacity of moving
+60,000 passengers per hour. The
+Light Railway system connects the
+industrial suburbs of Addis Ababa
+to the city centers.
+Air transport
+The development of air transport services in Ethiopia
+has been narrated as one of the major success stories
+impacting the countrys overall development. Ethiopia
+prides operating the pioneering airline of the African
+continent, the Ethiopian Airlines, which was established in
+1945. During the past seventy years Ethiopian Airlines has
+become one of the continent's leading carriers, unrivalled
+in Africa for efficiency and operational success, and turning
+profits for almost all the years of its existence.
+Ethiopian Airlines domestic and international routes have successively
+expanded over the years - currently serving over 100 international and
+20 domestic destinations operating the newest and youngest fleet
+Parallel to its passenger transport, EAL's cargo service
+has continued to grow and support Ethiopia's expanding
+trade and investment interaction with the rest of the world.
+Ethiopian Airlines has designed an ambitious strategic
+plan to develop its cargo transportation capacity, including
+a dedicated cargo terminal, at a cost of more than 100
+million USD. This will increase its cargo handling capacity
+by additional 600,000tn/year - doubling its current facility
+of 300,000tn/year and hence reaching a total of 900,000tn/
+year. With additional expansions in the pipeline, the cargo
+terminal is expected to eventually handle 1.2 million tn/
+year - becoming Africa's largest and one of the biggest
+of its kind in the world.
+1.3 Human Capacity Development
+Ethiopia has shown significantimprovements in the overall Tertiary education graduates in Ethiopia 2014/2015
+standings of primary, secondary and tertiary education
+services in the past five years. Teachers education 45,566
+TVET 125,738
+Undergraduate 86,210
+Post-graduate 8,021
+Ethiopia has seen
+an unprecedented 1994/95: 26% 2012/13: 95% Source: Ministry of Education
+acceleration in eb8ds seded
+access to primary
+education ] e )  
+)
+fied
+During the reporting period alone, the higher education
+sector recorded rapid expansion with the development of 125,738
+twelve additional public universities enhancing the national
+enrolment capacity to over half a million students in 2012/13.
+The academic and research portfolio of higher education
+institutions has also seen fundamental reorientation to
+meet the high demands of the agricultural and industrial
+sectors for skilled labor in the upcoming years. Currently,
+70 percent of university students are enrolled in science
+and technology streams while the remaining 30 percent
+are trained in social sciences and humanities.
+The Gok has also put considerable efforts to expand
+technical and vocational education and trainings (TVET). TVET
+About450 TVET institutions have been established across
+the country with a view to producing trained manpower Undergraduate
+that could readily be employed in the countrys fledging
+manufacturing sector.
+Post-graduate
+Teachers education
+ Workers in Bole Lemi Industrial Park
+02. FDI Trends
+2.1 FDI Size and Growth
+Ethiopia's impressive domestic and foreign direct investment
+(FDI) performance in recent years started from very low track
+record. From 2009 to 2013, Ethiopia recorded a positive
+growth trend in domestic savings with tremendous boost
+from 5.2% to 17.7% of GDP. However, the investment gap
+remained wide. Similarly, FDI inflows to Ethiopia during
+the five years preceding the start of GTP | showed very
+limited increase (with the notable exception of year 2011),
+accounting among the least share in Sub-Saharan Africa.
+In 2012, the FDI inward stock as a percentage of GDP was
+as low as 11.8%, which fared poorly against East Africa's
+average of 18.8%.
+Meanwhile, ambitious growth goals were set under GTP |
+and ll which required significant investments. FDI, along
+with other measures, was regarded as essential tool to
+finance the national growth and development plans. The
+result was a significant increase both in the volume/size
+of FDI inflows as well as the number of projects initiated
+and implemented.
+In 2014, Ethiopia emerged as the 8th largest recipient
+of FDI projects in Africa, up from 14th position in 2013.
+FDI flows reached record highs in 2015/16 and 2016/17,
+with respectively USD 3.3 and USD 4.2 billion, compared
+to the USD 344 million annual average for 2005-2007
+and accounting for more than 11.1% and 8.8% of Gross
+Fixed Capital formation in 2014 and 2015 respectively.
+In nominal terms, FDI inflows to Ethiopia more than
+quadrupled, over the past five years.
+Foreign direct investment inflow (in US$ millions) 2007 - 2017
+2007/8 2008/9 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17
+Total FDI 814.6 893.7 960.3 1,242.5 1,072.0 12316 1,467.0 22022 32687 41708
+Manufacturing FDI 570.2 661.3 7682 101885 8362 98528 1261.60 1,893.80 2843.70 3712
+Share of manufacturing FDI 0.7 0.74 0.8 0.82 0.78 0.8 0.86 0.86 0.87 0.89
+Share of manufacturing FDI to total FDI inflow (in US$ millions) 2007/8 - 2016/7
+4500
+4000
+3500
+3000
+2500
+1500
+1000
+500
+0
+2007/2008 2008/2009 2009/10 2010/11 2011/12 2012/13 2013/14 2014/15 2015/16 2016/17
+e===Total FDI Manufacturing FDI
+Source National Bank of Ethiopia (NBE), Ethiopian Investment Commission (EIC)
+16000
+14000
+12000
+10000
+8000
+6000
+Ethiopia FDI stock in millions of (US) dollars (1995-2016)
+Year 1995 2013 2014 2015 2016
+FDI stock 165 6455 8310 10503 13700
+Source: UNCTAD: World Investment Report 2017
+Average registered capital per project (million ETB)
+2010 2011 2012 2013 2014 2015 2016
+EB Average registered per project
+Source: UNCTAD, EIC, NBE
+Figure: FDI inward stock (million USD)
+1995 2013 2014 2015 2016
+Domestic investment projects dominated in in terms of capital outlays (54
+terms of the number of approved projects. percent) and employmentcreation
+However, foreign-owned investment projects (55 percent)
+contributed more to the national economy
+The high level of economic
+growth, the provision of better
+infrastructure, the successive
+growth of market sizes and the
+government's openness for
+FDI contributed to high profile
+investors targeting Ethiopia
+in the past few years. Hence,
+in 2014-15, Ethiopia rose to
+be included in the Top-10
+investment destinations in Africa
+- recording 100% change in FDI
+flow. (The African Investment
+Report, 2015) Ethiopia also
+doubled its registered growth
+in manufacturing projects, in
+addition to parallel increases
+in manufacturing value added
+growth from 12 to 17 percent.
+Investment projects in the
+pre implementation phase
+continuously increased for the
+time in consideration except for
+2014 which recorded a 46%
+decrease from the year before.
+The highestincrementis recorded
+in 2016 (an approximately 86%
+increase from earlier year) and
+the lowest one is recorded in
+2014 (a decline of 42% from
+the previous year). The average
+growth of the pre implementation
+investment projects licensed
+from the Ethiopian Investment
+Commission (EIC from now on)
+is termed to be 18% for the four
+years taking five years data.
+The number of new FDI projects
+per year is on linear (slightly
+decreasing) trend, so is number
+of operational projects. While
+a much broader analysis is
+warranted to better understand
+and explain this trend, at the
+outset the above graph seen
+together with continuous increase
+in average registered capital
+per project shows evidence
+of the fact that the countrys
+attracting more focused and
+targeted investment.
+UNITED NATIONS CON
+WORLD
+INVESTMENT AND THE DIGITAL ECONOMY
+UNCTAD World Investment Report (2017)
+According to UNCTAD Investment Report 2017  FDI
+flows to Africa continued to decline in 2016. It stated
+sluggish commodity prices have diminished economic
+prospects in Sub-Saharan Africa and tempered investor
+interest in the sub region.
+However, according to the report, some diversified
+producers of East Africa registered strong FDI in 2016,
+with Ethiopia attracting more inflows than ever before. In
+doing so Ethiopia stood out to become one of the largest
+recipients of FDI in the continent posting strong and
+record growth (up 46 per cent to $3 billion) and became
+the second largest LDC host economy, up from the fifth
+position in 2015. According to the report much of this
+achievement is derived from investments in infrastructure
+and manufacturing. The reportalso stated that, the largest
+cross-border M&A sale of the year ($510 million) was also
+recorded in Ethiopia, with Japan Tobacco acquiring a
+local cigarette manufacturing facility.
+According to the report Ethiopia attracted new FDI in
+manufacturing, which could create opportunities for local
+SMEs to link to global supply chains. Ethiopia is also
+cited by the report as one of the top performers in its
+efforts to diversify its economy and consequently its FDI
+pool against extractive investment that hitherto African
+and land locked economies are known for. According
+to the report despite the persistent weight of natural
+resources in FDI to LLDCs, diversification of inflows is
+advancing, especially in economies that have recently
+attracted sizeable FDI, such as Ethiopia. The report also
+states although China was one of the major sources of
+FDI, foreign investors from other economies have started
+investing more in Ethiopia's agro-processing, hotels and
+resorts, as well as in its manufacturing activities.
+Similarly, even though the report outlines a slight decline
+in FDI inflows to landlocked developing countries (LLDCs),
+and these countries continue to play only a marginal role
+inthe global FDI scene, Ethiopia stands out among these
+groups of countries by continuing in its positive trajectory
+for a fourth consecutive year.
+Share in world
+3.4%
+Ethiopia
+$3.2bn
++45.8%
+Nigeria
+$4.4 bn
++45.2%
+Angola
+$14.4bn
+Flows, by range
+y rang 11.2%
+Above $3.0 bn
+$2.0t0 $2.9 bn
+$1.0 $1.9 bn
+$0.5 to $0.9 bn
+Below $0.5 bn
+Ethiopia has seen a steady growth in FDI flows in the last several years
+Tob 5 host and 2016 has been another record year for FDI flow into the country.
+cob In doing so the country received high remarks for its achievements by
+various international development agencies including The United Nations
+Economy $ value Conference on Trade and Development (UNCTAD).
+of inflows 2016% UNCTAD Investment Report 2017 shows that Ethiopia has become an
+change investment hotspot in Africa and while FDI flows to the rest of the continent
+continued to decline, Ethiopia attracted more FDI than ever before in 2016.
+With a record growth of 46 percent FDI flow, the country has become one
+of the largest recipients of FDI in the continent and the second largest
+LDC host economy.
+2.2 Distribution by Sector
+The contribution of the investment projects in terms of capital outlays and job creation differed across sectors
+Manufacturing and service sectors stood out among the top recipients. In 2013-4, the manufacturing sector received
+more than 70 percent of the total capital outlays, followed by services and agriculture.
+Focusing on specific sectors, Ethiopia has been particularly successful in attracting greenfield FDI in: textile; food,
+beverages, and tobacco; chemicals and pharmaceuticals; automotive OEM; and financial and business services.
+Overall, manufacturing sectors accounted for 68% of total FDI stock since 1992.
+2%
+Electricity (Generation, Transmition and
+Distribution)
+Education
+Health
+Hotels (Including Resort Hotel, Motels and
+Lodges) and Restaurants
+Tour Operation, Transport and
+communication
+Real estate, Machinery and equipment
+Rental and Consultancy Service
+Constructing contracting Including water
+well Drilling
+Others
+Source: EIC
+Historically, FDI inflow to the agriculture sector has been
+very limited. However, a combination of policy initiatives
+laid the groundwork for investment take-off in commercial
+agriculture. A strong package of fiscal and non-fiscal
+incentives - including income tax holidays, duty free
+imports of capital goods, unlimited repatriation of profits,
+and long term leases are to account for such success in
+the sector Most importantly, however, a well-coordinated
+and streamlined land provision and management system
+orchestrated between the Federal Government and
+Regional States eased the hitherto cumbersome land
+provision procedures which investors had to navigate.
+One of the most notable trends in FDI's sectoral composition
+in Ethiopia is the growth of investmentin horticulture and
+floriculture. 10 years ago, Ethiopia was hardly known as
+exporter of cut flowers. Within the last decade alone,
+Ethiopia transformed itself from zero commercial production
+of cut flowers to become the second largest exporter of
+the product in Africa only after Kenya, and the sixth in the
+world.. Ethiopia's supply to global flower market grew by
+more than 292.1% in recent years to contribute to more
+than 9% of the world market share.
+The accelerated rate of investment registered in horticulture
+and floriculture sectors is the coefficient of favorable
+local conditions linked to apt climatic conditions and
+improvements in road and air transport and logistics
+infrastructure.
+-
+The diversity of agro-climatic conditions in the highlands
+and lowlands make Ethiopia a suitable place for the
+production of a wide range of flowering plants, making
+cut flower production a fast-growing export business.
+Ethiopia is endowed with 12 river basins, 18 natural lakes
+(including the Rift Valley Lakes) and 3.7 million hectares of
+irrigable land. About 80-90% of these resources are located
+in the west and south-western regions of the country,
+which ishome to 40% of the population. Temperatures are
+conducive to floriculture with long hours of sunshine - in
+many parts shining for more than 11 hours a day. Water
+for irrigation is available in abundant quantities and the
+well-drained soil in Ethiopia is suitable for growing diverse
+horticultural products.
+Ethiopia's industrial development vision aspires to make the
+country the leading manufacturing hub of Africa by 2025.
+The countrys economic transformation to industrialized
+economy will generate massive employment opportunities,
+increase the per-capita income of its citizens and accelerate
+its strategic direction of achieving a middle-income status
+by the year 2025.
+Due to the extracrdinary attention accorded to the sector,
+investment in the manufacturing sector has continuously
+increased in the last five years.
+The textile and garment industry received the larger share
+of investment in the manufacturing sector. Ethiopia has
+obtained a sizable portion of the overall FDI inflow to East
+Africa mainly due to the conducive opportunities availed
+in the sector. In less than ten years, Ethiopia is projected to
+become one of the major textile and garment producers
+and industry players in the world.
+Te
+ Works at Isabeli JEktory inside Hawassa Industrial Park
+The growing investment in the textile and garment sectors
+could also be accounted as a factor of key infrastructural
+development interventions initiated by the government
+in electricity, road, and most recently, industrial parks
+development programs. What is more, the dedication
+of over three million hectares of irrigable land, linked to
+the prevalence of favorable climatic conditions for the
+production of cotton, is expected to play a key role in the
+countrys global competitiveness in textile production. To
+this could be added that foreign market opportunities and
+in particular, preferential access accorded to Ethiopia-based
+exporters to the US and EU markets under the AGOA and
+EBA schemes have encouraged investment in the sector.
+Summary of top 10 licensed foreign manufacturing investment projects by sub-sector
+2001-2017
+250
+mManufacature of Machinery
+and Equipment n. e. c
+EManufacature of Furniture,
+Manufacaturing n. e. c
+mManufacature of Electrical
+Machinery and Apparatus n. e. c
+mManufacature of Wearing
+Apparel, except fur apparel
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+Manufacature of fabricated
+Metal Products, Except
+Machinery and Equipment
+Manufacature of Textiles
+= Manufacature of Other
+Non-Metallic Mineral Products
+= Manufacature of Chemicals
+and Chemical Products
+Manufacature of Rubber and
+Plastics Products
+Manufacature of Food
+Products and Beverages
+2012 2013 2014 2015 2016 2017
+Service
+The GDP share of the service sector in the national
+economy - including both distributive and other services
+- has increased substantially due to both domestic and
+foreign investment. Growth registered in trade, hotel and
+entertainment, electricity, financial intermediation and
+educational services are a few of the sub sectors that
+contributed to the overall growth of the service sector.
+The service sector has successively grown at a much faster
+rate than both agriculture and industry.
+Huajian:
+One of the largest shoe producers and exporters in
+China - Huajian - set up a factory in Ethiopia in 2011,
+as part of its plan to invest US$2 billion over 10 years in
+developing manufacturing clustersfocused on shoemaking
+for export. The company produces shoes for brands such
+as Guess and Calvin Klein, and hopes to see its exports
+from Ethiopia reach US$4 billion within ten years. Source:
+Deloitte, Ethiopia, a Growth Miracle, 2014; Centre for
+Economic Policy Research, PEDL Research Note: The
+Role of Foreign Investment in Ethiopia's Leather Value
+Chain, 2013
+Investment in the brewery industry:
+Once an industry solely operated by state-owned
+enterprises, the Ethiopian brewery industry has just
+been fully transformed in the past five years. Today, the
+sector attracts a number of domestic and foreign private
+operators, including Diageo, Heineken, Habesha and Raya,
+and is set to see even more entrants in the years ahead.
+Heineken bought Harar Brewery for US $78 million and
+Bedele Brewery for US $85 million - while Diageo bought
+Meta Brewery for US $225 million, resulting in a combined
+sum of US $388 million for the three breweries.
+Africa Juice:
+With global demand for tropical juices on the rise, in 2009,
+africaJUICE Tibila Share Company, a joint venture between
+Africa JUICE BV of the Netherlands and the Ethiopian
+government, took operational control of the Tibila Farm
+in Ethiopia's Upper Awash Valley and started producing
+passion fruit, mangoes, papayas and other tropical fruits.
+In addition to rehabilitating and expanding the newly
+acquired farm, africaJUICE built a new fruit-processing
+facility with state-of-the-art processing, sterilization and
+packaging equipment. The processed juice is exported
+through the port of Djibouti to markets in Europe and
+the Middle East. The company directly employs 2,400
+people. Source: VC4Africa; MIGA, Tropical Fruit Juice
+Project Helping to Spur Economic Revival in Ethiopia,
+April 18,2011.
+Ayka Addis:
+Ayka Addis, the Ethiopian subsidiary of the Turkish textile
+giant - Ayka Textile, inaugurated in 20710 its factory ata cost
+of US$140 million at Alemgena, 20km west of Addis Ababa,
+creating jobs for more than 10,000 people. Ayka Addis
+has the capacity to export textile products worth US$100
+million a year. Source: All Africa, Ethiopia: 50 Turkish
+Textile Factories to Relocate in Ethiopia, 2 August 2013
+Castel Winery PLC:
+Castel Winery brought in to picture the second winery
+production line in the country with investment in the town
+of Ziway, Oromia Regional State, located 163 kilometers
+south of the capital Addis Ababa. Castel is the third largest
+wine producer in the world and the second largest beer and
+soft drinks business in Africa. Castel Winery PLC invested
+around 540 million Birr and generated employment for
+more than 800 permanent and casual workers. The first
+wine bottling commenced in January 2014 and sales of
+its first batch of products started to hit markets in the
+aftermath of its inauguration on March 22, 2014. Castel
+Winery PLC produces standard wines (Acacia brand) and
+premium wines (Rift valley and Cuvee prestige brands),
+targeting both local and foreign markets.
+Employment
+Foreign investment projects in Ethiopia created a total
+of 586,842 jobs between 1992 and 2016, representing
+a significant portion of the entire jobs created during this
+period. Between August 1992 and August 2016, Ethiopia
+attracted over 5000 realized FDI projects in multiple sectors,
+creating over 282 thousand permanent jobs (Ethiopia
+Investment Commission (EIC)'s statistics). In comparison,
+domestic and public projects generated an average of
+389,876 and 4,812 jobs respectively.
+On average each foreign project generated 235 jobs, 113
+permanent positionsand 121 temporary jobs on average.
+Overall, manufacturing sectors accounted for 41% of
+total permanent jobs created by FDI projects since 1992.
+Ethiopia's sustained growth brought down measured
+unemployment from its peak of 26.4 percent in 1999
+to an average of 20.2 percent between 1999 and 2013,
+and to a record low of 17.4 percentin 2014 (IMF 2015).
+The textile and apparel industry takes the lion's share
+in employment creation largely due to the increased
+attractiveness of the country to the sector and the labor
+intensive characteristic of the industry itself.
+Average permanent and temporary jobs per project (2010-2016)
+350
+300
+200 AA
+150 >
+100
+=
+source: (EIC)
+== Average =e Average
+permenent job temporary job
+project project
+HAWASSA INDUSTRIAL
+Wt
+03. Insight in to Ethiopia's Industrial
+Parks Development Program
+H. E Ato Hailemariam Desalegn, Former Prime Minister of the Federal Democratic Republic
+of Ethiopia at the Inauguration of Hawassa Industrial Park, Hawassa, 13 July 2016
+3.1 Background: Industrial Parks (IP) Program
+Ethiopia is taking a range of policy and strategic measures
+to facilitate the move towards industrial development. To
+this end, the country has putin place an industrial park
+development program. This is apart from the national
+endeavors to attract investment through the employ of
+the ordinary investment regime. The IPs program has
+been integrated to Ethiopia's development vision under
+the Growth and Transformation Plan 11 (2015/16-2019/20)
+and considered as important contributor to Ethiopia's goal
+of becoming a middle income country by 2025. Ethiopia
+sees industrial parks investment in strategic locations and
+sectors as generator of more jobs, accelerator of increased
+and diversified exports, earner of foreign currency, means
+for greater transfer of technology and stimulator of socially
+and environmentally responsible urban development.
+Ethiopia enjoys favorable conditions to meet these
+aggressive goals - especially in the light manufacturing
+sector. The country has one of the most competitively
+priced cost structures in the African Continent with regard
+to electricity, labor and overall operational environment
+and production costs.
+Within the above framework the Government's growth
+strategy emphasizes the development of Industrial Parks (IPs)
+as an important tool to support economic diversification,
+attract investment and increase exports. The IPs scheme
+is especially relevant in the light manufacturing sector to
+create employment, initiate export led growth, encourage
+private investment attractions and stimulate benefits from
+integration with the local economy. IPs are projected to
+be equipped with a streamlined business environment,
+common services and amenities, high-quality infrastructure
+and readily serviced industrial land. All such arrangements
+have been made available to local and foreign companies
+through a single, efficient and streamlined IP administration.
+The plan for the expansion of existing facilities and
+development of additional IPs is buoyed by results of a
+speedy delivery of IPs as well as risk uptakes by the public
+developer arm of the government, the IPDC.
+a Strvices Gen | Park
+Furthermore, the Ethiopian model of IPs development
+features generally recognized sound practices within a
+competitive environment, combined with localized legal
+and operational practices to capture understanding and
+ease in implementation.
+Salient benefits of the IPs program:
+[} Sustainability (environmental & social)
+o Rapid and massive job creation; with tailored skills
+development
+. Penetration into and expansion of external markets;
+oe Technology transfer;
+o Linkages of IP production to local business leading
+to vertical integration
+. Introduction of a business friendly environment;
+including One-Stop-Services /OSS
+Of key importance in the context of this process is the
+institution of a streamlined, competitive and enabling
+environment for private investors through the establishment
+of the principle of separation of IP development and
+regulatory functions.
+Introducing the strong features to the IP programs would
+eventually serve as a test lab to introduce reforms to the
+national territory following the Asian SEZ model. The
+fact that Ethiopia's IP development strategy has been
+predicated on the experiences of and collaboration
+with fairly developed Asian economies ensures a bright
+prospect both to IP developers and individual tenants -
+especially in the light manufacturing sector.
+In laying out its IP development strategy, GoE's focus
+has also included programs to ensure IP investors are
+able to quickly integrate into the local economy, provide
+opportunities to local business to enjoy linkages with
+different IPs as business driven initiative and to make
+IPs investment more sustainable by stimulating higher
+value strategies to IP production. The latter component is
+particularly dictated by international experience; itwould
+be very difficult to pursue its implementation at a later
+stage if ithas not been duly considered at the beginning
+of IP developmentinitiatives. Normally viewed as one of
+the key reasons why linkages programs for IPs are initiated,
+it suffices to note thatonly a few linkages programs have
+been successful around the world. In this tune, the EIC
+has further emphasized working on complementary
+themes such as technology transfer, labor training and
+overall social benefits.
+Indoing so Ethiopia is building competitive conditions
+required for a successful IPs development, growth and
+expansions within an Ethiopian social, legal and operational
+environment.
+Development
+Ethiopia currently has five completed industrial parks: Four
+publicly owned (Bole Lemi Industrial Park, Hawassa Indusrrial
+Park, Mekelle Industrla Park and Kombolcha Industria Park)
+and one private (Eastern Industial Park). From the five Bole
+Lemi IP and Hawassa IP are operational while Eastern IP (a
+private IP) is also operational. Mekelle IP & Kombolcha IP
+are already half full waiting for investors for the remaining
+space. The government has put in place concrete plans to
+develop additional IPs during the period of 2016-2017.
+An important development that demonstrates the level
+of market interest in Ethiopia's IP program is that seven
+additional IPs are already approved and currently under
+various phases of development. The development of five
+(5) private industries is also underway during the same
+period. These are Huajan, George Shoe, Vogue, CCECC
+and CCC Industrial parks.
+In addition a key aspect of the of Ethiopia's industrial
+parks program is the fact that the sector has been open
+for foreign investment and various government support
+measures has been putin to place. Currently seven private
+industrial parks are under different levels of development
+and/or undergoing expansion.
+PUBLIC-INDUSTRIAL PARKS
+SPECIALIZATION: TEXTILE AND APPAREL, .
+ETHER AND LEATHER PRODUCTS SPECIALIZATION: TEXTILE AND APPAREL i
+SPECIALIZATION: TEXTILE AND APPAREL, SPECIALIZATION: TEXTILE AND APPAREL, LEATHER
+AND LEATHER PRODUCTS
+DEBRE BIRHAN IP
+SPECIALIZATION: AGRO PROCESSING
+BAHIR DAR IP KILINTO IP
+SPECIALIZATION: PHARMACEUTICAL
+EASTERN INDUSTRIAL PARK
+LOCATED IN DUKEM
+400 HA (TOTAL SIZE), 267
+(PHASE)
+OPERATIONAL - UNDER EXPANSION
+PRIVATE INDUSTRIAL PARKS
+GEORGE SHOE INDUSTRIAL
+PARK
+LOCATED IN MODJO
+100 HA
+LEATHER AND LEATHER PRODUCTS
+HUAJIAN INDUSTRIAL PARK
+LOCATED IN LEBU (SOUTH
+WESTERN OUTSKIRTS OF ADDIS
+ABABA)
+184 HA
+LEATHER AND OTHERS
+VOGUE INDUSTRIAL PARK
+LOCATED IN MEKELLE
+TEXTILE & APPAREL
+CCECC ARERTI INDUSTRIAL
+LOCATED IN ARERTI
+100 HA (PHASE 1
+BUILDING MATERIALS AND
+FURNITURE
+CCECC DIRE INDUSTRIAL PARK
+LOCATED IN DIRE DAWA
+1000 HA
+MIXED WITH EXPORT FOCUS
+3.3 IP Regulatory
+Framework
+As international experience reveals, top industrial park
+jurisdictions owe their successes inter alias to a properly
+developed industrial parks legal regime while the failures
+of industrial park programs in many countries have been
+partly attributed to poorly-designed legal frameworks.
+Ethiopia has taken lessons from foreign experiences
+and has embarked on carving out specially designed
+normative and institutional frameworks well beyond the
+ordinary arrangements . The frameworks putin place are
+comprehensive, transparent and predicable and would
+help remove investment constraints and challenges
+emanating from the country's traditional commercial and
+investment regimes.
+The enactment of the Industrial Parks Proclamation in
+2015 has been a milestone in this direction. A primary
+legislation for the sector, itis augmented by investment
+laws and regulations which define and bolster the
+powers of lead industrial park regulatory institutions - the
+Ethiopian Investment Board and the Ethiopian Investment
+Commission. These laws serve as solid legal foundations
+for the nations industrial parks program.
+The statutes envisage key legal and institutional elements
+which are recognized as industrial park investment
+enablers, namely:
+o Industrial park designation criteria;
+ Private sector, private-public partnership or government
+investment in industrial parks;
+o Rights and obligations of industrial park developers,
+operators, enterprises, workers and residents;
+Industrial park investor protections and guarantees
+including national treatment, protection of property rights
+and special foreign exchange schemes;
+o Regulatory processes and procedures including
+streamlined enterprise registration and licensing
+rules, business facilitative customs procedures, and
+simplified visa, residency and work permits;
+ Factory sheds at Hawassa Industrial Park
+o Industrial park customs-controlled area elevating
+the status of industrial parks as extraterritorial from
+customs and fiscal stand points;
+o Industrial park labor affairs and building norms;
+ Special income tax, customs and other incentives
+with IPs;
+o Provisions on mitigating the risk of land speculation;
+o Lead-institutions to administer industrial park programs
+on strategic and day-to-day levels;
+o Environmental and social impact mitigation plans;
+o Investment dispute resolution and compliant handling
+procedures;
+e One-stop-shop to deliver regulatory and related
+services;
+* Special business exit strategies in the event of
+bankruptcy/liquidation, merger or acquisition, and
+o Declaration on primacy of the industrial park legal
+framework in case of conflict of laws vis-a-vis other
+laws.
+The Industrial Parks Proclamation addresses these major
+legal ingredients only generally so as to give room for
+regulatory flexibility without sacrificing legal predictability.
+The details regarding issues from industrial park designation
+to business exit strategies are worked out under a
+secondary law (courtesy of Ministers Regulation) and
+tertiary legislation (Ethiopia Investment Board Directives).
+In doing so the highlights of the past year has been the
+successful development and adoption of the Industrial Parks
+legal instruments both the IP Regulation and IP Directive.
+The process of developing the industrial parks legal and
+institutional arrangements has been informed by a series
+of consultations held with industrial park investors, public
+sector institutions and professionals; this was indispensable
+given the novelty and complexity of the legal regime (as
+it touches upon the mandates of many levels of public
+institutions) and to raise awareness about the purposes
+and contents of the regime, and most importantly, to
+enrich the documents through feedback received from
+various stakeholders.
+Of the three currently operating industrial parks,
+the state-developed Bole-Lemi park is undergoing
+expansion, while it has already created employment
+for about 12,000 Ethiopians. Most importantly the
+Hawassa Industrual Park (HIP) has entered in to
+operation with a commendable participation of PVH
+asthe anchor investor, further strengthening Ethiopia's
+target of attracting leading light-manufacturing
+investment especially in textile and apparel sub sector.
+Developed by the IPDC, the HIP could be regarded a
+case study in successful and agile developmentas the
+infrastructure development venture was completed
+in just nine months. The standards developed in HIP
+are already directive the government's initiative in
+developing the additional IPs in the coming year.
+HIP is projected to create about 60,000 direct jobs
+in two shifts when it reaches its peak.
+Ethiopia's IP development program features
+This extraordinary performance in IPs development
+is the result of Ethiopia's carefully designed market
+strategy to attract foreign direct investment from all
+over the world both as park developers and enterprise
+investors. Of the private sector IP developers so far
+approved, six are from China and one from Taiwan
+(China), India, Bangladesh respectively. The IPs
+development experience and models from these
+two countries will no doubt have a positive impact
+on Ethiopia's IPs programs. China's experience with
+Special Economic Zones (SEZs) was the precursor
+of its massive economic development enterprise
+providing business friendly reforms which were
+later rolled-out to the national territory - outside of
+the economic zones.
+* Word class, ready to plug and play, dedicated to textile, apparel, footwear, leather & leather
+products industries; pharmeceutical, agro-processing etc
+* Specialized, vertically integrated and eco-sustainable;
+ One-stop government services;
+* Strategically located along the new national railway corridors;
+o Broad-based government support;
+. Favorable investment climate;
+o Investment policy led by the Ethiopian Investment Board (EIB) - chaired by the Prime Minister.
+Incentives Applicable to Industrial Parks: Manufacturers
+ 100% foreign ownership allowed;
+o Exempted from income tax for 8 - 10 years; (subject to export)
+o Exempted from duties and other taxes on imports of construction materials machinery, equipment,
+accesories, spare parts, raw materials and limited vehicles;
+. No export restrictions or taxes;
+ One-stop- government services;
+eo 60-80 years land lease at (promotional rate) for construction of factory shades and dormitories
+inide Industrial Park premises;
+Incentives Applicable to Industrial Parks: Developers
+eo 60-80 years land lease at (promotional rate)
+o Exempted from income tax (for) 10-15 years;
+o Provision of necessary infrastructure, including dedicated power.
+and limited vehicles;
+) re we
+77 p A
+HAWASSA INDUSTRIAL PARK \
+IE Sx hs ee SR. TA
+7 Xe | 7
+colbskuteinn es | TM
+amcompuroll LE FR.
+> IE Baio] fork
+By
+ Homgssa Industrial Park
+Ee. BW eae
+3.4 Hawassa Industrial Park - a flagship achievement
+Hawassa Industrial Park (HIP) is located at the heart
+of Hawassa, the capital city of the Southern Nations,
+Nationalities and Peoples Regional State and a premium
+holiday destination. Known for its hospitality, Hawassa
+is home to a diverse group of nations, nationalities and
+peoples. The beautiful lake of Hawassa provides grace
+and cooling ambiance to the city. Hawassa has now
+added to its profile a state-of-the-art and the countrys
+flagship industrial park.
+As the city is endowed with massive labor supply of up
+to five million people within 50km radius - making it an
+ideal investment destination for labor-intensive industries.
+lt provides labour that is 20-25% lower in cost than Addis
+Ababa with a low turnover of employees due to less
+competition from other industries and sectors such as
+construction.
+THE PARK HAS AN ANTICIPATED EXPORT VALUE OF US S1BILLION
+0]
+COMPANIES IN THE PARKS
+HIP
+s Globally leading textile &
+apparel companies occupying
+70% of the park oo
+Domestic industrialists
+occupying 30% of the park B
+INDUSTRIAL PARK FEATURES:
+s Eco-industrial park with a zero-
+liquid discharge (ZLD) facility
+s Plug-and-play environment with
+access to basic infrastructure
+* Sector specialization
+* 100% export processing
+INDUSTRIAL PARK FACILITIES
+* One Stop Service
+* Accomodation
+Shopping center
+Health clinic, fire brigade & 24*7
+security services
+Phase 1 of HIP rests on a total land area of 1.4 million
+square meters, of which 410,000 m2 is taken by factory
+structures housing 52 factory shades, various other
+auxiliary buildings and features more than 18.3 Km of
+road, over 21.5 kms of electric line, 16 kms of telecom
+lines and over 23.8 Kms of fresh water supply pipelines.
+QUICK
+FACTSON
+2
+LOCATION
+ Southern Nations, Nationalities
+and Peoples Regional State
+* Located at the heart of the
+capital city- Hawasa
+, POPULATION &EMPLOYMENT
+* 5 million people within
+50km radius
+* Employment of up to
+60,000 workers in two shifts
+INDUSTRIALPARK AREA
+* Land area of 1.4 million
+square meters (phase 1).
+Total of 3 millions square
+meters
+s Factory shed built up
+area 410,000 m2
+The park includes excellent shared facilities such as
+dormitories and commercial buildings covering a land
+area of more than 26,600 m2 destined for the use of
+shopping centers, health clinics and banking services.
+The construction of the park was completed with a record
+time of not more than 9 month and was inaugurated on July
+2016 followed by production inauguration on June 2017.
+3 SY
+H. E Ato Hailemariam Desalegn, Former Prime Minister of the
+Federal Democratic Republic of Ethiopia at the Grand Production
+Inauguration of Hawassa Industrial Park, Hawassa, June 20, 2017
+Distinguished CEOs and Board Members
+Excellencies and dignitaries,
+Invited Guests,
+Ladies and Gentlemen,
+Itis a great pleasure and honor to be here in Hawassa
+with you as we celebrate the full operation of the Hawassa
+Industrial Park.
+Today's event paves the way to another exciting chapter
+in Ethiopia's industrialization efforts.
+As many of you know, a crucial component of Ethiopia's
+drive for growth and transformation is the development
+of a vibrant manufacturing and industrial base. Our vision
+is to become the leading manufacturing hub in Africa by
+2025. Our goal is to create millions of new jobs in labor-
+intensive and export-oriented light manufacturing. The
+full operation of the Hawassa Industrial Park is the most
+evident and concrete example yet towards achieving our
+national vision.
+Hawassa will now and forever be a symbol of our national
+enterprise, our bold move to industrialize our economy.
+In Hawassa, we have been successful in building a world-class
+industrial park featuring state-of-the-art, environmentally
+friendly technology. But the key to Hawassa's success is
+not the infrastructure and factory sheds per se. In fact, that
+is the easiest part. It is rather our progress in translating
+our vision into reality. It is our achievement in attracting
+and hosting leading investors to establish manufacturing
+operations. Most of these companies have now started
+operations and export; and very soon Hawassa will be a
+thriving industrial hub.
+Our economy is also expanding ata robust pace and the
+world is watching our transformation closely and with keen
+interest. A few weeks ago, the World Bank forecasted that
+this year Ethiopia will be the fastest growing economy in
+the world. Similarly, IMF called Ethiopia the star performer
+in the African continent this year.
+Ethiopia has now become one of the largest recipients of
+FDI in the African continent. Despite the decline in interest
+in the rest of Africa, FDI flow in Ethiopia has increased by
+46% this year. Arecent report by UNCTAD concluded that
+Ethiopia is now the 2nd largest recipient of FDI in textile
+and apparel, next to Vietnam.
+Ethiopia is fast becoming an attractive destination for
+investment. Our drive to create a competitive textile
+and apparel sector is advancing in the right direction.
+Indeed, Ethiopia is emerging as a leading manufacturing
+hub in Africa.
+The Hawassa Industrial Park is also significant because
+it represents our blueprint in designing and developing
+an integrated eco-industrial park across the country. We
+have learned a lot in the process of the development of
+this park, from design to construction and finally to park's
+operation and management. The Hawassa Industrial Park
+has given us lessons and experiences as a framework in
+working procedures, strategies, speed of delivery, and
+most importantly viability. Using and improving upon our
+Hawassa Industrial park model we are in the process of
+developing industrial parks across the country. By virtue
+of being a model of sustainable and productivity for all
+subsequent industrial parks, Hawassa Industrial Park has
+created a conducive environment for the creation of jobs
+for Ethiopian youths across the country.
+This achievement is a direct result of the shared vision
+among the government, PVH and other investors, as
+well the government's unrelenting determination to stay
+actively engaged and adjust to arising trends and situations
+. Although our progress has not always been as smooth
+as we want it to be, we have succeeded in developing
+an industrial park that has addressed the fundamental
+problems and constraints previously encountered.
+Although the production inauguration of Hawassa Industrial
+Park marks a milestone in our quest to industrialization,
+we should note that our journey has begun. Now is not
+the time to be resting on our laurels. We must keep this
+hard-earned progress going. We must continue to build
+on what we have done, and strive to climb higher.
+And the question now is, how do we keep the progress
+going? How do we build on it?
+First, | want to underscore the government's firm belief
+that foreign direct investment has a critical role for
+manufacturing growth. lt makes significant contributions in
+terms of investment, employment, and foreign exchange.
+Targeted and high-quality investments will enable us to
+expand the base of our economy and make it less likely that
+we will be affected by a downturn in the global economy.
+Additionally, it enables the diffusion of knowledge and
+technology to domestic firms and workers. Without new
+investment, there can be no strong economy. Without a
+strong economy, we cannot sustain our growth and increase
+the income of our people. This is why high-quality investors
+and anchors like those we have in Hawassa are important
+contributors to our growth efforts. They create a ripple
+effect to the whole economy. The opening of this park will
+provide a major boost to existing retail commerce, the
+hospitality industry, and housing and real estate sectors.
+Astrong manufacturing sector is therefore a vital ingredient
+to our growing economy. While acknowledging the critical
+role of foreign investment, we also need to emphasize the
+vitality to drastically develop the strategic manufacturing
+capabilities of domestic investors and ensure their viability.
+Today, I'm calling for all of us-federal, regional, city, local
+officials and domestic industrialists, universities and
+our world-class investors--to come together, to spark
+a renaissance of our manufacturing sector, to support
+investments and to create new opportunities for cur youth
+so that they can achieve an improved quality of life. Let's
+all be genuine partners to growth!
+Second, | believe our human capital will in the end drive
+our industrial productivity. We need to understand
+that what we do today will have a direct impact on the
+competitiveness of our industry sector in the future. To
+succeed in the manufacturing sector, we must have a
+capable and productive workforce. We need our workers to
+be skilled and disciplined. Industrial discipline is essential
+for ensuring improved performance, better productivity
+and an effective workforce. Our trade unions need to
+work closely and in good faith with our investors to forge
+sound industrial relations and to maintain industrial peace
+atall times. We also need to establish strong partnerships
+between universities and manufacturers where the flow of
+information can be facilitated to bring about an increased
+transfer of skills and technology.
+Third, l am directing every single agency in our government
+to work with a shared and urgent sense of mission, to
+collaborate and create a vibrant plug and play business
+environment in the industrial parks. We are now shifting to
+a new way of doing business within the governmentan
+approach that delivers vision and actions, and not just
+ideas and promises. We need to cut bureaucratic red
+tape that stalls good investments from breaking ground.
+Our service delivery to the investors should match the
+seriousness and the speed at which Ethiopia is pursuing
+this drive.
+Fourth, we must make a concerted effort to ensure our
+manufacturing is globally competitive. We know, for
+example, the textile and apparel sector is highly sensitive
+to cost and lead times of import and export. If our trade
+logistics is not efficient, our export will never be competitive
+and our industries will fail. In this regard, we is making
+steady progress. For instance, we are constructing a
+cross-docking facility in Modjo to allow for efficient cargo
+movement from rail to trucks and trucks to rail. We've
+builtand made operational a modern, high speed railway
+linking the country to the Djibouti Port. Still, we can and
+have to do better. Going forward, we need to create a
+competitive logistics industry that reduces transit time,
+modernizes the sector, provides more services and meets
+fully the users needs.
+The availability of cost-competitive, renewable, and clean
+energy is important for all our investors. Our utilities need
+to provide adequate, reliable electricity, and to avoid
+unreasonable power outages that could interfere with
+Without modern banking and financial services, Ethiopia will
+not be a competitive investment destination. Our banking
+industry need to continuously improve and optimize their
+services to provide tailored services to industrial parks to
+make our exporters internationally competitive. Our banks
+should offer diverse financial products and services. Our
+financial institutions need to modernize to keep up with
+global standards.
+Finally, we need to create an ideal work-live-learn
+environment in Hawassa that is conducive for visitors,
+residents and investors to enjoy life and excel in their
+work. When Hawassa is clean and green, that makes
+it a great melting pot for talent, ideas, investment and
+business opportunities. We must Hawassa attractive not
+just because of our lake and climate but also because of
+our facilities, security, connectivity and health standards.
+When we address these issues and do more, | am confident
+that we will take Hawassa to the next level of success
+and achieve our national vision of making Ethiopia the
+manufacturing hub of Africa.
+Excellencies,
+Ladies and Gentlemen
+On behalf of the Government of Ethiopia, | wish to
+thank most sincerely everyone who has contributed to
+this success. From the first design, to the planning and
+construction, to attracting key anchor investors, a number
+of you have been involved.
+Allow me to name a few.
+I want to thank first the Investor Group led by PVH Corp.
+Your holistic approach, your focus on verticality and
+sustainability, helped us build a state-of-the-art industrial
+park. We know you have invested in Ethiopia because
+you have confidence in our country and our ability to
+deliver what we promise. We thank you for the trust and
+partnership. Your confidence is our competitive asset. |
+assure you we will not only retain it but we will improve
+on it. We encourage you to maintain you interest and
+expand your investment.
+I would also like to thank the Chinese Civil Engineering
+Construction Corporation (CCECC). CCECC contracted
+to build the park to the highest standards taking into
+account relevant environmental and social standards and
+by all measures has achieved this feat.
+| would also like to thank three of our development
+partners. The Government of the Peoples Republic of
+China for its support and partnership in our infrastructure
+and industrial parks development program. DFID for
+providing us with strong support for our worker skills
+training program by setting up sourcing and grading
+centers and the [FC/WB team for providing us valuable
+technical assistance in attracting and promoting investment
+in Hawassa Industrial Park.
+Finally, | would like to thank the government team. | would
+like to thank our lead agencies: Ministry of Industry, EIC,
+and IPDC for working seamlessly together to deliver
+this project. Moreover, many government agencies are
+involved in providing the one stop shop services (OSS).
+wantin particularly to thank the Ethiopian Revenue and
+Customs Authority (ERCA), Immigration and Nationality
+Affairs Agency, the Commercial Bank of Ethiopia and
+Ethiopian airlines, the federal and regional security forces
+for their all-rounded contribution.
+May we continue to dream bold dreams and build on
+our success!
+Thank you!
+H. E Dr. Arkebe Oqubay,
+Minister, Head of Economic
+Sectors Delivery and Support,
+Office of the Prime Minister,
+and Board Chairman of
+Industrial Parks Development
+Corporation (IPDC) at the
+Grand Production Inauguration
+of the Hawassa Industrial Park,
+Hawassa, June 20, 2017
+Your Excellency Ato Hailemariam Desalegn- Prime
+Minister of the Federal Democratic Republic of Ethiopia;
+Your Excellency Ato Desse Dalge - President of the
+Southern Nations, Nationalities and Peoples National
+Regional State;
+Distinguished Investors of Hawassa Industrial Park;
+Distinguished Ambassadors and Dignitaries;
+Distinguished Government Officials;
+Invited Guests;
+Ladies and Gentlemen;
+| would like to start by first congratulating all of you here
+today as we celebrate the grand production inauguration
+of the Hawassa Industrial Park. Congratulations on this
+important achievement!
+This impressive national accomplishment - attained
+through the unrelenting hard work of key stakeholders - is
+a clear demonstration of the soundness of our national
+development policies and economic transformation
+strategies that place particular emphasis on the expansion
+of the manufacturing industry and the full realization of
+our export potential. The manufacturing sector plays a
+critical role in increasing our exports and foreign currency
+earnings, generating employment opportunities, and
+creating knowledge and technology spillovers. Without
+strong manufacturing base, we cannot build a strong and
+diversified national economy thats predicated on robust
+interlinkages between the industry and agriculture sectors.
+With the aim of realizing Vision 2025 and becoming
+the leading manufacturing hub in Africa, we have made
+an extensive and targeted effort to attract and retain
+quality investors with sound capital and finance, strong
+technological spillover and export growth contribution
+potential. As a direct result of our efforts, 18 leading global
+manufacturers have invested in Hawassa Industrial Park
+(HIP) using their own capital and finance. Their investments
+are consistent with our strategy of developing a globally
+competitive, sustainable and vertically-integrated apparel
+and textile industry.
+To promote meaningful participation of local investors
+in our industrial park development program, we have
+formulated a clear linkage strategy. Domestic investors
+face significant challenges as it relates to access to finance,
+skills, technology, and market. To address access to finance
+constraints, the government has facilitated credit for
+working and investment capital up to 85% of their needs.
+In response to the other challenges, our government has
+prioritized the interest of domestic companies and has
+created opportunities for local investors to enter sourcing
+network and better exploit supply linkages opportunities.
+The government has also outlined a cost sharing scheme
+for up to b years for employee training and recruitment of
+expatriate managerial staff. In line with this scheme, the
+government will cover 85% of the training cost in the first
+year, 75% in the second year, 50% in the third year, and
+25% of the total cost in the fourth year.
+Over the past several months, we have overcome numerous
+odds and endured several challenges in laying the
+groundwork to transition manufacturers to the production
+and export phases. Power, water, telecom and related
+infrastructure were put in place within the Park to lower
+entry and operational costs for manufacturing enterprises.
+We installed park operation and management structures,
+and service systems which would enable enterprises to
+efficiently enter into full operations. The procurement,
+transportation and setting up of production equipment
+were successfully undertaken by manufacturing enterprises.
+Government services in the past provided by different
+institutions in an uncoordinated approach have been
+rationalized and streamlined to improve the park's business
+climate- with the Ethiopian Investment Commission,
+Commercial Bank of Ethiopia, Main Department for
+Immigration and Nationality Affairs, the Ministry of
+Labour and Social Affairs, the Ethiopian Revenue and
+Customs Authority and other key agencies all setting
+up an organized, efficient and comprehensive one stop
+service offerings at the park.
+To assure a seamless and adequate supply of skilled labour
+force, we have been able to organize a model system
+for sourcing, recruitment and training of employees.
+Preparations have also been completed to establish
+an academy within the industry park that, on a regular
+basis, caters for the training requirements of employees
+and enterprises in relation to labour ethics, skills, and
+supervisory competences. We have also signed cooperation
+agreements with the globally renowned Kunshan Industrial
+Park for the effective operation and management of the
+industrial park, and with Arvind Envisol for the operation
+of the Zero Liquid Discharge (ZLD) facility.
+We recognize that the Parks full operation cannot be
+accomplished without pursuing a corresponding initiative
+that tackles the critical issue of shortage of affordable
+housing for park employees. In this regard, we have been
+able to introduce an innovative approach in collaboration
+with the Sidama Micro-Finance Enterprise. Hawassa
+residents were granted preferential access to loans - to
+finance the construction of additional housing units within
+their premises for rentals to park employees - a scheme
+which we believe will contribute in augmenting their
+income and in boosting the city's economic standing. In
+our search for lasting solutions on housing, we have now
+commissioned a comprehensive study which is expected
+to explore all options and propose viable solutions.
+In realizing our vision of industrial development and
+economic transformation, we pursued our industrial parks
+development program - guided by the best global practices
+and lessons. First, all our industry parks were designed
+and constructed in strict compliance with environmental
+safety and protection standards as eco-friendly and green
+industrial parks. We are proud to announce a water and
+waste treatment plant within the HIP, which is based on
+the latest Zero Liquid Discharge technology for treating
+and recycling about 90% of the water used in the park.
+This technology is the first of its kind in Africa. This way,
+we will be able to ensure that no pollutant matter or waste
+is released into the Hawassa ecosystem.
+Secondly, in building our parks, we adopted the key
+principle of specialization to respond more readily to the
+specialized needs of industry clusters. This has allowed us
+to attract high-quality investments in specific sectors that
+can contribute to export growth and create a condition
+for knowledge transfer and learning.
+We have now been able to successfully complete the
+construction of the next line of industrial parks scheduled
+for the current fiscal year.
+Excellency Prime Minister;
+Currently, close to 15 industrial parks, including Bole
+Lemi | and Hawassa Industrial Park, are at various stages
+of development. The Mekelle and Kombolcha Industrial
+Parks will be fully completed and inaugurated by the
+end of this month. This September, we will witness the
+inauguration of the Adama and Dire Dawa Industrial Parks.
+The Ethiopian Investment Board (EIB) recently approved
+a Pharmaceutical Industry Incentives Packages and
+Institutional Framework for New Productive Capacity,
+Hubs Development and Exports for Ethiopia. To allow
+for the full implementation of this strategy, a new and
+specialized Pharmaceutical Hub will be completed and
+inaugurated in Klinto in January 2018. Bole Lemi-Il will
+also be completed around the same time.
+Additionally, Jimma and Bahir Dar Industrial Parks are
+scheduled to be completed in April and May 2018
+respectively, while Arerti and Debre Birhan Industrial Parks
+will be ready to hostinvestors by June 2018. Relatedly, we
+have completed our preparation to start the construction
+of Alagie, Aysha and Hunan-Adama Industrial Parks next
+year. We will also begin next year the preparation of the
+feasibility study for the Semera Industrial Park.
+| also want to emphasize that despite the progress we
+have made so far, it is important to recognize that we
+have significant work ahead of us. Much more remains
+to be done.
+Above all, we will provide comprehensive and continued
+support to ensure all the enterprises in Hawassa Industrial
+Park operate at full capacity, generate close to 60,000 jobs
+and reach USD 1 billion export target in the next 18-24
+months. We need to improve our capacity to ensure all
+park operation, administration and One Stop Services are
+provided in an efficient, streamlined, coordinated and
+expedient manner. To drive our industrial productivity
+and maintain disciplined workforce, we need to carefully
+develop and properly implement an effective employee
+training program that will respond to and put atthe center
+the needs of the manufacturing enterprises. This is vital
+to the long-term success of all our enterprises.
+In addition, we have to make a coordinated effort to attract,
+facilitate and retain quality investments in Hawassa and
+all other pipeline industrial parks. Building on our current
+strengths and the presence of leading investors, we have
+to work hard to develop our domestic manufacturing
+capabilities and harness linkage opportunities to increase
+the sustainability of investment overtime.
+It is also incumbent upon us to ensure all the parks in
+the pipeline are developed and operationalized as eco-
+friendly, green industrial parks, respecting our obligation
+to protect the environment.
+Along the way, we have gained more experience. Our
+development journey has provided us with invaluable
+lessons about effective approaches of designing and
+developing integrated eco-industrial parks. We are also
+developing a dynamic and adaptive policy capability that
+will set clear goals, concretize implementation plans and
+inform action.
+Finally, while acknowledging our limitations, | want to
+assure all our investors the government's highest political
+commitment in providing full support and adhering to
+policies that foster growth. Our government will back
+you all the way.
+In closing, | want to express my gratitude to several
+institutions and individuals who contributed immensely
+to the success of our endeavour.
+[} First, | would like to thank all our investors in Hawassa
+Industrial Park. In particular, | want to express my
+heartfelt gratitude to members of the PVH Corp.
+management, Mr Bill McRaith, Mr Mark Green and
+Mr Roy Ashurst for sharing our vision and for their
+indispensable contribution. We look forward to long-
+term partnership and success together.
+o I would also like to thank all the hardworking and
+teachable workers of the Hawassa Industrial Park.
+o | want to extend my appreciation to the people of
+Hawassa and its surroundings for their hospitality
+and to all relevant Regional, Zone and city officials
+for the continued support they provided.
+* Animportantaspect of the Hawassa Industrial Park is
+the provision of a One Stop Service. To all government
+agencies who supported us in providing high quality
+business environment in the park, particularly,
+the Ethiopian Revenue and Customs Authority,
+Commercial Bank of Ethiopia, Main Department
+of Nationality and Immigration Affairs, Ministry of
+Labour and Social Affairs, electricity and telecom
+utilities and also for the continuous and full support
+of Ethiopian Airlines, | am grateful.
+o would also like to thank the Chinese Civil Engineering
+Construction Corporation (CCECC) and the indigenous
+consulting firm, MH Engineering for building the
+park to the highest standards.
+o The construction of the rainwater drainage system
+for Hawassa Industrial Park and city of Hawassa was
+an arduous task. However, this was ably executed by
+Hawassa City Administration, Ethiopia Road Authority,
+the Federal Integrated Infrastructure Development
+Coordinating Agency, Sino Hydro and AIC. Please
+accept our heartfelt gratitude.
+ For their continuous support in developing an effective
+employee training program and technical assistance
+in investment promotion and facilitation, | would like
+to thank all our development partners particularly
+the Government of the Peoples Republic of China,
+DFID, Enterprise Partners, Tony Blair Institute, World
+Bank and the International Finance Corporation.
+o Finally, | want to thank the Ministry of Industry, the
+Ethiopian Investment Commission, and the Board
+and Management of the Industrial Park Development
+Corporation and government police and security
+agencies for tirelessly working day in, day out to
+bring this project to successful fruition.
+Speech by Bill McRaith,
+Chief Supply Chain Officer
+for PVH Corp, at the Grand
+Production Inauguration of
+Hawassa Industrial Park
+June 20, 2017, Hawassa
+Hello, and thank you all for being here!
+My name is Bill McRaith, Chief Supply Chain Officer at PVH,
+one of the largest apparel companies in the world and
+parent company of Calvin Klein, Tommy Hilfiger and other
+well-known brands. | am honored to be speaking today
+on behalf of all the tenants of the Hawassa Industrial Park.
+Today marks an exciting new chapter for the Park.
+The progress we have made reflects the time that has
+been invested by so many towards our goal to create
+a vertical, scalable and sustainable venture in Ethiopia.
+Our increased involvement in the region began in June
+2015, after about a year of significant efforts by several
+organizations, to have the African Growth and Opportunity
+Act ("AGOA") renewed and extended for 10 years by the
+United States Congress.
+The Sub-Saharan region ultimately emerged as an attractive
+option for apparel sourcing.
+Since day 1, we set out to learn from social and environmental
+challenges in other production countries, and establish
+an operation we can be proud of.
+And today, | can say that there is much to be proud of
+and in my own 30 year experience there are many firsts:
+eo Apark of this scale and the bringing together of all
+the necessary ingredients to make it a success right
+from the beginning. The Ethiopian Government, the
+world's donor agencies, many of the world's best
+apparel & related product manufacturers and PVH.
+eo Justa few days ago | was part of a Panel at the US-
+Africa Business Summitin Washington DC. On that
+Panel the comment was made that a governments
+job in industrialization is to get out of businesses
+way. Where that may be true in many places, |
+was proud to encourage the audience to look to
+Ethiopia a North Star example, to understand what
+can be achieved by having an active and visionary
+government engaged from the beginning.
+[} In the commitment to full value add, full verticality,
+from the growing of the cotton to the finished product.
+e To the scale of the park that allows the inclusion of
+a woven fabric mill, from day one; something that
+would normally take 5-10 years to arrive.
+e To setting up an industrial park that complies with
+international building and employment standards.
+. The creation of a tenants association committed
+to working together to ensure consistency within
+the HIP, and
+. At its heart; the investment and commissioning of
+Africa's largest ZLD ETF, an investment that will show
+the world there is no conflict between a company
+doing well and a company doing right by the people,
+the community and the environment it operates within.
+At every step, we have been sensitive to the challenges
+and conscious of the responsibilities that come with
+industrializing a predominantly agricultural region.
+| want to take this time to commend the extraordinary
+efforts of everyone involved in helping to create this
+best in class facility - without you none of this would
+be possible.
+To His Excellency Prime Minster, Hailemariam Desalegn:
+thank you to you and your government for your continuous
+support, and for your willingness and patience to partner
+to create something special that has both scalable with
+sustainable business practices.
+| also want to thank:
+* Special Advisor to the Prime Minister, Dr. Arkebe
+Oqubay. Without his energy, his pragmatic and
+relentless approach to support and elevate the
+original vision, none of this may have happened.
+[} President of SNNPR, Ato Dessie Dalkie
+o The Mayor of Hawassa, Ato Tewodros Debaba
+ Commissioner of the Ethiopia Investment Commission,
+Ato Fitsum Arega and his team
+eo CEO of the Industrial Park Development Corporation,
+Ato Sisay Gemichu - and his team
+o Ato Seleshi Lemma from the ETIDI
+ Donor agencies DFID, GIZ, JICA
+o All tenants of the Industrial Park
+o Executive Vice President, Global Supply Chain, PVH Far
+East Ltd. -Mark Green, who led the charge on behalf
+of PVH to attract the suppliers and then helped lead
+them through the many layers needed to construct
+this Park as a state-of-the art, industry-leading park
+| cannot stress enough how important the support of
+everyone involved has been.
+The whole world has much to be excited about when it
+comes to our work in Ethiopia.
+In fact, according to the recent 2017 UNCTAD Report,
+Ethiopia has become one of the largest recipients of
+foreign direct investment in apparel and textile industry
+in 2016, second only to Vietnam.
+This is an incredible achievement, and our goal is for
+Ethiopia to become number one in 2017 and beyond.
+The World Bank sees this cooperation between governments
+and private enterprise as the way forward, and | couldn't
+agree more.
+Thankyou all again for being here today, and | look forward
+to the future of the Hawassa Industrial Park.
+HIP - eco-industrial park
+HIP isthe first sustainable textile and apparel park in Africa.
+Consistent with the Ethiopian Government's commitment
+to a green-economy, HIP is designed, constructed and
+operated as an eco-friendly park.
+It has a water and waste treatment plant which uses the
+latest technology for treating and recycling 100% of
+the waste water discharge of the park and in doing so
+supplying 90% of the water needs of the park.
+To this end, the zero-liquid discharge (ZLD) facility is the
+first of its kind in Africa, Apart from minimizing impact
+on surrounding soil salinity, groundwater pollution or
+ecology of river bodies, this technology helps conserve
+water resource through recovery and re-use of treated
+waste water The technology further enables recovery and
+re-use of salt used in the textile dyeing process. For this
+purpose, more than 32,700 m2 wide zero liquid discharge
+(ZLD) facilities have been constructed and more than 1.5
+kms of effluent Line; 13 kms of recycle water line; 15 kms
+of sewerage line and more than 20 kms of integrated
+drainage lines have been constructed.
+The park is surrounded by a natural and green environment
+- hence providing a soothing landscape.
+Africa's largest ZLD ETF, an investment that will show the
+world there is no conflict between a company doing well
+and a company doing right by the people, the community
+and the environment it operates within the investment and
+commissioning of Africa's largest ZLD ETF, an investment
+that will show the world there is no conflict between a
+company doing well and a company doing right by the
+people, the community and the environment it operates
+within
+Statement by Bill McRaith, Chief Supply Chain Officer for PVH Corp,
+at the grand Production Inauguration the Hawassa Industrial Park,
+Hawassa, June 20,2017
+VE
+SL NTN
+BW Hawassa Industrial Park Zero Liquid Discharge (ZLD) facility
+Kx
+0SS
+ONESTOP
+CEES
+SERVICE
+The design and construction of Hawassa
+is conceived around energy and water
+conservation principles - including;
+Maximization of natural lightning and
+natural ventilation,
+Fitting of low consumption bulbs,
+Recycling of well water, and
+Solar powered LED street lights
+As an Eco-Park, HIP is not only powered by
+renewable electricity and many green features;
+15 thousand trees are planted
+There is an artificial pond for birds and fish
+While the development of industrial parks normally
+entails the creation of common services and amenities,
+high-quality physical infrastructure and readily serviced
+industrial land. However, at the core of the enterprise -
+in the post-development phase of industrial parks - also
+lies the need for the provision of a single, efficient and
+streamlined one stop services to investors. Hence, a
+mechanism must be put in place where governmental
+agencies work with a shared and urgent sense of mission
+and collaborate to create a vibrant plug and play business
+environment in industrial parks.
+This represents fundamental shiftin doing business within
+the government structures - which cuts bureaucratic red
+tape a great deal, helps to attract investment in industrial
+parks and enhance Ethiopia's competitivenessin relation
+to foreign direct investment. Given its extreme vitality,
+the OSS scheme - along with the organs responsible
+for its implementation on the ground - has been clearly
+recognized under Investment Proclamation No.769/2012 (as
+amended) and Industrial Parks Proclamation No.886/2015.
+In this context, various measures have been adopted
+to install a coordinated, effective and investor-friendly
+government services platform both within and outside of
+HIP. Among others the park features a fully equipped One
+Stop Service building dedicated to bringing government
+facilities closer to industries.
+ONE STOP SERVICE
+In addition a key strategic step adopted by the government
+is also the assignment of operational responsibility of the
+HIP to a private company in order to ensure top service
+delivery to tenants and users of the park during the
+crucial calibration and adjustment stages. This initiative
+minimizes pains associated with IP operations by handing
+over operational functions to the private sector and by
+minimizing the incidences of poor experience in routine
+management of the IP.
+HIP - Investors
+Today HIP accommodates fabric mill, garment and
+interlining manufacturers. 18 leading foreign companies
+have invested in the park while necessary preparations
+are finalized to facilitate the joint investment of 4 domestic
+industrialists that have been meticulously selected. One is
+alredy operational. Entrants to HIP are carefully selected to
+ensure cohesive and cordial relationships among investors
+with a shared vision of ensuring higher productivity and
+competitiveness in the park. Many of the companies in
+HIP are currently operational and already have begun
+exporting. At full capacity, the park is expected to generate
+employment opportunity for close to 60,000 individuals
+and export earnings of $1 billion
+PVH - HIPs anchor investment : With a heritage going
+back over 130 years, PVH Corp. has excelled at growing
+brands and businesses with rich American heritages,
+becoming one of the largest apparel companies in the
+world. Today the company has over 30,000 associates
+operating in over 40 countries with over $8.2 billion in
+2016 revenue.
+PVH owns the iconic Calvin Klein, Tommy Hilfiger, Van
+Heusen, IZOD, ARROW, Speedo* Warner's and Olga
+brands and market a variety of goods under these and
+other nationally and internationally known, owned and
+licensed brands.
+As an anchor investor, PVH played a prominent role by
+working hand-in-hand with the Government of Ethiopia
+and actively supported the drive for targeted recruitment
+of investors. To this end, it tapped into its impeccable list
+of global vendors.
+PVH has already commenced production in its manufacturing
+facility and exported its first shipment from the park in
+May, 2017. Seven of the companies that are operational
+in HIP supply their products to PVH
+PVH Corp. is an American clothing giant and owner of the big global
+fashion brands such as Tommy Hilfiger, Calvin Klein, Speedo, IZOD, Van
+Heusen, Arrow, Warner's and Olga. With distribution of its products to
+more than hundred countries and global retail sales of close to $20 billion
+in 2015, PVH stands as the second largest apparel company in the world.
+While PVH currently sources a large share of its garment from Asia, it is
+showing an increased interest to gradually shift its production base into
+East Africa - a result of changing global economic dynamics such as
+increased cost of production in Asia and the fast economic growth with
+rising middle class society in Africa. It is with this perspective that PVH
+has recently established its own production plant in Ethiopia's Hawassa
+Industrial Park - the largest eco-industrial park in Africa located in the city
+of Hawassa, 250km South of Addis Ababa.
+PVHs direct investment on a fully vertically integrated supply chain in
+Ethiopia is a remarkable shift fromits, and the industry's in general, usual
+business model of sourcing or contract manufacturing - signifying the high
+level of trust the company puts on Ethiopia's investment climate and its
+grand plan of using Ethiopia as a manufacturing hub.
+Recently interviewed on CNN, Marketplace Africa, Manny Chirico, the
+CEO of PVH, gave a bullish testimonial of the excellence with which the
+Government of Ethiopia is implementing its industrial policy and parks
+development, placing the country as a preferred destination for foreign
+directinvestmentand global sourcing. Asked how well PVH's plan of creating
+a manufacturing hub in Ethiopia's Hawassa Industrial Park is unfolding
+against the companys initial expectations, the CEO stated "it is really a
+moving on plan and surprisingly moving very aggressively forward. We
+are targeting first quarter of next year [2017] to actually begin production.
+We are in the stages of factory being built and security and workforces at
+this time. Africa for us represents 5% of our global production. So we have
+always been there. We have seen the promise of Africa and the potential,
+and we are trying to capture that now.
+Further highlighting on the availability of skilled and trainable labour in
+Ethiopia, PVH's CEO underlined there is an abundance of people, and
+remarkably well educated [... ] It is a society that is really going into a
+transition from an agricultural-based society to a manufacturing-based
+society and hopefully in the future towards consumer-led economy. So
+the key issue is job training. It is just a little bit different than running a
+farm or working in an agricultural industry, so that issue needs to be really
+focused. Asked about investment opportunities and challenges, the
+CEO affirmed that some challenges do exist but opportunities outweigh
+the challenges. The biggest challenge we are going to face is Ethiopia is
+landlocked. So the challenges would be making sure that infrastructure
+is in place to move the goods from factory to port. But | have to say, at
+the point we are here, we have always been a pioneer from a sourcing
+point of view. We were keen; we have started up in Bangladesh; we have
+started up in China - we really have been ahead of the curve. Ethiopia, or
+East Africa in general, is significantly ahead of where those other countries
+were at respective time.
+PVHs CEO further underlined on the huge sourcing potential Africa
+presents to companies like PVH asserting that there is a business case
+for them to gradually shift production and set a base in Africa. We are
+targeting East Africa to represent in five years 25% of our production. To put
+that into perspective Asia, led by China, Bangladesh and India, represent
+about 75% of our production today. We would like to diversify that and
+move a third of that production overtime into East Africa, and really use
+that as a base. We believe it will give us a competitive advantage if itis
+built appropriately; it will give us speed to market capability that doesnt
+exist in Asia today. Africa today only represents about $40 million of our
+global retail sales for all of our brands, which is almost $20 billion - small
+percentage but growing very fast. Based on population size and if we
+develop the middle class group in Africa, the potential for our brands
+to do commerce and sale our goods, and become importers instead of
+just exporters, is huge.
+The CEO further stated that brands such as Tommy Hilfiger and Calvin
+Klein are of high initial growth opportunity for African markets since they
+are global brands with tremendous consumer recognition. We will be
+producing some of those goods there with some of our other moderate
+goods, we will start with using our eyes on, and then move towards our
+higher-end brands. There is really a demand that is going to be built up
+over time. We have seen it happen in other parts of the world. But the
+potential in Africa is huge.
+The whole world has much to be excited about when it comes to our work in Ethiopia
+Bill McRaith, Chief Supply Chain Officer for PVH Corp, at the grand Production {inauguration the Hawassa Industrial Park, Hawassa, June 20, 2017
+HIP - Human resource
+The competitiveness of the manufacturing sector in
+industrial parks greatly depends on the development of
+human capital and multidimensional initiatives carried
+out by various stakeholders to assure seamless supply of
+skilled/productive labor force tuned to the specific needs of
+enterprises. Capable, productive and disciplined workforce
+- along with mechanisms and legislative frameworks that
+facilitate better performance, productivity and industrial
+harmony - are absolute preconditions for success in the
+manufacturing sector. Human capital development schemes
+must also be attended by continuous educational programs
+that focus on soft skills such as instilling positive work
+ethics and deconstructing unwarranted biases and flawed
+perceptions by employees and the larger IP community.
+Accordingly, parallel to putting together HIP's hard
+infrastructure the government implemented various human
+capacity development programs to meet the labor supply
+and efficiency needs of the park.
+Hawassa Industrial Park Sourcing and Training Employees
+in the Region (HIPSTER):
+The HIPSTER program is a collaborative public-private
+platform established between apparel brands, manufacturers,
+commercial service providers and Federal/Regional
+government agencies (HIP Tenants Association, EP/DFID,
+ETIDI, EIC and SNNPR Bureau of Trade and Industry) to
+facilitate the sourcing, testing, grading and recruitment
+of employees in HIP.
+The program commenced on August 2016 and projected
+to last for a period of two and half years. Itis implemented
+with the main objective of developing a market-driven and
+inclusive labour information, registration and preliminary
+training system to facilitate employment opportunities
+in HIP. Housed at the HIP, the program responds to key
+constraints faced by factories in relation to the supply
+of suitable labour force which has hitherto compelled
+factories to produce below capacity. The four key triggers
+for the intervention were identified as high absenteeism
+and turn over, wages and rising living costs, lack of skills,
+motivation and awareness of job opportunities, and poor
+relationship between factory managers and employees.
+HIPSTER's implementation strategy involved two tiers:
+first, the establishment of market-driven system to match
+manufacturers labour demand with job seekers through the
+development of sustainable sourcing, screening, training
+and placement mechanisms, and second, the training of
+new entrants on soft-skills to improve performance, worker
+engagement and motivation, and reduction of worker
+absenteeism and turnover - which would eventually result
+in increased productivity and lowered cost.
+So far, the program has been able to reach out to a
+significant number of job seekers, with greater outreach
+to geographically and economically remote female job
+seekers as compared to sourcing works pursued by
+factories on their own. The soft skills training package
+addressed various themes including workers industrial
+work ethics, attitude, performance, vision building and
+team work - responding to manufacturers demands.
+Hawassa Industrial Park Center of Excellence for the
+Textile and Apparel Sector
+On top of the regular industrial/technical and human
+resource training, the Center of Excellence will offer
+training to employees (during the post-recruitment period)
+on regular basis on subjects like improving performance
+and productivity, enhancing workers engagement and
+motivation, and work ethic issues (focusing on reducing
+worker absenteeism and turnover);
+Active consideration is also given in terms of expanding
+the Center's mandate and facilities for purposes of
+conducting executive-style training to staffs of the EIC/
+IPDC on various themes - including the operation and
+management of industrial parks.
+i wl wl ol
+The first and largest sustainable textile & apparel park in Africa;
+* Inaugurated in 2016 with state-of the-art technology and world-class
+infrastructures (features a zero liquid discharge technology (ZLD),
+adheres to global quality/ audit certification including Customs-Trade
+Partnership Against Terrorism (C-TPAT);
+s Companies: PVH, Wuxi Jinmao Co. Ltd, Arvind Ltd. , Best Co. Pvt. Ltd,
+Hirdaramani Garment PLC, HelaClothing Group, Quadrant Apparel
+Group PLC, Raymond and Silver Spark Apparel Ltd, TAL Apparel, Indochine
+International, Bussana Apparel Group, Giangsu Golden Island Group,
+Chargeurs Fashion Technologies, Isabella and Sarasavi Export (PV4)
+ltd, Everest, Ontex Group NV, EPIC Group, FCI Talisman (FCI Group)
+ Products: Woven shirts, woven bottoms, sportswear, underwear
+garments, synthetic tops, sokes & tights, women wears (blouse, dress,
+skirts, etc)
+Location
+ ltis situated at the heart of the city of Hawassa - capital of the SNNPR
+Population & employment
+* 5 million people within 50 km radius
+* Employing ~ 20,0000 workers
+Industrial Park area
+* Total land area of 3 million m2 (300ha)
+* Total built-up area of 1.4 million m2 (140ha)
+* 410,000 m2 factory shed built up area
+Sheds
+* Atotal of 52 factory sheds
+ 11 sheds of 11,000 m2, 35 sheds of 5,500 m2, and 6 specialized sheds
+(tailored to the needs of investors)
+Park Specialization
+ HIP host investors leading apparel and textile manufacturers
+Bole lemi Industrial Park
+The park is 15 minutes drive from Bole-international airport;
+It has a access to756km electric driven railway that connects Addis
+Ababa to Djibouti;
+Companies: Hosts leading manufacturers including George Shoe,
+Shints ETP Garment PLC, Evertop Sportswear, etc.
+Products: Women shoes, sandals, Sportswear, Shirts, trousers, Gloves,
+jacket and shorts
+ Located in the South Eastern part of Addis Ababa
+ 25 million people within 25 km radius
+* Employing ~ 14,0000 workers
+* Total area of 3.27 million m2 (327 hectares)
+ Phase one: 1.56 million m2 (156 hectares)
+ Phase two: 1.71 million m2 (171 hectares)
+Sheds (Phase 1)
+* Atotal of 20 sheds
+ 10 sheds of 5,500m2 and 11,00m2 each
+ BLP hosts leading investors in textille & apparel and leather products
+manufacturing sector
+Mekelle Industrial Park
+MIP was inaugurated in July, 2017;
+The city of Mekelle has an international airport with 8 daily
+flights from Addis Ababa;
+A new electric-powered railway is under construction
+and will soon connect the city to the Port of Djibouti. The
+railway will guarantee efficient and eco-friendly cargo and
+passenger transport service between the park and the
+Port of Djibouti reducing travel time by more than 50%;
+A 40 meters wide road will link MIP to the railway line
+located 18 km from the park. The railway will guarantee
+efficient and eco-friendly cargo and passenger transport
+service between the park and the Port of Djibouti reducing
+travel time by more than 50%;
+Currently the park hosts leading manufacturers such as
+Ananta Group (Two companies Calistoga & Strathmore), SCM
+Garment Knit Tex ple, Pretty Industries ple, Pooja International
+India and Laguz Stylish Garment manufacturing plc;
+Products: Wearing apparel, Denim Composite, Knit Composite,
+Sweaters, Apparel, Knit and ready made garments.
+ Located at the heart of the capital city of Tigray Regional
+State, Mekelle
+* 1 million people in & around the city
+* Expected to generate employment opportunity for about
+20,000 employees
+* Total land area of 10 million m?
+ Ist phase: 1 million m?
+ Phase 1- 100,000 m? factory shed built up area
+* Atotal of 15 sheds
+ 5 sheds of 11,000 m2, 6 sheds of 5,500m2 & 4 sheds of
+3,000 m?
+* Hosts leading manufacturers in the textile & apparel and
+leather products sector
+Kombolcha Industrial Park
+KIP was inaugurated in July, 2017;
+KIP is located next to the Kombolcha airport, and is walking
+distance from the railway line that connects the City to
+Port of Djibouti;
+KIP is located at 367 km distance from the Port of Djibouti;
+The Kombolcha airport has regular flights to the capital city;
+Companies: The park hosts leading textile & apparel
+companies including Carvico S. p. A, an Italian company
+globally known for its knitted synthetic fabrics used in
+swimwear and sportswear; Trybus a US-company engaged in
+the production of mens suits and Pungkook Corporation; (a
+south Korean company known for supplying Micheal Kors)
+Products: Synthetic fabrics, men's clothing, leather
+bags, cotton yarn.
+ Located in Amhara regional state, north central part of the
+country
+Population and employment
+* 1.5 million people within 50 km radius of the city
+* ltis expected to generate employment opportunity for about
+20,000 employees when it is fully operational.
+* Phase one: Total area of 75 hectare
+ Factory built up area: 60,500 m?
+* Atotal of 9 sheds
+ 2 sheds of 11,000m2 and 7 sheds of 5,500 m?
+* KIP is designed to host investors in the Apparel &Textile and
+Leather & leather products sector
+Dire Dawa Industrial Park
+* DDIP is located 318 km away from the Port of Djibouti and is
+a few minutes away from the railway line; flights from Addis
+Ababa and Djibouti;
+* Dire Dawa Industrial Park is placed on the rail route that
+connects Addis Ababa to Djibouti
+s Companies; The park hosts leading textile & apparel companies
+including Wuxi No1 (one of the leading textile manufacturers
+in China that is doing its preparation to build its factory inside
+the park compound
+* Products: Cotton & blended fabrics, yarn & dyed fabric, leather
+and leather products
+ltis situated in the Eastern part of the country, at a proximity
+distance from the Port of Djibouti - 348 Km.
+* million people in & around the city
+20,000 employees when it is fully operational
+* Total size: 10 million m?
+ Istphase: 1.5 million m?
+ Factory built up area of 92,000 m?
+ 5shedsof 11,000m2, 6 sheds of 5,500m2 & 4 sheds of 3000 m?
+* DDIP is designed to host investors in the Apparel & Textile,
+Machinery, Chemical, Equipment, sector
+Adama Industrial Park
+AlP lies on the Addis Ababa-Djibouti railway at an approximate
+distance of 678 km from Djibouti and has an express way
+connection of 74 km from the countrys capital, Addis Ababa; The
+park i not inaugurated.
+* Companies: The park has garnered the interests of worldly
+renowned apparel and textile companies such as Jiangsu
+Sunshine and Kingdom, these two big textile companies have
+started building their factories inide the park's compound
+Products: Wool textile, linen yarn, fiber flax, sports wears, and
+packaging
+* [tis situated ~90 km South East of Addis Ababa.
+* 450,000 people in and around the city
+* |tis expected to generate employment opportunity for about
+30,000 employees when it is fully operational
+* Total land area of 1.2 million m2 (120 hectares)
+ Factory built up area of 122,500 m?
+ AIP hosts investors in apparel and textile manufacturing sector
+Unlike others this park provides serviced land with major
+infrastructure constructed like dedicated power, ETP&
+STP for industrial & domestic waste water, telecom, OSS
+facility, internal roads among others;
+ |tislocated in Addis Ababa
+* KIP is the one of closest park to Africa's largest international
+airport
+s Over 4 million people in the capital city
+ Easy access to skilled manpower
+Industrial park area
+e Total land area of 2.79 million m?
+ Factory built up area of 1.66 million m?
+Park specialization
+* KIP is designed to hostinvestorsin pharmaceutical manufacturing
+sector
+KEYPRINCIPLES OF THEPARK
+PARKSPECIALIZATION Qui CK POPULATION & EMPLOYMENT
+KIP
+INDUSTRIALPARKFACILITIES
++ Noth
+th
+<S
+QUICK p
+MIP
+. .
+esesan?
+KEYPRINCIPLES OF THE PARK
+gi
+BLIP
+DIP
+TRIALPARKFACILITIES INDUSTRIALPARKAREA
+park k
+apparel compa
+PARK SPECIALIZATION Q U C K
+AIP
+INDUSTRIAL PARK FACILITIES INDUSTRIAL PARK AREA
+of
+122,500 m2
+e890 ug,
+oe o
+SALITAVANY YA TYILSNANI
+diy
+ NOSLIV4
+1NIWAOTdWIZNOILYINdOd ) J | N 0
+NOILYZITYI93dS Yo d
+NY4YdIHLI0STIINIYA AN
+ TA
+=  | [L] Fr a
+aL
+L|_=vio
+NE
+04. The Policy and Regulatory
+Framework for Investment
+Regulations
+Since 2010, the Ethiopian government begun to follow
+integrated five-year growth and transformation plans as
+a central plank of its development programs. The first
+of such plans, the Growth and Transformation Plan - |
+(GTP-I) was implemented until 2015. The country has now
+embarked on the Second Five-Year development plan,
+GTP-Il, covering the period running from 2016-2020.
+Both plans recognized private investment as one of the
+primary engines of industrial development. Particularly, the
+indispensable role of FDI has been included as an integral
+part of the development strategy. Negative domestic
+savings and the high demand for foreign exchanges as
+well as transfer of technology and knowhow continue to
+be major drivers of Ethiopia's openness to FDI.
+GTP-ll targets to achieve a sustained double-digitannual
+GDP growth with the ultimate objective of attaining a
+middle-income status in 2025. It also projects to transform
+the subsistence agriculture-based national economy into
+a manufacturing-led economy. To realize these objectives,
+emphasis has been placed on improving social services
+and infrastructure, on ensuring stable macro-economic
+policies, intensifying investment in industrial parks (both
+state-run and private), and enhancing productivity in the
+agriculture and manufacturing sectors.
+The plan further identifies and incentivizes high priority
+sectors of the economy open to FDI, which include
+renewable energy, light manufacturing, agribusiness,
+construction, healthcare, textiles and apparel, sugar,
+chemicals, pharmaceutical, mineral and steel industry,
+leather products, value-added services, and aviation
+support services and products. Investors, especially those
+who engage in priority sectors, benefit from multi-layered
+incentives packages including the repatriation of investment
+and profits, easy procedures in hiring expatriate personnel,
+and temporary tax exemption and duty free importation
+of capital goods and other inputs.
+The Investment Proclamation of 2012, amended in 2014,
+along with the Regulation on Investment Incentives
+adopted in the same year, and amended in 2014,
+provide the main regulatory regime. These laws establish
+economic sectors open to FDI, the requirements for FDI
+investment monitoring and reporting requirements, and
+the fiscal incentives that are available to investors. A brief
+account of the core features of the regulatory regimes is
+presented below.
+Economic sectors open to FDI
+As indicated above, all manufacturing sectors, mining and
+most of the major other economic sectors are open to
+foreign investment. A few investment areas exclusively
+reserved to Ethiopian nationals include: banking, insurance
+and financial services; broadcasting; Few other areas are
+reserved for joint venture investment with the government.
+In the meantime Gok has exerted increasing efforts to
+widen the economic sectors open to FDI. The law provides
+flexibility on the restrictions of FDls by empowering the
+Ethiopian Investment Commission (EIC) - the investment
+regulatory body - to authorize select foreign investments in
+areas which are otherwise exclusively reserved to domestic
+investors. The Ethiopian Investment Board, chaired by
+the Prime Minister, dispenses such authorization taking
+into account the role of the specific project in promoting
+national interest. The Board is also authorized to grant
+new or additional incentives other than those provided
+under the existing regulations.
+>
+Capital requirement
+Foreign capital brought to Ethiopia for every investment
+project is required to meet a certain threshold and be
+registered with the EIC. The minimum capital requirement
+for a project wholly-owned by a foreign investor is
+US$200,000. The capital requirement goes down to
+US$150,000 if the project is jointly undertaken with
+domestic investor/s. A different capital threshold is set
+for foreign investments in architectural or engineering
+works or related technical consultancy services, technical
+testing and analysis publishing is not allowed to FP by a
+different law which is US$100,000. The capital threshold
+falls down to US$50,000 if such investment is made in
+partnership with a domestic investor. The requirement of
+minimum capital allocation does not apply to a foreign
+investor who reinvests profits or dividends.
+Monitoring and reporting
+For the purpose of close follow-up and monitoring, both
+foreign and domestic investors are required to submit
+progress reports to the EIC on the status of their projects;
+such reports shall be delivered every three months once
+the original investment permit has been issued. Investors
+shall also provide all such information which may be
+needed by the EIC in relation to investment projects.
+ Addis Aballep
+Investment incentives
+Ethiopia offers quite an attractive package of financial
+incentives, including income tax exemption and duty-
+free import, for investments in high priority areas such in
+manufacturing and agriculture sectors. The investment
+incentives are not limited to those already outlined
+under the law; the Ethiopian Investment Board (EIB) is
+authorized to grant investors additional incentives taking
+into account the contribution of the specific project to
+the national economy.
+The tax incentives range from 1 - 15 years of income tax
+exemption - depending on sector and type of investment.
+As the location of an investment is situated further from
+Addis Ababa, the investment attracts more tax incentives.
+Another two years of income tax exemption is extended
+to export-oriented investment projects, which either
+directly export or supply to an exporter as production or
+service input, at least 60% of their products or services.
+The income tax exemption period runs from the
+commencement date of production or the provision of
+service; in case where an investor incurs loss during the
+exemption period, it is possible to carry forward such
+loss for half of the exemption period after the expiry of
+such period. For a maximum of 5 years. Similar incentives
+apply for expansion and upgrade of existing investments.
+Duty-free incentive is provided to investors who import
+capital goods and construction materials necessary for
+the establishment of new projects or the expansion/
+upgrading of the existing ones.
+Industrial Park developers enjoy 10-15 years corporate
+income tax exemption depending on the investment
+location.
+4.2 General Measures
+Affecting FDI
+Taxation
+The Ethiopian tax system has undergone continuous
+reforms especially from 2002 onwards. The tax laws have
+been repeatedly revisited and the office in charge of
+enforcing the laws - the Ethiopian Revenue and Customs
+Authority - ERCA, - has been restructured to make the
+system more accessible, efficient and effective. Efforts
+are also underway to standardize accounting practices
+and, in turn, to improve the accuracy of tax and other
+operating liability assessments.
+The main types of taxes applicable in Ethiopia are: income
+tax on salaries and dividends, profit tax on business,
+custom duty, excise and VAT. Income taxable under the
+new Income Tax Proclamation No. 979/ 2016 includes:
+income from employment, business activities, personal
+activities, entrepreneurial activities by non-residents,
+movable property, immovable property, alienation property,
+dividends distributed by resident company, profit shares
+paid by registered partnerships, interest paid by national,
+regional or local governments, and license fees.
+Direct taxes
+The business income tax rate for companies is flatly set at
+30%. As per the new Income Tax Proclamation, individual
+taxpayers with a business income ranging from ETB 7200 -
+130,800 pay between 10% - 30%. For the amount beyond
+ETB 130,800, a flat rate of 35% is levied. For the purpose
+of taxation, an individual is deemed a resident of Ethiopia
+if he/she has permanent residence in the country or has
+stayed in Ethiopia for 183 days, in a period of twelve
+calendar months, whether continuously or intermittently.
+Incomes from employment and rental of buildings are
+taxed at a progressive rate ranging from 0% - 35%. Under
+the new law, the exemption thresholds for employment
+income tax and rental of building are raised from ETB
+150 to 600 (per month) and from 1800 to 7200 per year,
+respectively.
+Indirect taxes
+A business with an annual turnover of ETB 500,000 and
+above shall register for Value Added Tax (VAT), the rate of
+which is 15%. Businesses with taxable annual transaction
+of less than ETB 500,000 are charged with Turnover Tax
+(ToT) of 2% and 10%.
+In addition to sales tax, excise tax is charged on various
+consumers goods like alcohol, tobacco, salt, fuel,
+television sets, cars, carpets and toys. The tax rates vary
+from 10% on receivers, garments and textiles of any type
+and fabrics to 100% on perfumes, vehicles above 1,800
+cc and alcoholic drinks.
+No export tax is imposed in Ethiopia.
+Foreign exchange regulation
+and transfer of capital
+Access to foreign exchange is regulated by the National
+Bank of Ethiopia (NBE)- the central bank of the country. The
+national currency of Ethiopia, Birr, is not freely convertible.
+Foreign exchange transactions need the approval of the
+NBE. Investors need to request for foreign exchange
+ahead of time since the process may take time.
+Non-resident Ethiopians and non-resident foreign nationals
+of Ethiopian origin can establish and operate foreign
+currency accounts of upto US$50,000.
+All foreign investors can remitout of Ethiopia profits and
+dividends, principals and interest on foreign loans, and
+fees related to technology transfer in convertible foreign
+currency at prevailing rate of exchange. They can also
+remit proceeds from the sale or liquidation of assets,
+from the transfer of shares or of partial ownership of an
+enterprise, and funds required for debt servicing or other
+international payments. Similar privilege extends to expats
+allowing them to remit their salaries.
+Labor markets regulation
+Competitive labor cost is among the key pulls of FDI
+in Ethiopia. The country is the second most populous
+nation in Africa with active workforce constituting more
+than 50% of its total population. The labor market
+offers a huge number of trainable manpower with
+a very competitive cost. Since there is no national
+minimum wage set by the government, wage is often
+determined by market forces.
+Ethiopia is signatory to eight Core ILO Conventions. In
+tune with the undertakings entered under the conventions,
+Ethiopia's national laws criminalize, inter alia hazardous
+works and worst forms of child labor. The labor proclamation
+lays down the minimum work conditions employers shall
+comply with so as to maintain industrial peace and safety.
+Workers are allowed to exercise their rights to associate
+and organize by establishing labor unions under the
+umbrella of the Confederation of Ethiopian Trade Unions
+(CETU). Generally, employer-employee relationships in
+Ethiopia are smooth and workers strike is uncommon
+across industries.
+Land and property rights
+The FDRE Constitution recognizes and protects ownership
+of private property, which includes the rights to acquire,
+use and dispose objects of tangible or intangible nature.
+However, the right to ownership of land (both urban and
+rural) and other natural resources is exclusively vested in
+the State and in the people of Ethiopia. Investors exercise
+use right over lands and ownership right over the buildings
+and any other value they add to the land. Investors can
+mortgage their rental (lease) right to access credit.
+Land is allocated for investment at a competitive price
+through a lease agreement that runs up to 99 years for
+residential and 70 years for business. The government
+is strongly committed to provide fertile rural land for
+large-scale commercial farms. Urban land is allocated
+for investment in two ways depending on the purpose:
+if itis for industrial uses, an investor can acquire land in
+one of the industrial parks built by the government, or
+private sector at a fixed price. For other purposes, land
+is obtained only through auction.
+SEE Le i re
+Environmental management
+The Got is committed to build a climate-resilient green
+economy by making all development projects environment-
+friendly. The Environmental Impact Assessment (EIA)
+Proclamation introduced in 2002 requires that an EIA
+process be undertaken on all development projects that
+are likely to have negative impact on the environment.
+The judiciary and rule of law
+In Ethiopia the federal Constitution is supreme law of the
+land. The Constitution recognizes international treaties
+ratified by Ethiopia as integral part of the national laws. With
+regard to the interpretation of human rights provisions of
+the Constitution international treaties tend to take even a
+higher position than the Constitution. The Ethiopian legal
+system is mainly continental with some mixed features
+in procedural and other aspects. The parliament (the
+House of People Representatives at the federal and State
+Councils, at the regional state levels) is the only organ
+vested with inherent law-making power. The legal system
+relies on codified laws such as civil, penal, civil procedure,
+and penal procedure, commercial and maritime codes.
+All laws passed by the legislator are published in official
+gazettes (Negarit Gazeta).
+The Judiciary is established by the FDRE Constitution
+with full institutional and individual independence. All
+federal matters are entertained by federal courts while
+state matters goes to state courts. To ensure consistency
+of legal interpretation and promote predictability of
+courts the Federal Supreme Court Cassation Division is
+empowered to give binding legal interpretation on all
+federal and state matters.
+Besides the regular courts, alternative dispute resolution
+(ADR) mechanisms are also legally recognized and widely
+used means of commercial dispute resolutions in Ethiopia.
+The 1960 Civil Code provides the basic rules governing
+Compromise, Mediation and Arbitration. Especially
+arbitration is becoming practiced means of dispute
+settlement among the business community. Institutional
+arbitration is also facilitated by Ethiopian Arbitration and
+Conciliation Center, established under Addis Ababa
+Chamber of Commerce.
+ope
+Competition
+Ethiopia enacted Trade Competition and Consumers
+Protection Proclamation (No. 813/207 3) with the objectives
+of protecting the business community from anti-competitive
+and unfair market practices and also consumers from
+misleading market conducts. The government office
+in charge of overseeing proper implementation of the
+proclamation is Trade Practice and Consumers Protection
+Authority (TPCPA).
+TPCPA is mandated with promoting a competitive business
+environment and enhancing economic efficiency and
+social welfare, by regulating anti-competitive, unethical,
+and unfair trade practices. It has also an administrative
+tribunal with a jurisdiction on matters pertaining to market
+competition and consumer protection. Over the last three
+years the tribunal has entertained many cases of consumer
+protection and unfair trade practices.
+Protection of intellectual
+property rights
+Ethiopia is a member of the World Intellectual Property
+Organization (WIPO). It has also passed a number of
+national laws to ensure the protection of intellectual
+property rights such as patent, industrial design, copy
+right and neighboring rights, and trademarks. A distinct
+government office, Ethiopian Intellectual Property Office
+(EIPO), is established to oversee proper enforcement
+of intellectual property rights. The Office also provides
+registration service for intellectual property rights such
+as trademark, patent and copyright.
+Although both the protection of intellectual property
+rights and the capacity of EIPO are generally criticized
+for being weak, efforts are being exerted to improve the
+situation. The government has shown interest to accede
+the Berne Convention for Literary and Artistic Works
+and the Madrid System for the International Registration
+of Marks. EIPO is improving its institutional capacity by
+attracting skilled manpower.
+Trade integration
+Ethiopia has engaged in numerous trade negotiations at
+the regional and international levels. It is an observer of the
+World Trade Organization (WTO) and isin the process of
+accession. Ethiopia has been a member of the Common
+Market for Eastern and Southern Africa (COMESA) since
+its foundation in 1993.
+With respect to market access, Ethiopia has wide
+opportunities which are far from being fully utilized. As a least
+developed country (LDC), it enjoys preferential treatment
+offered by many of its trading partners. By virtue of the
+European Union's Everything But Arms (EBA) program
+and the United States African Growth and Opportunity
+Act (AGOA) Ethiopia is granted duty-free, quota-free
+access to the largest foreign markets for virtually all of its
+exports. The country also enjoys tariff preferences under
+the Generalized System of Preferences (GSP) in Australia,
+Canada, Japan, New Zealand, Norway, and Switzerland.
+Ethiopia benefits from preferential marketaccess in China,
+India, Russia, the Republic of Korea, and Turkey.
+Preferential market access opportunities
+The African Growth and
+Opportunity Act (AGOA)
+The African Growth Opportunity Act (AGOA) is initiated
+through the United States Trade and Development
+Act of 2000. It provides the most liberal trade
+opportunity for export products originating from
+eligible Sub-Saharan African countries to enter US
+markets under duty-free and quota-free treatment.
+The initiative works towards developing Africa's
+trade integration with US markets. Only Sub-Saharan
+African countries are considered for eligibility, and
+in this light, AGOA beneficiary statuses have been
+awarded to approximately 40 countries - with the
+numbers changing from time to time. Ethiopia has
+been eligible since January 2001. The preferential
+scheme is recently extended to the year 2025 and
+hence continues to provide advantageous market
+access to exporters from Ethiopia.
+AGOA eligibility does not imply automatic eligibility
+under the textile and apparel provisions which
+require the implementation of effective visa system
+and enforcement mechanisms to prevent illegal
+transshipment. A special rule named Third Country
+Fabric Provision (TCFP) permits lesser developed
+AGOA beneficiary countries like Ethiopia to utilize
+fabric manufactured anywhere in the world.
+The Everything-But-Arms
+(EBA) Scheme
+The EBA is part of European Union's Generalized
+System of Preferences (GSP), a non-reciprocal scheme
+introduced by the EU in 2001 to give all LDCs full
+duty free and quota-free access to EU for all their
+exports - with the exception of arms and armaments.
+In principle the scheme runs for an unlimited period
+of time and is not subject to periodic reviews or
+renewal. The initiative also provides for a transition
+period of three years when Ethiopia moves up to
+the Developing Country status.
+China - Duty Free Quota
+Free (DFQF) for LDCs
+As a part of its commitment under the WTO, and
+within the framework of the Forum on China-
+Africa Cooperation (FOCAC), China announced
+on January 1, 2005 that 190 items from 25 SSA
+LDCs will be granted Duty Free Quota Free (DFQF)
+treatment to its Market. On 1 January 2008, the
+decision was expanded to a total of 30 LDCs in
+Africa. The programme initially implemented a
+zero tariff treatment for 60 per cent of products
+in China's tariff schedule (4788 tariff lines (8-digit
+level)) which represented more than 95 per cent
+of products imported from beneficiary countries:
+Ethiopia and China signed an agreementenabling
+the preferential trade agreement on January 2010.
+China progressively opened its market by expanding
+the coverage of the program to 97 per cent of
+its tariff lines as of 2015. The list of beneficiaries
+has also been adjusted over the years, covering
+40 LDCs by December 2015. The program is
+implemented for an indefinite period of time on
+a non-reciprocal basis and unconditionally for all
+LDC's that have diplomatic relations with China.
+In addition to the above, Ethiopia is a member
+of COMESA (Common Market for Eastern and
+Southern Africa), 20 member state regional
+integration framework with large market potentials
+serving a population of about 400 million.
+Name Type Sub- Provider(s) Initial Entry
+schemes Into Force
+Generalized System of Preferences GSP 1 Australia 1/1/1974
+- Australia
+Generalized System of Preferences GSP 1 Canada 7/1/1974
+- Canada
+Generalized System of Preferences GSP 2 European Union 7/1/1971
+- European Union
+Generalized System of Preferences GSP 0 Iceland 1/29/2002
+- Iceland
+Generalized System of Preferences GSP 1 Japan 8/1/1971
+- Japan
+Generalized System of Preferences GSP 1 New Zealand 1/1/1972
+- New Zealand
+Generalized System of Preferences GSP 2 Norway 10/1/1971
+- Norway
+Generalized System of Preferences GSP 1 Belarus; 1/1/2010
+- Russian Federation, Belarus, Kazakhstan;
+Kazakhstan Russian Federation
+Generalized System of Preferences GSP 1 Switzerland 3/1/1972
+- Switzerland
+Generalized System of Preferences GSP 2 Turkey 1/1/2002
+- Turkey
+Generalized System of Preferences GSP 1 United States 1/1/1976
+- United States
+Duty-Free Tariff Preference LDC-specific 0 India 8/13/2008
+Scheme for LDCs
+Duty-free treatment for African LDC-specific 0 Morocco 1/1/2001
+LDCs - Morocco
+Duty-free treatment for LDCs - LDC-specific 0 Chile 2/28/2014
+Chile
+Duty-free treatment for LDCs - LDC-specific 0 China 7/1/2010
+China
+Duty-free treatment for LDCs - LDC-specific 0 Taipei, Chinese 12/17/2003
+Chinese Taipei
+Duty-free treatment for LDCs - LDC-specific 0 Kyrgyz Republic 3/29/2006
+Kyrgyz Republic
+Duty-free treatment for LDCs - LDC-specific 0 Thailand 4/9/2015
+Thailand
+Preferential Tariff for LDCs - LDC-specific 0 Korea, Republic of 1/1/2000
+Republic of Korea
+African Growth and Opportunity Other PTAs 3 United States 5/18/2000
+Act
+m
+ A high-level delegation of the Government of Ethiopia, led by H. E
+Dr. Arkebe Oqubay, participated atthe World Bank Group Investment
+Competitiveness Forum held in Vienna on October 25, 2017.
+Administration
+The Ethiopian Investment
+Commission
+The Ethiopian Investment Commission (EIC) is the principal
+government organ responsible for promoting, coordinating
+and facilitating domestic and foreign investment in
+Ethiopia. EIC is established under Investment Proclamation
+No.769/2012 (as amended) and the Council of Ministers
+Regulation No. 3173/2014. Functionally, The EIC is overseen
+by the Ethiopian Investment Board (EIB) - a governing
+body chaired by the Prime Minister and composed of
+government officials designated by the Prime Minister
+wherein the EIC serves as its secretariat.
+At the local levels, the respective regional investment
+agencies have been established to promote and handle
+regional investments. Regional investment agencies
+and the EIC work hand in glove in all matters relating to
+investment promotion and facilitation.
+To see Ethiopia as one of the leading investment destinations
+in Africa and transition into a middle income country status
+by 2025.
+ad
+To bring rapid, sustainable and equitable economic growth
+in the country through the implementation of research-based
+investment promotion, the provision of one stop service and
+support system to enable the procurement of competent investors
+who can produce quality and value added products - primarily
+for export purpose and mainly operating within industrial parks.
+ E1C
+ETHIOPIAN INVESTMENT C OMMISSIO N
+PATER Ee ATa0toerd hol 7
+History
+Ethiopia opened its first investment promotion agency in
+1993 after a new regime led by the incumbent party - the
+Ethiopian People's Revolutionary Democratic Front - took
+power in the country. The institution was first established
+under Investment Proclamation No.15/1992 as the Ethiopian
+Investment Agency. It was later re-established as the
+Ethiopian InvestmentAuthority by virtue of Proclamation
+No.37/1988. lt was again reorganized and reconstituted
+with two subsequent Proclamations Proclamation
+No.280/1994 and Proclamation No. 471/1998. Since
+August 2014, it has been reestablished as the Ethiopian
+Investment Commission (Council of Ministers Regulation
+No. 313/2014). When it started operation, the Commission
+was functionally organized through 5 divisions delivering
+four major services and utilizing its fifty four employees.
+The Commission had gone through different forms of
+accountability at different times. In the beginning, it was
+functionally answerable to the Investment Board, later
+to the Ministry of Trade and Industry and to the Industry
+Ministry, and currently to the Prime Minister's Office.
+o
+Functions
+The principal duties and responsibilities of the EIC include:
+o Promoting, coordinating and expanding investment
+activities;
+ Generating and implementing policy issues required
+for creating suitable and competitive investment
+climate;
+ Negotiating and signing bilateral investment expansion
+and protection agreements with countries from which
+potential investment originates;
+o Preparation and dissemination of investment
+information in the form of texts films and digital
+mediums, hosting and undertaking exhibitions and
+trade fairs, holding research expos and seminars both
+within the country and abroad, participating in similar
+events hosted by others, and providing training on
+issues of promotion and expansion of investment;
+ Working on and coordinating the creation of cooperative
+and complementary relationships among investors,
+government offices, regional governments and
+other related stake-holders on matters of investment
+promotion and facilitation;
+eo Collecting, organizing, analyzing, updating and
+disseminating all investment related information;
+ Preparing and promoting investment opportunity
+statements, and upon request, providing assistance
+to companies looking for joint ventures;
+ Issuing, renewing and canceling investment permits
+within its jurisdiction, and registering foreign
+investment capitals;
+o Registering investment related technology transfer
+agreements;
+ Registering agreements between foreign enterprises
+and local investors notinvolving the pooling of capital;
+e Tracking the progress of licensed investment projects,
+checking compliance with all requirements of licenses,
+and ensuring that all incentives are employed for
+the designated purposes;
+Providing investors with information, advisory and
+technical support services, organizing information
+to facilitate forward and backward linkages) of
+resources among enterprises;
+Providing post investment support and follow-up
+services jointly with other responsible institutions;
+Providing advisory and technical supports to regional
+investment bureaus and hosting joint meetings and
+discussions;
+Enhancing the knowledge of investors on the
+Investment Proclamation and related regulatory
+instruments; and
+Resolving investment bottlenecks along with other
+concerned government bodies
+THE OFFICE
+OF THE PRIME
+MINISTER
+COMMISSION
+Over the years, the commission has undertaken a range of
+measures to ensure the efficiency of the service it renders
+and thereby increase client satisfaction levels. Following
+the implementation of Business Process Re-engineering
+(BPR), the Commission's working procedures have been
+improved; for example, the time it takes to get license
+and effect registration has been reduced to 1 days from
+the previous two weeks The Commission has also put in
+place complaint handlings system through which clients
+submit their grievance on the quality of services received
+and get the issues solved hierarchically. Work ethics and
+anti-corruption manuals have also been amended to
+thwart employees misconduct which often generates
+the dissatisfaction of clients.
+INVESTMENT BOARD
+* EIB Is chaired by the PM
++ This Board consists of senior
+government representatives from
+Forelgn Affairs, industry Finance,
+Agriculture, ERCA, National Bank
+and Clty of Addis and Its key role Is
+lead overall Investment and industrial
+Park Policy making In Ethiopla
+EIC's major activities
+The Growth and Transformation Plans (GTP |&ll): Among
+the national objectives articulated under the national
+growth and transformation plans (GTP 1&ll), enhancing
+the role of investment in pursuing the countrys economic
+transformation has been highlighted as the most vital.
+Hence during both phases of the planning periods, the
+EIC - being the primary institution - has endeavoured
+to work on the implementation of the stated objectives.
+EIC restructuring
+Over the past three years, EIC has commissioned an
+independent review of its activities and institutional
+structure in an effort to streamline the countrys investment
+framework. Following the studies, the EIC embarked on
+the restructuring of its institutional setup to meet the
+changing dynamics of investment in the country, attend
+to the growing number and size of investment inflows and
+respond efficiently to the requirements of new frontiers
+in the investment landscape of the country such as the
+development of industrial parks. .
+One - Stop Services:
+EIC provides a dedicated one-stop service to all foreign
+investors at the headquarter and at its branches opened
+in Industrial Parks in Ethiopia. Among others if;
+o Provides the necessary information required by
+investors;
+ Receives investment applications;
+ Registers newly incorporated business organizations;
+J Notarizes constituting documents;
+ Approves and issues investment permits to foreign
+o Issues trade and operating licenses to approved
+foreign investments;
+. Approves and registers technology transfer agreements;
+. Provides advisory and aftercare services to investors;
+ Approves expatriate posts and issues work permits
+to foreign employees;
+ Approve investment incentives
+facilitates the acquisition of land by foreign investors in
+accordance with the relevant laws of the Federal and
+Regional Governments.
+Other activities:
+Over the past years, the EIC has recorded praiseworthy
+achievements in terms of investment promotion through the
+provision of general and targeted investment recruitment
+activities.
+eo The EIC has also provided follow up, facilitation and
+aftercare services to different projects to enable them
+transition to the implementation and operational
+stages;
+e TheElC has conducted several empirically enriched
+researches to generate new policy insights and adopt
+strategic directions that foster better investment
+e TheElChasnegotiated and signed bilateral investment
+agreements with countries from which high turnover
+of foreign direct investment is expected to come.
+ EIC coordinates GOE's investment climate improvement
+measures including improving the countrys WB
+doing business ranking (DB)
+o EIC undertakes various investment policy dialogue
+(PPD's)
+05 Ethiopia: Global Recognition
+for Excellence in Investment
+UNITED NATIONS AWARD FOR PROMOTING
+INVESTMENT IN THE SUSTNABLE DEVELOPMENT GOALS
+(SDGS) - 2017
+The Ethiopian Investment Commission (EIC) won the 2017
+United Nations award for outstanding performance in targeted
+promotion, facilitation and execution of sustainable investment
+projects.
+This prestigious award is granted to a national Investment
+Promotion Agency (IPA) in recognition of its exceptional
+achievements in promoting and facilitating Foreign Direct
+Investment (FDI) that contributes towards the realization
+of the Sustainable Development Goals (SDGs). The winner
+is selected by a committee comprising the United Nations
+in collaboration with the World Association of Investment
+Promotion Agencies (WAIPA), which has over 170 members
+in 130 countries.
+The Award was announced by the Secretary-General of the
+(UNCTAD) during the UNCTAD Investment, Enterprise
+and Development Commission Meeting on 20 November
+2017, in Geneva, Switzerland.
+UNCTAD remarked that Ethiopia won based on the criteria
+of effectiveness of its investment promotion agency in
+promoting and facilitating FDI projects, evidence of
+positive results from the promotion and facilitation
+services, and contribution of its FDI projects to the
+realization of the SDGs.
+construction and operation of Hawassa Industrial
+Park was highly commended as exemplary for other
+countries. Ethiopia's deliberate policy choice to promote
+labour-intensive industries such as textile and apparel
+that provide job opportunities for youth and create equal
+opportunities for women; its compliance with high social
+and environmental standards on the development
+and operation of industrial parks; its targeted investor
+recruitment strategy and attraction of leading global
+firms; and its dedicated effort in establishing the OSS
+and other investor-friendly reforms all contributed to
+the decision to grant this award to Ethiopia.
+N ruum cul /
+@
+Won saw aoe
+Forum 2017
+Bem uniens
+Competitiveng
+Forum 201
+ woriosuucancue
+Competitivenes
+stment
+uInpeLTveness
+Worlo saver
+[Vdd
+gESTMENT
+ERS
+K
+BANK
+GROUP
+petitivel
+m 2017
+WORLD BANK GROUP STAR REFORMER AWARD FOR
+STELLAR PERFORMANCE ON INVESTMENT POLICY
+REFORM AND PROMOTION
+Ethiopia won World Bank's Star Reformer Award
+for its effective foreign direct investment (FDI) related
+reforms and resulting success.
+In granting such a prestigious international recognition to
+Ethiopia, the World Bank Group appreciated the high-level
+political commitment the Government of Ethiopia has
+demonstrated towards FDI attraction and facilitation
+through the realization of targeted policy reforms.
+According to the World Bank Group, conventional
+international indicators used for measuring reforms around
+the ease of doing business by small and medium firms
+do not capture the transformational investment policy
+and promotion reforms that can enhance flow of FDI.
+Thus key reforms impacting FDI and its spillover effects
+on the domestic economy may go unnoticed. The Star
+Reformer Award thus aims to increase the visibility of
+such transformational reforms and showcase success
+stories realized by committed governments such as
+that of Ethiopia. The World Bank Group is working very
+closely with the Government of Ethiopia in fostering such
+transformational reforms that can maximize potential
+benefits of FDI and in harnessing linkages with the
+domestic economy.
+Such an award forms the highest level of international
+recognition to the tireless effort of the Government of
+Ethiopia in attracting and facilitating transformational
+investments into Ethiopia. This is testament yet that Ethiopia
+is rightly positioned to realize its vision of becoming
+a leading manufacturing hub in Africa by 2025.
+Several strategic reforms have been putin place by the
+Government of Ethiopia to attract leading manufactures to
+Ethiopia and enhance their competitiveness of which the
+key ones include: development of industrial parks with
+a plug-and-play environment; design of legislations
+that regulate and facilitate industrial park programs;
+formulating targeted and sector-specific incentive
+instruments and other government support measures;
+as well as implementation of targeted and proactive
+investors recruitment.
+Licensing and Registration Process
+in Ethiopia
+Ethiopia's new Investment Permit Application process is
+simple and requires only a few steps:
+These steps vary slightly depending on the business form
+under which investors plan to operate their business:
+Sole Proprietorship
+s Step 1: Collectinformation from Ethiopian Investment
+Commission (EIC) Information and Investment
+Promotion Department about requirements,
+incentives, etc.
+ Step 2: Collectapplication form from Information
+Desk.
+* Step 3: Submit application with passport and
+visa to start new investment permit application in
+Licensing and Registration Department.
+* Step 4: Collect bank letter from Licensing and
+Registration Department to open an account at
+National Bank of Ethiopia.
+ Step 5: Transfer/deposit cash in an opened bank
+account.
+* Step 6: Collect confirmation letter from bank
+which states the bank account is already opened
+and money is transferred/deposited.
+* Step 7: Collectinvestment permit certificate from
+Private Limited Company (PLC)
+ Step 1: Collectinformation from Information and
+Investment Promotion Directorate about requirements,
+* Step 2: Collect application form memorandum
+and article of association from Information Desk.
+* Step 3: Submit draft memorandum and article of
+association in Licensing and Registration Department
+ Step 3: Check uniqueness of the company name
+from Ministry of Trade (MoT) database
+* Step 4: Collect letter of clearance for unique
+company name from Licensing and Registration
+Department
+* Step 5: Edit and authenticate memorandum and
+article of association in Licensing and Registration
+Department.
+* Step 6: Collect letter to the National Bank of Ethiopia
+from Licensing and Registration Department to open
+an account at the bank.
+e Step 7: Open an account in the bank and transfer/
+deposit money.
+| I |
+REGISTRATION EE
+* Step 8: Collect confirmation letter from the
+bank which states the bank account is already
+opened and money transferred, authenticated
+lease agreement from documentation and
+authentication office and TIN number from
+CUSTOM and Revenue office.
+* Step 9: Fill application form /profile/ available
+at EIC Information Desk.
+* Step 10: Collectinvestment permit certificate
+and principal registration from Licensing and
+Registration Department
+Branch/ Multinational Company
+* Step 1: Collect information from Information
+and Investment Promotion Directorate about
+requirements, incentives, etc
+* Step 2: Collect application form from EIC
+Information Desk
+* Step 3: Submit application, authenticated
+parent (mother) company document, new
+company general manager's passport and visa
+in Licensing and Registration Department to
+start new investment permit
+* Step 4: Collect a letter to the National Bank
+of Ethiopia from Licensing and Registration
+Department of EIC to open an account in a bank
+* Step 5: Open an account at the bank and
+transfer/deposit cash
+and money is transferred/deposited
+* Step 7: Collect investment permit certificate
+from Licensing and Registration Department
+Key Contacts
+Ethiopian Investment
+P. O. Box 2313
+Tel: +251-11-551 0033
+Fax: +251-11-551 4396
+E-mail: ethiopian. invest@
+ethionet. et
+Website: eia. gov. et
+Corporation (IPDC)
+Tel: +251-11-661 6986 / 661
+6674
+E-mail: info@ipdc. gov. et
+Ministry of Foreign Affairs
+P. O. Box 393
+Tel: +251-11-551 7345
+Fax: +251-11-551 4300/ 551
+1244
+E-mail: mfa. addis@telecom. net. et
+Ministry of Industry
+P. O. Box 5641
+Tel: +251-11-551 8025-29
+Fax: + 251-11-551 4288
+Ministry of Trade
+P. O. Box 704
+Tel: +251-11-551 8025
+Fax: + 251-11-551 5411
+Ministry of Culture and Tourism
+P. O. Box 1907
+Tel: +251-11-515 6711
+Fax: + 251-11-551 2889
+E-mail: tour -com@ethionet. et
+Ministry of Agriculture
+P. O. Box 62347
+Tel: + 251-111-551 8040/ 551
+7354
+Fax: +251-11-551 1543
+E-mail: vmoasc@ethionet. et
+Ministry of Finance & Economic
+P. O. Box 1905
+Tel: +251-11-155 2400
+Fax: +251-11-156 0124
+Ministry of Mines
+P. O. Box 486
+Tel: +251-11-646 3166
+Fax: +251-11-646 3364
+E-mail: information@mom. gov. et
+Ministry of Labor & Social Affairs
+Addis Ababa
+P. O. Box 2056
+Tel: +251-11-551 7080
+Fax: +251-11-551 8396
+E-mail: molsa. comt@ethionet. et
+Ethiopian Revenue and Customs
+Authority
+P. O. Box 2559
+Tel: +251-11-466 7666
+Fax: +251-11-466 8244
+E-mail: erca@ethionet. et
+Ethio-telecom
+P. O. Box 1047
+Tel: 251-11-551 0500
+Fax: 251-11-551 5777
+E-mail: etc. commun@ethionet. et
+National Bank of Ethiopia
+P. O. Box 5550
+Tel: +251-11-551 7430
+Fax: +251-1-551 4588
+E-mail: nbe. excd@ethionet. et
+Ethiopian Electric Service
+P. O. Box 1233
+Tel: 251-11-155 0811
+Fax: 251-11-155 2345
+E-mail: eelpa@ethionet. et
+Central Statistical Agency
+P. O. Box 1143
+Tel: 251-11-155 3011
+Fax: 251-11-155 0334
+E-mail: csa@ethionet. et
+Ministry of Environmental
+Protection & Forestry
+P. O. Box 12760
+Tel: +251-11-646 5007
+Fax: +251-11-646 4882
+E-mail: esid@ethionet. et
+Development Bank of Ethiopia
+P. O. Box 1900
+Tel:
+Fax:
+E-mail:
+Website: www. dbe. com. et
+Ethiopian Chamber of Commerce
+and Sectoral Associations
+P. O. Box 517
+Tel: 251-111-551 8240
+Fax: 251-11-551 7699
+E-mail: etchamb@ethionet. et
+Ethiopian Horticulture Producers
+& Exporters - Association
+Association (EHPEA)
+Tel: 2561-11-663 6750/663 6751
+Fax: 251-11-663 6753
+E-mail: ehpea@ethionet. et
+Addis Ababa Chamber of
+Commerce and Sectoral
+Associations
+P. O. Box 2458
+Tel: 251-111-552 8120
+Fax: 251-11-551 1479
+E-mail: aachamber1@ethionet. et
+Ethiopian Leather Industries
+Association (ELIA)
+P. O. Box 12898
+Tel: +251-11-515 6144
+Fax: +251-11-550 8935
+E-mail: elia@elia. org. et
+ETHIOPIAN INVESTMENT C OMMISSION
+P. . Box 2313  Addis Ababa  Ethiopia
+Fax: +251 11 551 4396
