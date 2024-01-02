@@ -25,7 +25,7 @@ I performed cleaning and preprocessing on the collected text data to ensure it w
 
 I researched and selected different text embedding models for experimentation. The [Hugging Face Model Hub](https://huggingface.co/spaces/mteb/leaderboard) served as a valuable resource for exploring and selecting models.
 
-### 4. Embedding Experimentation
+### 4. Embedding Experimentation [> Implementation](https://github.com/dawit-melka/ICog-Labs/blob/main/Chat%20Bot/Embedding%20Models%20Analysis/semantic_search.ipynb)
 
 I evaluated the chosen embedding models on the preprocessed data. The process involved:
 
